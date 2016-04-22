@@ -1,0 +1,195 @@
+fieldcode	fieldname
+
+statenum	State Number
+casenum	Case Number
+vnumber	Vehicle Number
+pnumber	Person Number
+arrhr	Crash Arrival Hour EMS
+arrmin	Crash Arrival Minute EMS
+arrtime	Crash Arrival Time EMS
+atmcond	Crash Atmospheric Condition (1)
+atmcond2	Crash Atmospheric Condition (2)
+city	Crash City
+county	Crash County
+accdate	Crash Date (mmddyyyy)
+accday	Crash Day
+acchr	Crash Hour
+accmin	Crash Minute
+accmon	Crash Month
+arf1	Crash Related Factor (1)
+arf2	Crash Related Factor (2)
+arf3	Crash Related Factor (3)
+acctime	Crash Time
+caseyear	Crash Year
+dayofweek	Crash Day Of Week
+driverdrowsy	Crash Drowsy Driver
+hosphr	Crash EMS Hour At Hospital
+hospmin	Crash EMS Minute At Hospital
+hosptime	Crash EMS Time At Hospital
+fhevent	Crash First Harmful Event
+holiday	Crash Holiday Related
+heavytruck	Crash Large Truck Related
+latitude	Crash Latitude (Decimal)
+latdeg	Crash Latitude (Degrees)
+latmin	Crash Latitude (Minutes)
+latsec	Crash Latitude (Seconds)
+lightcond	Crash Light Condition
+longitude	Crash Longitude (Decimal)
+londeg	Crash Longitude (Degrees)
+lonmin	Crash Longitude (Minutes)
+lonsec	Crash Longitude (Seconds)
+manncol	Crash Manner of Collision
+milepnt	Crash Milepoint
+nhs	Crash National Highway System
+nothr	Crash Notification Hour EMS
+notmin	Crash Notification Minute EMS
+nottime	Crash Notification Time EMS
+numfatal	Crash Number of Fatalities In Crash
+nmforms	Crash Number of Forms Submitted for Persons Not in Motor Vehicles
+ pforms	Crash Number of Person Forms Submitted
+ vforms	Crash Number of Vehicle Forms Submitted
+rxing	Crash Rail Grade Crossing Identifier
+reljunc	Crash Relation To Junction (Specific Location)
+reljuncinter	Crash Relation To Junction: Within Interchange Area
+relrdwy	Crash Relation to Trafficway
+rfun	Crash Roadway Function Class
+rtesign	Crash Route Signing
+schlbus	Crash School Bus Related
+spejur	Crash Special Jurisdiction
+speeding	Crash Speeding
+trafid1	Crash Traffic Identifier (1)
+trafid2	Crash Traffic Identifier (2)
+intersectiontype	Crash Type of Intersection
+conszone	Crash Work Zone
+age	Occupant Age
+airbag	Occupant Air Bag Deployed
+alcres	Occupant Alcohol Test Result
+alcsts	Occupant Alcohol Test Status
+alctst	Occupant Alcohol Test Type
+restraintmisuse	Occupant Any Indication of Mis-Use of Restraint System or Helmet Use
+deathdate	Occupant Death Date
+dthday	Occupant Death Day
+dthhr	Occupant Death Hour
+dthmin	Occupant Death Minute
+dthmon	Occupant Death Month
+deathtime	Occupant Death Time
+dthyr	Occupant Death Year
+diedscene	Occupant Died at Scene/En Route
+drugres1	Occupant Drug Test Results (1)
+drugres2	Occupant Drug Test Results (2)
+drugres3	Occupant Drug Test Results (3)
+drugsts	Occupant Drug Test Status
+drugtst1	Occupant Drug Test Type (1)
+drugtst2	Occupant Drug Test Type (2)
+drugtst3	Occupant Drug Test Type (3)
+ejection	Occupant Ejection
+ejectpath	Occupant Ejection Path
+extricat	Occupant Extrication
+injurwrk	Occupant Fatal Injury At Work
+hispanic	Occupant Hispanic Origin
+injury	Occupant Injury Severity
+methalc	Occupant Method of Alcohol Determination by Police
+methdrug	Occupant Method of Drug Determination by Police
+prf1	Occupant Person Related Factor (1)
+prf2	Occupant Person Related Factor (2)
+prf3	Occupant Person Related Factor (3)
+ptype	Occupant Person Type
+druginv	Occupant Police Reported Drug Involvement
+alcinvol	Occupant Police-Reported Alcohol Involvement
+race	Occupant Race
+restraint	Occupant Restraint System / Helmet Use
+seatpos	Occupant Seating Position
+sex	Occupant Sex
+lagtime	Occupant Time Between Crash And Death (Hrs)
+takehosp	Occupant Transported to First Medical Facility By
+damagedareas	Vehicle Areas of Impact - Damaged Areas
+inimpact	Vehicle Areas of Impact-Initial
+body	Vehicle Body Type
+bususe	Vehicle Bus Use
+cargo	Vehicle Cargo Body Type
+emerg	Vehicle Emergency Motor Vehicle Use
+deform	Vehicle Extent of Damage
+fire	Vehicle Fire Occurrence
+gvwrating	Vehicle Gross Vehicle Weight Rating (GVWR)/Gross Combination Weight Rating (GCWR)
+hitrun	Vehicle Hit-and-Run
+hazcargo	Vehicle HM1: Hazardous Material Involvement
+hazmat2	Vehicle HM2: Placard
+hazmat3	Vehicle HM3: Hazardous Material Identification Number
+hazmat4	Vehicle HM4: Hazardous Material Class Number
+hazmat5	Vehicle HM5: Release of Hazardous Material from the Cargo Compartment
+jacknife	Vehicle Jackknife
+rolloverloc	Vehicle Location of Rollover
+mhevent	Vehicle Most Harmful Event
+mcinauth	Vehicle Motor Carrier Identification Issuing Authority
+mcinnnum	Vehicle Motor Carrier Identification Number
+vfatcount	Vehicle Number Of Fatalities In Vehicle
+numoccs	Vehicle Number of Occupants
+numpforms	Vehicle Number Of Person Forms In Vehicle
+regowner	Vehicle Registered Vehicle Owner
+regstate	Vehicle Registration State
+rollover	Vehicle Rollover
+spuse	Vehicle Special Use
+travspd	Vehicle Travel Speed
+udovr	Vehicle Underride/Override
+unittype	Vehicle Unit Type
+vconfig	Vehicle Configuration
+vin	Vehicle Identification Number
+make	Vehicle Make
+model	Vehicle Model
+modelyr	Vehicle Model Year
+vrf1	Vehicle Related Factor (1)
+vrf2	Vehicle Related Factor (2)
+leave	Vehicle Removal
+seqevent	Vehicle Sequence of Event
+trailer	Vehicle Trailing
+commlic	Driver Commercial Motor Vehicle License Status
+licendor	Driver Compliance With CDL Endorsements
+licrestrict	Driver Compliance with license Restrictions
+dricondatcrashtime	Driver Condition (Impairment) At Time of Crash
+faccdate	Driver Date Of First Crash; Suspension; Convictions
+laccdate	Driver Date Of Last Crash; Suspension; Convictions
+malcohol	Driver Alcohol Involvement
+feet	Driver Height(Feet)
+inches	Driver Height(Inches)
+drivpres	Driver Presence
+drf1	Driver Related Factor (1)
+drf2	Driver Related Factor (2)
+drf3	Driver Related Factor (3)
+drf4	Driver Related Factor (4)
+weight	Driver Weight
+dzip	Driver Zip Code
+licstate	Driver License State
+liccomp	Driver License Compliance with Class of Vehicle
+faccmon	Driver Month of First Crash - Suspension
+laccmon	Driver Month of Last Crash - Suspension
+noncdl	Driver Non-Cdl License Status
+noncdltype	Driver Non-CDL License Type
+prevdwi	Driver Previous DWI Convictions
+prevoth	Driver Previous Other Harmful Mv Convictions
+prevacc	Driver Previous Recorded Crashes
+prevspd	Driver Previous Recorded Speeding Convictions
+prevsus	Driver Previous Recorded Suspensions And Revocations
+spdrel	Driver Speeding Related
+driviol	Driver Violations Charged
+faccyr	Driver Year of First Crash - Suspension
+laccyr	Driver Year of Last Crash - Suspension
+crshavoid	Precrash Attempted Avoidance Maneuver
+contribcirc	Precrash Contributing Circumstances - Motor Vehicle
+crashtype	Precrash Crash Type
+criticaleventcat	Precrash Critical Event - PreCrash (Category)
+criticalevent	Precrash Critical Event - PreCrash (Event)
+devfunc	Precrash Device Functioning
+dridistract	Precrash Driver Distracted By
+driavoidmanvr	Precrash Driver Maneuvered to Avoid
+drivisobs	Precrash Driver(s) Vision Obscured By
+preimploc	Precrash Pre - Impact Location
+preimpstab	Precrash Pre - Impact Stability
+vehmanvr	Precrash Pre-Event Movement(Prior To Recognition Of Critical Event)
+roadalgn	Precrash Roadway Alignment
+roadprof	Precrash Roadway Grade
+surfcond	Precrash Roadway Surface Condition
+surftype	Precrash Roadway Surface Type
+spdlim	Precrash Speed Limit
+traflane	Precrash Total Lanes in Roadway
+contdev	Precrash Traffic Control Device
+trafflow	Precrash Trafficway Description
