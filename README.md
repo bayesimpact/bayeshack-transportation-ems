@@ -9,9 +9,24 @@ In 2014 there were more than 6 million traffic crashes in the United States, res
 
 Can rich EMS response data coupled with incident state—including weather conditions, road and traffic conditions, and hospital locations—be used to develop a real-time tool for paramedics and dispatchers?
 
+## Datasets
+
+**TODO: This section is in need of cleanup!**
+
+### FARS Traffic Fatalities
+
+- Can be queried from http://www-fars.nhtsa.dot.gov//QueryTool/QuerySection/SelectYear.aspx
+- Or see the full data dump for 2014 (in TSV form) in `/data`
+- See `fars-exploration.ipynb` for brief exploration of the data dump
+
+### NEMSIS (National EMS Information System)
+
+- 4GB data dump from 2014 (in TSV form) available at https://drive.google.com/open?id=0B72-YWd6iouWaU4tTjFrd2FtTk0
+- Coming soon: Makefile to automatically download and extract the data dump.
+
 ## In This Repo
 
-_(under construction)_
+**TODO: Fill in this section!**
 
 ## Resources
 
