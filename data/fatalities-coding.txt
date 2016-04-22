@@ -1,0 +1,7756 @@
+State
+(1)Alabama
+(2)Alaska
+(4)Arizona
+(5)Arkansas
+(6)California
+(8)Colorado
+(9)Connecticut
+(10)Delaware
+(11)District of Columbia
+(12)Florida
+(13)Georgia
+(15)Hawaii
+(16)Idaho
+(17)Illinois
+(18)Indiana
+(19)Iowa
+(20)Kansas
+(21)Kentucky
+(22)Louisiana
+(23)Maine
+(24)Maryland
+(25)Massachusetts
+(26)Michigan
+(27)Minnesota
+(28)Mississippi
+(29)Missouri
+(30)Montana
+(31)Nebraska
+(32)Nevada
+(33)New Hampshire
+(34)New Jersey
+(35)New Mexico
+(36)New York
+(37)North Carolina
+(38)North Dakota
+(39)Ohio
+(40)Oklahoma
+(41)Oregon
+(42)Pennsylvania
+(44)Rhode Island
+(45)South Carolina
+(46)South Dakota
+(47)Tennessee
+(48)Texas
+(49)Utah
+(50)Vermont
+(51)Virginia
+(53)Washington
+(54)West Virginia
+(55)Wisconsin
+(56)Wyoming
+
+Arrival Hour EMS
+(-1)Blank
+(0)0:00am-0:59am
+(1)1:00am-1:59am
+(2)2:00am-2:59am
+(3)3:00am-3:59am
+(4)4:00am-4:59am
+(5)5:00am-5:59am
+(6)6:00am-6:59am
+(7)7:00am-7:59am
+(8)8:00am-8:59am
+(9)9:00am-9:59am
+(10)10:00am-10:59am
+(11)11:00am-11:59am
+(12)12:00pm-12:59pm
+(13)1:00pm-1:59pm
+(14)2:00pm-2:59pm
+(15)3:00pm-3:59pm
+(16)4:00pm-4:59pm
+(17)5:00pm-5:59pm
+(18)6:00pm-6:59pm
+(19)7:00pm-7:59pm
+(20)8:00pm-8:59pm
+(21)9:00pm-9:59pm
+(22)10:00pm-10:59pm
+(23)11:00pm-11:59pm
+(88)Not Applicable
+(99)Unknown EMS Scene Arrival Hour
+
+Atmospheric Condition 
+(1)
+(-1)Blank
+(0)No Additional Atmospheric Conditions
+(1)Clear
+(2)Rain
+(3)Sleet or Hail
+(4)Snow
+(5)Fog, Smog, Smoke
+(6)Severe Crosswinds
+(7)Blowing Sand, Soil, Dirt
+(8)Other
+(10)Cloudy
+(11)Blowing Snow
+(12)Freezing Rain or Drizzle
+(98)Not Reported
+(99)Unknown
+
+Atmospheric Condition 
+(2)
+(-1)Blank
+(0)No Additional Atmospheric Conditions
+(1)Clear
+(2)Rain
+(3)Sleet or Hail
+(4)Snow
+(5)Fog, Smog, Smoke
+(6)Severe Crosswinds
+(7)Blowing Sand, Soil, Dirt
+(8)Other
+(10)Cloudy
+(11)Blowing Snow
+(12)Freezing Rain or Drizzle
+(98)Not Reported
+(99)Unknown
+
+Crash Hour
+(0)0:00am-0:59am
+(1)1:00am-1:59am
+(2)2:00am-2:59am
+(3)3:00am-3:59am
+(4)4:00am-4:59am
+(5)5:00am-5:59am
+(6)6:00am-6:59am
+(7)7:00am-7:59am
+(8)8:00am-8:59am
+(9)9:00am-9:59am
+(10)10:00am-10:59am
+(11)11:00am-11:59am
+(12)12:00pm-12:59pm
+(13)1:00pm-1:59pm
+(14)2:00pm-2:59pm
+(15)3:00pm-3:59pm
+(16)4:00pm-4:59pm
+(17)5:00pm-5:59pm
+(18)6:00pm-6:59pm
+(19)7:00pm-7:59pm
+(20)8:00pm-8:59pm
+(21)9:00pm-9:59pm
+(22)10:00pm-10:59pm
+(23)11:00pm-11:59pm
+(99)Unknown Hours
+
+Crash Month
+(-1)Blank
+(1)January
+(2)February
+(3)March
+(4)April
+(5)May
+(6)June
+(7)July
+(8)August
+(9)September
+(10)October
+(11)November
+(12)December
+
+Crash Related Factor 
+(1)
+(-1)Blank
+(0)None
+(1)Inadequate Warning of Exits, Lanes Narrowing, Traffic Controls, etc.
+(2)Shoulder Design or Condition
+(3)Other Maintenance or Construction-Created Condition
+(4)No or Obscured Pavement Marking
+(5)Surface Under Water
+(6)Inadequate Construction or Poor Design of Roadway,Bridge, etc.
+(7)Surface Washed Out
+(caved-in, road slippage)
+(13)Aggressive Driving / Road Rage by Non-contact Vehicle Driver
+(14)Motor Vehicle struck by 
+alling cargo,or something that came loose from or something that was set in motion by a vehicle
+(15)Non-occupant struck by 
+alling cargo, or something that came loose from, or something that was set in motion by a vehicle
+(16)Non-occupant struck vehicle
+(17)Vehicle set-in-motion by non-driver
+(18)Date of Crash and Date of EMS Notification were not the same day
+(19)Recent/Previous Crash scene Nearby
+(20)Police Pursuit Involved
+(21)Within Designated School Zone
+(22)Speed Limit is a Statutory Limit as Recorded or was determined as this state's 'basic rule'
+(23)Indication of a S
+alled/Disabled Vehicle
+(24)Unstabalized Situation Began and
+All Harmful Events Occurred Off of the Roadway
+(25)Toll Booth/Plaza Related
+(26)Backup Due to Prior Non-Recurring Incident
+(27)Backup Due to Prior Crash
+(28)Backup Due to Regular Congestion
+(99)Unknown
+
+Crash Related Factor 
+(2)
+(-1)Blank
+(0)None
+(1)Inadequate Warning of Exits, Lanes Narrowing, Traffic Controls, etc.
+(2)Shoulder Design or Condition
+(3)Other Maintenance or Construction-Created Condition
+(4)No or Obscured Pavement Marking
+(5)Surface Under Water
+(6)Inadequate Construction or Poor Design of Roadway,Bridge, etc.
+(7)Surface Washed Out
+(caved-in, road slippage)
+(13)Aggressive Driving / Road Rage by Non-contact Vehicle Driver
+(14)Motor Vehicle struck by 
+alling cargo,or something that came loose from or something that was set in motion by a vehicle
+(15)Non-occupant struck by 
+alling cargo, or something that came loose from, or something that was set in motion by a vehicle
+(16)Non-occupant struck vehicle
+(17)Vehicle set-in-motion by non-driver
+(18)Date of Crash and Date of EMS Notification were not the same day
+(19)Recent/Previous Crash scene Nearby
+(20)Police Pursuit Involved
+(21)Within Designated School Zone
+(22)Speed Limit is a Statutory Limit as Recorded or was determined as this state's 'basic rule'
+(23)Indication of a S
+alled/Disabled Vehicle
+(24)Unstabalized Situation Began and
+All Harmful Events Occurred Off of the Roadway
+(25)Toll Booth/Plaza Related
+(26)Backup Due to Prior Non-Recurring Incident
+(27)Backup Due to Prior Crash
+(28)Backup Due to Regular Congestion
+(99)Unknown
+
+Crash Related Factor 
+(3)
+(-1)Blank
+(0)None
+(1)Inadequate Warning of Exits, Lanes Narrowing, Traffic Controls, etc.
+(2)Shoulder Design or Condition
+(3)Other Maintenance or Construction-Created Condition
+(4)No or Obscured Pavement Marking
+(5)Surface Under Water
+(6)Inadequate Construction or Poor Design of Roadway,Bridge, etc.
+(7)Surface Washed Out
+(caved-in, road slippage)
+(13)Aggressive Driving / Road Rage by Non-contact Vehicle Driver
+(14)Motor Vehicle struck by 
+alling cargo,or something that came loose from or something that was set in motion by a vehicle
+(15)Non-occupant struck by 
+alling cargo, or something that came loose from, or something that was set in motion by a vehicle
+(16)Non-occupant struck vehicle
+(17)Vehicle set-in-motion by non-driver
+(18)Date of Crash and Date of EMS Notification were not the same day
+(19)Recent/Previous Crash scene Nearby
+(20)Police Pursuit Involved
+(21)Within Designated School Zone
+(22)Speed Limit is a Statutory Limit as Recorded or was determined as this state's 'basic rule'
+(23)Indication of a S
+alled/Disabled Vehicle
+(24)Unstabalized Situation Began and
+All Harmful Events Occurred Off of the Roadway
+(25)Toll Booth/Plaza Related
+(26)Backup Due to Prior Non-Recurring Incident
+(27)Backup Due to Prior Crash
+(28)Backup Due to Regular Congestion
+(99)Unknown
+
+Day Of Week
+(-1)Blank
+(1)Sunday
+(2)Monday
+(3)Tuesday
+(4)Wednesday
+(5)Thursday
+(6)Friday
+(7)Saturday
+(9)Unknown
+
+Drowsy Driver
+(-1)Blank
+(0)Not Drowsy
+(1)Drowsy
+
+EMS Hour At Hospital
+(-1)Blank
+(0)0:00am-0:59am
+(1)1:00am-1:59am
+(2)2:00am-2:59am
+(3)3:00am-3:59am
+(4)4:00am-4:59am
+(5)5:00am-5:59am
+(6)6:00am-6:59am
+(7)7:00am-7:59am
+(8)8:00am-8:59am
+(9)9:00am-9:59am
+(10)10:00am-10:59am
+(11)11:00am-11:59am
+(12)12:00pm-12:59pm
+(13)1:00pm-1:59pm
+(14)2:00pm-2:59pm
+(15)3:00pm-3:59pm
+(16)4:00pm-4:59pm
+(17)5:00pm-5:59pm
+(18)6:00pm-6:59pm
+(19)7:00pm-7:59pm
+(20)8:00pm-8:59pm
+(21)9:00pm-9:59pm
+(22)10:00pm-10:59pm
+(23)11:00pm-11:59pm
+(88)Not Applicable 
+(Not Transported)
+(99)Unknown
+ally Canceled
+(98)Unknown if Transported
+(99)Unknown EMS Hospital Arrival Time
+
+First Harmful Event
+(1)Rollover/Overturn
+(2)Fire/Explosion
+(3)Immersion or Partial Immersion
+(4)Gas Inhalation
+(5)Fell/Jumped from Vehicle
+(6)Injured In Vehicle 
+(Non-Collision)
+(7)Other Non-Collision
+(8)Pedestrian
+(9)Pedalcyclist
+(10)Railway Vehicle
+(11)Live Animal
+(12)Motor Vehicle In-Transport
+(14)Parked Motor Vehicle
+(15)Non-Motorist on Personal Conveyance
+(16)Thrown or 
+alling Object
+(17)Boulder
+(18)Other Object 
+(not fixed)
+(19)Building
+(20)Impact Attenuator/Crash Cushion
+(21)Bridge Pier or Support
+(23)Bridge Rail 
+(Includes parapet)
+(24)Guardrail Face
+(25)Concrete Traffic Barrier
+(26)Other Traffic Barrier
+(30)Utility Pole/Light Support
+(31)Other Post, Other Pole or Other Supports
+(32)Culvert
+(33)Curb
+(34)Ditch
+(35)Embankment
+(38)Fence
+(39)
+(40)Fire Hydrant
+(41)Shrubbery
+(42)Tree 
+(Standing Only)
+(43)Other Fixed Object
+(44)Pavement Surface Irregularity 
+(Ruts, Potholes, Grates, etc.)
+(45)Working Motor Vehicle
+(46)Traffic Signal Support
+(48)Snow Bank
+(49)Ridden Animal or Animal Drawn Conveyance
+(50)Bridge Overhead Structure
+(51)Jackknife 
+(harmful to this vehicle)
+(52)Guardrail End
+(53)Mail Box
+(54)Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport
+(55)Motor Vehicle in Motion Outside the Trafficway
+(57)Cable Barrier
+(58)Ground
+(59)Traffic Sign Support
+(72)Cargo/Equipment Loss or Shift 
+(harmful to this vehicle)
+(73)Object Fell From Motor Vehicle In-Transport
+(99)Unknown
+
+Holiday Related
+(-1)Unknown Date or Time
+(1)New Year's Day 
+(January)
+(2)Martin Luther King's Birthday
+(3)President's Day
+(4)Memorial Day
+(5)Independence Day
+(6)Labor Day
+(7)Columbus Day
+(8)Thanksgiving
+(9)Christmas
+(10)New Year's Eve 
+(December)
+
+Large Truck Related
+(-1)Blank
+(0)Not Heavy Truck Related
+(1)Heavy Truck Related
+
+Light Condition
+(-1)Blank
+(1)Daylight
+(2)Dark - Not Lighted
+(3)Dark - Lighted
+(4)Dawn
+(5)Dusk
+(6)Dark - Unknown Lighting
+(7)Other
+(8)Not Reported
+(9)Unknown
+
+Manner of Collision
+(-1)Blank
+(0)Not a Collision with Motor Vehicle In-Transport
+(1)Front-to-Rear
+(2)Front-to-Front
+(6)Angle
+(7)Sideswipe - Same Direction
+(8)Sideswipe - Opposite Direction
+(9)Rear-to-Side
+(10)Rear-to-Rear
+(11)Other
+(98)Not Reported
+(99)Unknown
+
+National Highway System
+(-1)Blank
+(0)This section IS NOT on the NHS
+(1)This section IS ON the NHS
+(9)Unknown if this section is on the NHS
+
+Notification Hour EMS
+(-1)Blank
+(0)0:00am-0:59am
+(1)1:00am-1:59am
+(2)2:00am-2:59am
+(3)3:00am-3:59am
+(4)4:00am-4:59am
+(5)5:00am-5:59am
+(6)6:00am-6:59am
+(7)7:00am-7:59am
+(8)8:00am-8:59am
+(9)9:00am-9:59am
+(10)10:00am-10:59am
+(11)11:00am-11:59am
+(12)12:00pm-12:59pm
+(13)1:00pm-1:59pm
+(14)2:00pm-2:59pm
+(15)3:00pm-3:59pm
+(16)4:00pm-4:59pm
+(17)5:00pm-5:59pm
+(18)6:00pm-6:59pm
+(19)7:00pm-7:59pm
+(20)8:00pm-8:59pm
+(21)9:00pm-9:59pm
+(22)10:00pm-10:59pm
+(23)11:00pm-11:59pm
+(88)Not Applicable 
+(Not Notified)
+(99)Unknown
+
+Relation To Junction 
+(Specific Location)
+(-1)Blank
+(1)Non-Junction
+(2)Intersection
+(3)Intersection-Related
+(4)Driveway Access
+(5)Entrance/Exit Ramp Related
+(6)Railway Grade Crossing
+(7)Crossover-Related
+(8)Driveway Access Related
+(16)Shared-Use Path Crossing
+(17)Acceleration/Deceleration Lane
+(18)Through Roadway
+(19)Other location within Interchange Area
+(20)Entrance/Exit Ramp
+(98)Not Reported
+(99)Unknown
+
+Relation To Junction: Within Interchange Area
+(0)No
+(1)Yes
+(8)Not Reported
+(9)Unknown
+
+Relation to Trafficway
+(-1)Blank
+(1)On Roadway
+(2)On Shoulder
+(3)On Median
+(4)On Roadside
+(5)Outside Trafficway
+(6)Off Roadway-Location Unknown
+(7)In Parking Lane/Zone
+(8)Gore
+(10)Separator
+(11)Continous Left - Turn Lane
+(98)Not Reported
+(99)Unknown
+
+Roadway Function Class
+(-1)Blank
+(1)Rural-Principal Arterial-Interstate
+(2)Rural-Principal Arterial-Other
+(3)Rural-Minor Arterial
+(4)Rural-Major Collector
+(5)Rural-Minor Collector
+(6)Rural-Local Road or Street
+(9)Rural-Unknown Rural
+(11)Urban-Principal Arterial-Interstate
+(12)Urban-Principal Arterial-Other Freeways or Expressways
+(13)Urban-Other Principal Arterial
+(14)Urban-Minor Arterial
+(15)Urban-Collector
+(16)Urban-Local Road or Street
+(19)Urban-Unknown Urban
+(99)Unknown
+
+Route Signing
+(-1)Blank
+(1)Interstate
+(2)U.S. Highway
+(3)State Highway
+(4)County Road
+(5)Local Street - Township
+(6)Local Street - Municipality
+(7)Local Street - Frontage Road
+(8)Other
+(9)Unknown
+
+School Bus Related
+(-1)Blank
+(0)No
+(1)Yes
+
+Special Jurisdiction
+(-1)Blank
+(0)No Special Jurisdiction
+(1)National Park Service
+(2)Military
+(3)Indian Reservation
+(4)College/University Campus*
+(5)Other Federal Properties*
+(8)Other
+(9)Unknown
+
+Speeding
+(-1)Blank
+(0)Not Speeding
+(1)Speeding
+
+Type of Intersection
+(1)Not an Intersection
+(2)Four-Way Intersection
+(3)T-Intersection
+(4)Y-Intersection
+(5)Traffic Circle
+(6)Roundabout
+(7)Five Point, or More
+(10)L-Intersection
+(98)Not Reported
+(99)Unknown
+
+Work Zone
+(-1)Blank
+(0)None
+(1)Construction
+(2)Maintenance
+(3)Utility
+(4)Work Zone, Type Unknown
+
+Age
+(-1)Blank
+(0)Less than One Year
+(1)1 Year
+(2)2 Years
+(3)3 Years
+(4)4 Years
+(5)5 Years
+(6)6 Years
+(7)7 Years
+(8)8 Years
+(9)9 Years
+(10)10 Years
+(11)11 Years
+(12)12 Years
+(13)13 Years
+(14)14 Years
+(15)15 Years
+(16)16 Years
+(17)17 Years
+(18)18 Years
+(19)19 Years
+(20)20 Years
+(21)21 Years
+(22)22 Years
+(23)23 Years
+(24)24 Years
+(25)25 Years
+(26)26 Years
+(27)27 Years
+(28)28 Years
+(29)29 Years
+(30)30 Years
+(31)31 Years
+(32)32 Years
+(33)33 Years
+(34)34 Years
+(35)35 Years
+(36)36 Years
+(37)37 Years
+(38)38 Years
+(39)39 Years
+(40)40 Years
+(41)41 Years
+(42)42 Years
+(43)43 Years
+(44)44 Years
+(45)45 Years
+(46)46 Years
+(47)47 Years
+(48)48 Years
+(49)49 Years
+(50)50 Years
+(51)51 Years
+(52)52 Years
+(53)53 Years
+(54)54 Years
+(55)55 Years
+(56)56 Years
+(57)57 Years
+(58)58 Years
+(59)59 Years
+(60)60 Years
+(61)61 Years
+(62)62 Years
+(63)63 Years
+(64)64 Years
+(65)65 Years
+(66)66 Years
+(67)67 Years
+(68)68 Years
+(69)69 Years
+(70)70 Years
+(71)71 Years
+(72)72 Years
+(73)73 Years
+(74)74 Years
+(75)75 Years
+(76)76 Years
+(77)77 Years
+(78)78 Years
+(79)79 Years
+(80)80 Years
+(81)81 Years
+(82)82 Years
+(83)83 Years
+(84)84 Years
+(85)85 Years
+(86)86 Years
+(87)87 Years
+(88)88 Years
+(89)89 Years
+(90)90 Years
+(91)91 Years
+(92)92 Years
+(93)93 Years
+(94)94 Years
+(95)95 Years
+(96)96 Years
+(97)97 Years
+(98)98 Years
+(99)99 Years
+(100)100 Years
+(101)101 Years
+(102)102 Years
+(103)103 Years
+(104)104 Years
+(105)105 Years
+(106)106 Years
+(107)107 Years
+(108)108 Years
+(109)109 Years
+(110)110 Years
+(111)111 Years
+(112)112 Years
+(113)113 Years
+(114)114 Years
+(115)115 Years
+(116)116 Years
+(117)117 Years
+(118)118 Years
+(119)119 Years
+(120)120 Years
+(998)Not Reported
+(999)Unknown
+
+Air Bag Deployed
+(-1)Blank
+(0)Not Applicable
+(1)Deployed- Front
+(2)Deployed- Side 
+(door, seatback)
+(3)Deployed- Curtain 
+(roof)
+(7)Deployed- Other 
+(Knee, air belt, etc.)
+(8)Deployed- Combination
+(9)Deployment- Unknown Location
+(20)Not Deployed
+(28)Switched Off
+(98)Not Reported
+(99)Deployment Unknown
+
+Alcohol Test Result
+(-1)Blank
+(0)0.00 % BAC
+(1)0.01 % BAC
+(2)0.02 % BAC
+(3)0.03 % BAC
+(4)0.04 % BAC
+(5)0.05 % BAC
+(6)0.06 % BAC
+(7)0.07 % BAC
+(8)0.08 % BAC
+(9)0.09 % BAC
+(10)0.10 % BAC
+(11)0.11 % BAC
+(12)0.12 % BAC
+(13)0.13 % BAC
+(14)0.14 % BAC
+(15)0.15 % BAC
+(16)0.16 % BAC
+(17)0.17 % BAC
+(18)0.18 % BAC
+(19)0.19 % BAC
+(20)0.20 % BAC
+(21)0.21 % BAC
+(22)0.22 % BAC
+(23)0.23 % BAC
+(24)0.24 % BAC
+(25)0.25 % BAC
+(26)0.26 % BAC
+(27)0.27 % BAC
+(28)0.28 % BAC
+(29)0.29 % BAC
+(30)0.30 % BAC
+(31)0.31 % BAC
+(32)0.32 % BAC
+(33)0.33 % BAC
+(34)0.34 % BAC
+(35)0.35 % BAC
+(36)0.36 % BAC
+(37)0.37 % BAC
+(38)0.38 % BAC
+(39)0.39 % BAC
+(40)0.40 % BAC
+(41)0.41 % BAC
+(42)0.42 % BAC
+(43)0.43 % BAC
+(44)0.44 % BAC
+(45)0.45 % BAC
+(46)0.46 % BAC
+(47)0.47 % BAC
+(48)0.48 % BAC
+(49)0.49 % BAC
+(50)0.50 % BAC
+(51)0.51 % BAC
+(52)0.52 % BAC
+(53)0.53 % BAC
+(54)0.54 % BAC
+(55)0.55 % BAC
+(56)0.56 % BAC
+(57)0.57 % BAC
+(58)0.58 % BAC
+(59)0.59 % BAC
+(60)0.60 % BAC
+(61)0.61 % BAC
+(62)0.62 % BAC
+(63)0.63 % BAC
+(64)0.64 % BAC
+(65)0.65 % BAC
+(66)0.66 % BAC
+(67)0.67 % BAC
+(68)0.68 % BAC
+(69)0.69 % BAC
+(70)0.70 % BAC
+(71)0.71 % BAC
+(72)0.72 % BAC
+(73)0.73 % BAC
+(74)0.74 % BAC
+(75)0.75 % BAC
+(76)0.76 % BAC
+(77)0.77 % BAC
+(78)0.78 % BAC
+(79)0.79 % BAC
+(80)0.80 % BAC
+(81)0.81 % BAC
+(82)0.82 % BAC
+(83)0.83 % BAC
+(84)0.84 % BAC
+(85)0.85 % BAC
+(86)0.86 % BAC
+(87)0.87 % BAC
+(88)0.88 % BAC
+(89)0.89 % BAC
+(90)0.90 % BAC
+(91)0.91 % BAC
+(92)0.92 % BAC
+(93)0.93 % BAC
+(94)0.94 % or Greater
+(95)Not Reported
+(96)Test Not Given
+(97)AC Test Performed,Results Unknown
+(98)Positive Reading With No Actual Value
+(99)Unknown if tested
+
+Alcohol Test Status
+(-1)Blank
+(0)Test Not Given
+(1)Test Refused
+(2)Test Given
+(8)Not Reported
+(9)UnKnown if Tested
+
+Alcohol Test Type
+(-1)Blank
+(0)Test Not Given
+(1)Blood
+(2)Breathalyzer "BAC"
+(3)Urine
+(4)Vitreous
+(5)Blood Plasma/Serum
+(6)Blood Clot
+(7)Liver
+(8)Other Test Type
+(10)Preliminary Breath Test 
+(PBT)
+(95)Not Reported
+(98)Unknown Test Type
+(99)Unknown if Tested
+
+Any Indication of Mis-Use of Restraint System or Helmet Use
+(0)No
+(1)Yes
+
+Death Hour
+(-1)Blank
+(0)0:00-0:59
+(1)1:00-1:59
+(2)2:00-2:59
+(3)3:00-3:59
+(4)4:00-4:59
+(5)5:00-5:59
+(6)6:00-6:59
+(7)7:00-7:59
+(8)8:00-8:59
+(9)9:00-9:59
+(10)10:00-10:59
+(11)11:00-11:59
+(12)12:00-12:59
+(13)13:00-13:59
+(14)14:00-14:59
+(15)15:00-15:59
+(16)16:00-16:59
+(17)17:00-17:59
+(18)18:00-18:59
+(19)19:00-19:59
+(20)20:00-20:59
+(21)21:00-21:59
+(22)22:00-22:59
+(23)23:00-23:59
+(88)Not Applicable 
+(Non-fatal)
+(99)Unknown
+
+Death Month
+(-1)Blank
+(1)January
+(2)February
+(3)March
+(4)April
+(5)May
+(6)June
+(7)July
+(8)August
+(9)September
+(10)October
+(11)November
+(12)December
+(88)Not Applicable 
+(Non-Fatal)
+(99)Unknown
+
+Death Year
+(-1)Blank
+(2014)2014
+(8888)Not Applicable 
+(Non-fatal)
+(9999)Unknown
+
+Died at Scene/En Route
+(-1)Blank
+(0)Not Applicable
+(7)Died at Scene
+(8)Died En Route
+(9)Unknown
+
+Drug Test Results 
+(1)
+(-1)Blank
+(0)Test Not Given
+(1)Tested, No Drugs Found/Negative
+(95)Not Reported
+(100)Acetaminophen + Codeine
+(101)Acetorphine
+(102)Acetyl-alpha-methylfentanyl
+(103)Acetyldihydrocodeine
+(104)ACETYLMETHADOL
+(105)Alfentanil
+(106
+Allylprodine
+(107)Alpha-methylfentanyl
+(108)Alphamethythiofentanyl
+(109)Alpha-meprodine
+(110)Alphamethadol
+(111)ALPHAPRODINE
+(112)ANILERIDINE
+(113)APC + CODEINE
+(114)ASPRIN + CODEINE
+(115)Benzethidine
+(117)Benzylmorphine
+(118)Beta-hydroxyfentanyl
+(119)Betacetylmethadol
+(120)Beta-meprodine
+(121)Betamethadol
+(122)Betaprodine
+(123)Bezitramide
+(124)Buprenorphine
+(125)Carfentanil
+(126)Clonitazene
+(127)Codeine methylbromide
+(128)CODEINE
+(129)Cyprenorphine
+(130)Desomorphine
+(131)Dextromoramide
+(133)Diampromide
+(134)Diethylthiambutene
+(135)Difenoxin
+(136)DIHYDROCODEINE
+(137)Dihydromorphine
+(138)Dimenoxadol
+(139)Dimepheptanol 
+(Racemethadol)
+(140)Dimethylthiambutene
+(141)Dioxaphetyl Butyrate
+(142)Diphenoxylate
+(143)Dipipanone
+(144)Drotebanol
+(145)DIPRENORPHINE HYDROCLHORIDE
+(146)Ethylmethylthiambutene
+(147)ETHYLMORPHINE
+(148)Etonitazene
+(149)ETORPHINE
+(150)Extoxeridine
+(151)FENTANYL
+(152)FIORINAL + CODEINE
+(153)Furethidine
+(154)HEROIN
+(155)HYDROCODONE
+(156)Hydromorphinol
+(157)HYDROMORPHONE
+(158)Hydroxypethidine
+(159)Isomethadone
+(160)Ketobemidone
+(161)Levomoramide
+(162)Levophenacylmorphan
+(163)Levormethorphan
+(164)LEVORPHANOL TARTRATE
+(165)MEPERIDINE 
+(Pethidine)
+(166)Metazocine
+(167)METHADONE
+(168)Methyldesorphine
+(169)Methyldihydromorphine
+(170)Methylfentanyl
+(171)Methylphenylpropionoxypiperidine 
+(MPPP)
+(172)Metopon
+(173)Moramide
+(174)Morpheridine
+(175)Morphine methylsulfonate
+(176)Morphine methylbromide
+(177)MORPHINE
+(178)Myrophine
+(179)NALORPHINE
+(180)Nicocodeine
+(181)Nicomorphine
+(182)Noracymethadol
+(183)Norlevorphanol
+(184)Normethadone
+(185)Normorphine
+(186)Norpipanone
+(187)OPIUM
+(188)OXMORPHONE
+(189)OXYCODONE
+(190)Parafluorofentanyl
+(191)PAREGORIC
+(192)PAREPECTOLIN
+(193)PENTAZOCINE
+(194)PETHIDINE 
+(Meperidne)
+(195)Phenadoxone
+(196)Phenampromide
+(197)Phenanthrine
+(198)Phenazocine
+(199)Phenomorphan
+(200)Phenoperidine
+(201)Phenylacetyloxypiperidine 
+(PEPAP)
+(202)Pholcodine
+(203)Piminodine
+(204)Piritramide
+(205)Proheptazine
+(206)Properidine
+(207)Propiram
+(208)PROPOXYPHENE
+(209)Racemethorphan
+(210)Racemoramide
+(211)Racemorphan
+(212)Sulfentanil
+(213)Thebacon
+(214)Thebaine
+(215)Thiofentanyl
+(216)Tilidine
+(217)Trimeperidine
+(218)Butorphanol
+(220)Alphacetylmethandol
+(221)Beta-Hydroxy-3-methylfentanyl
+(222)Codeine & isoquinoline
+(223)Codeine-N-oxide
+(224)Dextropropoxyphene
+(225)Difenenoxin
+(226)Dihyroetrophine
+(227)Diprenorphine
+(228)Levo-alphacetylmethado
+(229)Levorphanol
+(230)Methylthiofentanyl
+(231)Morphine-N-oxide
+(232)Opium extract
+(233)Opium fluid extract
+(234)Opium Poppy
+(235)Opium Tincture
+(236)Phenylethyl-phenyl-acetoxypiperidine
+(237)Poppy Straw
+(238)Poppy Straw Concentrate
+(239)Remifentanil
+(240)Codeine combination product 90 mg/du
+(241)Codeine preparations – 200 mg/100 ml or 100 gm
+(242)Difenoxin 1 mg/25ug AtSO4/du
+(243)Difenoxin preparations – 0.5 mg/25 ug AtSO4/du
+(244)Dihydrocodeine combination product 90 mg/du
+(245)Dihydrocodeine preparations 10 mg/100 ml or 100 gm
+(246)Diphenoxylate preparations 2.5 mg/25 ug AtSO4
+(247)Ethylmorphine combination product 15 mg/du
+(248)Ethylmorphine preparations 100 mg/100 ml or 100 gm
+(249)Hydrocodone & isoquinoline alkaloid<15 mg/du
+(250)Hydrocodone combination product<15 mg/du
+(251)Meperidine intermediate-A
+(252)Meperidine intermediate-B
+(253)Meperidine intermediate-C
+(254)Methadone intermediate
+(255)Morphine combination product/50 mg/100 ml or gm
+(256)Opium combination product 25 mg/du
+(257)Opium preparations – 100 mg/100 ml or/100 gm
+(258)Opium, granulated
+(259)Opium, powdered
+(260)Oripavine
+(295)"Narcotics, Type Unknown"
+(300)ALPRAZOLAM
+(301)AMOBARBITAL
+(302)BARBITOL
+(303)BARBITURATES
+(304)BENZODIAZEPINES
+(305)Benzylfentanyl
+(306)Bromazepam
+(307)BUTABARBITAL
+(308)Butalbitol
+(309)Camazepam
+(310)CARBAMATE
+(311)Chloral betaine
+(312)CHLORALHYDRATE
+(313)CHLORDIAZEPROXIDE
+(314)Chlorhexadol
+(315)Clobazam
+(316)Clonazepam
+(317)CLORAZEPATE DIPOTASSIUM
+(318)Clotiazepam
+(319)Cloxazolam
+(320)Delorazepam
+(321)DIAZEPAM
+(322)Estazolam
+(323)ETHCHLORVYNOL
+(324)Ethinamate
+(325)Ethyl Ioflazepate
+(326)Fiorinol
+(327)Fludiazepam
+(328)Flunitrazepam
+(329)FLURAZEPAM HYDROCHLORIDE
+(330)GLUTETHIMIDE
+(331)HALAZEPAM
+(332)Haloxazolam
+(333)HEXOBARBITAL
+(334)HYDROXZINE
+(335)Ketazolam
+(336)Loprazolam
+(337)LORAZEPAM
+(338)Lormetazepam
+(339)Mebutamate
+(340)Mecloqualone
+(341)Medazepam
+(342)MEPHOBARBITAL 
+(Methylphenobarbital)
+(343)MEPROBAMATE
+(344)METHAQUALONE
+(345)METHARBITAL
+(346)Methohexital
+(347)METHYPRYLON
+(348)Midazolam
+(349)Nimetazepam
+(350)Nitrazepam
+(351)Nordiazepam
+(352)OXAZEPAM
+(353)Oxazolam
+(354)Paraldehyde
+(355)PENTOBARBITAL
+(356)Petrichloral
+(357)Phencyclohexylamine
+(358)PHENOBARBITAL
+(359)Pinazepam
+(360)PRAZEPAM
+(361)Quazepam
+(362)SECOBARBITAL
+(363)Sulfondiethylmethane
+(364)Sulfonethylmethane
+(365)Sulfonmethane
+(366)TALBUTAL
+(367)TEMAZEPAM
+(368)Tetrazepam
+(369)Thenylfentanyl
+(370)Thiamylal
+(371)Thiopental 
+(Pentothal)
+(372)Tiletamine
+(373)TRAIZOLAM
+(374)TYBAMATE
+(375)Zolazepam 
+(Telazol)
+(376)Carisoprodol
+(377)Gamma Hydroxybutryate 
+(GHB)
+(378)Amobarbital & non-controlled active ingred.
+(379)Aprobarbital
+(380)Barbituric Acid Derivative
+(382)Clorazepate
+(383)Dexfenfluramine
+(384)Flurazepam
+(385)Sibutramine
+(386)Zaleplon
+(387)Zolpidem
+(388)Amobarbital suppository dosage form
+(389)Butobarbital 
+(butethal)
+(390)Embutramide
+(391)Gamma Hydroxybutyric Acid preparations
+(393)Pentobarbital & noncontrolled active ingred.
+(394)Pentobarbital suppository dosage form
+(395)"Depressants, Type Unknown"
+(396)Pregabalin
+(397)Secobarbital & noncontrolled active ingred.
+(398)Secobarbital suppository dosage form
+(399)Zopiclone
+(400)AMPHETAMINE SULFATE
+(401)AMPHETAMINE
+(402)BENZOYLECGONINE
+(403)BENZPHETAMINE
+(404)Cathine 
+(Norpseudoephedrine)
+(405)Chlorphentermine
+(406)Clortermine
+(407)COCAINE
+(408)DEXTROAMPHETAMINE
+(409)DIETHYLPROPION
+(410)Ecgonine
+(411)Fencamfamin
+(412)FENETHYLLINE
+(413)Fenfluramine
+(414)Fenproporex
+(415)MAZINDOL
+(416)Menfenorex
+(417)METHAMPHETAMINE
+(418)METHYLPHENIDATE
+(419)Nethylamphetamine
+(420)PEMOLINE
+(421)PHENDIMETRAZINE
+(422)PHENMETRAZINE
+(423)PHENTERMINE
+(424)Pipradrol
+(425)Propylhexedrine
+(426)Pyrovalerone
+(427)SPA
+(428)Aminorex
+(429)Cathinone
+(430)Coca Leaves
+(431)Dicholoralphenazone
+(432)Methcathinone
+(433)Modafinil
+(434)Vinbarbital
+(435)Methylone
+(436)Lisdexamfetamine
+(437)Methoxy-Methylenedioxyamphetamine
+(438)N, N-Dimethylamphetamine
+(439)N-Benzylpiperazine
+(440)Stimulant compounds previously excepted
+(495)"Stimulants, Type Unknown"
+(500)AMPHETAMINE VARIANTS
+(501)BUFOTENINE
+(503)Diethyltryptamine 
+(DET)
+(504)Dimethoxyamphetamine 
+(DOM)
+(505)Dimethyltryptamine
+(DMT)
+(506)DMA
+(507)Dronabinol
+(508)Ethyl-pipirdylbenzilate
+(509)IBOGAINE
+(510)LSD
+(511)LYSERGIC ACID
+(512)MESCALINE
+(513)Methylenedioxymethamphetamine 
+(MDMA)
+(514)Methoxyamphetamine 
+(PMA)
+(515)Methylenedioxyamphetamine 
+(MDA)
+(516)Nabilone
+(517)PEYOTE
+(518)Phenylacetone 
+(P2P)
+(519)PSILOCYBIN
+(520)PSILOCYN
+(521)Trimethoxy amphetamine
+(522)Ketamine
+(523)Alpha_Ethyltryptamine
+(524)Bromo-dimethoxyamphetamine
+(525)Bromo-dimethoxyphenethylamine
+(527)Lysergic Acid Amide
+(528)Lysergic Acid Diethylamide
+(529)Methylaminorex
+(530)Methyl-dimethoxyamphetamine
+(531)Methylenedioxy-N-ethylamphetamine
+(532)Dimethylamphetamine
+(533)Ethyl-phenylcyclohexylamine
+(534)Alpha-methyltryptamine
+(535)Dimethoxyethylamphetamine
+(536)Dimethoxy-
+(n)-propylthiophenethylamine
+(537)Methoxy-NN-diisopropyltryptamine
+(538)N-Hydroxymethylenedioxy-amphetamine
+(539)N-Methylpiperidyl benzilate
+(595)"
+allucinogens, Type Unknown"
+(600)DELTA 9
+(601)HASHISH OIL
+(602)HASHISH
+(603)MARIJUANA/Marihuana
+(604)MARINOL
+(605)TETRAHYDROCANNABINOID
+(606)THC
+(695)"Cannabinoid, Type Unknown"
+(700)Ethylamine
+(701)Parahexyl 
+(Synhexyl)
+(702)PHENCYCLIDINE
+(703)PHENCYCLIDINE ANALOGS
+(704)phenylcyclohexylamine
+(705)Piperidinocyclohexane-carbonitrile 
+(PCC)
+(706)"Pyrrolidine 
+(PCPy,PHP,TCPy)"
+(707)Thiophend
+(708)Thienylcyclohexylpiperidine
+(709)Phenylcyclohexyl-Pyrrolidine
+(710)Thienyl Cyclohexyl Pyrrolidine
+(795)"PCP, Type Unknown"
+(800)Boldenone
+(801)Chlorotestosterone
+(802)Chlostebol
+(803)Dehydrochlomethyltestosterone
+(804)Dihydrotesterone
+(805)Drostanolone
+(806)Ethylestrenol
+(807)Fluoxymesterone
+(808)Formebulone 
+(Formebolone)
+(809)Mesterolone
+(810)Methandienone
+(811)Methandranone
+(812)Methandriol
+(813)Methandrostenolone
+(814)Methenolone
+(815)Methyltestosterone
+(816)Mibolerone
+(817)Nandrolone
+(818)Norethandrolone
+(819)Oxandrolone
+(820)Oxymesterone
+(821)Oxymetholone
+(822)Stanolone
+(823)Stanozolol
+(824)Testolactone
+(825)Testosterone
+(826)Trenbolone
+(827)Clostebol
+(828)Alpha, Beta-dihydroxy-alpha-androstane
+(829)Alpha-methyl-alpha-beta-dihydroxy-alpha-androstane
+(830)Alpha-methyl-beta-beta-dihydroxy-alpha-androstane
+(831)Alpha-methyl-beta-beta-dihydroxy-androstene
+(832)Alpha-methyl-delta 1-dihydrotestosterone
+(833)Alpha-methyl-hydroxynandrolone
+(834)Androstanedione
+(835)Androstenediol
+(836)Androstenedione
+(837)Beta, beta-dihydroxy-alpha-androstane
+(838)Bolasterone
+(839)Calusterone
+(840)Delta 1-dihydrotestosterone
+(841)Furazabol
+(842)Hydroxy-Nortestosterone
+(843)Hydroxytestosterone
+(844)Mestanolone
+(845)Methyldienolone
+(846)Methyltrienolone
+(847)Norandrostenediol
+(848)Norandrostenedione
+(849)Norbolethone
+(850)Norclostebol
+(851)Normethandrolone
+(852)Stenbolone
+(853)Tetrahydrogestrinone
+(895)Anabolic Steroid, Type Unknown
+(900)Volatile Solvents 
+(toluene)
+(901)Plastic Cement 
+(airplane glue)
+(902)Paint and Paint Removers
+(903)"Petroleum Products 
+(gasoline, kerosene)"
+(904)Lacquer Thinners
+(920)Anesthetic Gases
+(921)Amyl Nitrite
+(923)Butly Nitrite
+(924)Nitrous Oxide
+(925)Ether
+(926)Chloroform
+(940)Aerosols 
+(hydrocarbon)
+(941)Hair spray
+(942)Insecticides
+(943)Glass Chillers
+(944)Frying Pan Lubricants
+(995)"Inhalants, Type Unknown"
+(996)Other Drug
+(997)Test For Drug, Results Unknown
+(998)Tested For Drugs, Drugs Found, Type unknown/Positive
+(999)Uknown if Tested
+
+Drug Test Results 
+(2)
+(-1)Blank
+(0)Test Not Given
+(1)Tested, No Drugs Found/Negative
+(95)Not Reported
+(100)Acetaminophen + Codeine
+(101)Acetorphine
+(102)Acetyl-alpha-methylfentanyl
+(103)Acetyldihydrocodeine
+(104)ACETYLMETHADOL
+(105)Alfentanil
+(106
+Allylprodine
+(107)Alpha-methylfentanyl
+(108)Alphamethythiofentanyl
+(109)Alpha-meprodine
+(110)Alphamethadol
+(111)ALPHAPRODINE
+(112)ANILERIDINE
+(113)APC + CODEINE
+(114)ASPRIN + CODEINE
+(115)Benzethidine
+(117)Benzylmorphine
+(118)Beta-hydroxyfentanyl
+(119)Betacetylmethadol
+(120)Beta-meprodine
+(121)Betamethadol
+(122)Betaprodine
+(123)Bezitramide
+(124)Buprenorphine
+(125)Carfentanil
+(126)Clonitazene
+(127)Codeine methylbromide
+(128)CODEINE
+(129)Cyprenorphine
+(130)Desomorphine
+(131)Dextromoramide
+(133)Diampromide
+(134)Diethylthiambutene
+(135)Difenoxin
+(136)DIHYDROCODEINE
+(137)Dihydromorphine
+(138)Dimenoxadol
+(139)Dimepheptanol 
+(Racemethadol)
+(140)Dimethylthiambutene
+(141)Dioxaphetyl Butyrate
+(142)Diphenoxylate
+(143)Dipipanone
+(144)Drotebanol
+(145)DIPRENORPHINE HYDROCLHORIDE
+(146)Ethylmethylthiambutene
+(147)ETHYLMORPHINE
+(148)Etonitazene
+(149)ETORPHINE
+(150)Extoxeridine
+(151)FENTANYL
+(152)FIORINAL + CODEINE
+(153)Furethidine
+(154)HEROIN
+(155)HYDROCODONE
+(156)Hydromorphinol
+(157)HYDROMORPHONE
+(158)Hydroxypethidine
+(159)Isomethadone
+(160)Ketobemidone
+(161)Levomoramide
+(162)Levophenacylmorphan
+(163)Levormethorphan
+(164)LEVORPHANOL TARTRATE
+(165)MEPERIDINE 
+(Pethidine)
+(166)Metazocine
+(167)METHADONE
+(168)Methyldesorphine
+(169)Methyldihydromorphine
+(170)Methylfentanyl
+(171)Methylphenylpropionoxypiperidine 
+(MPPP)
+(172)Metopon
+(173)Moramide
+(174)Morpheridine
+(175)Morphine methylsulfonate
+(176)Morphine methylbromide
+(177)MORPHINE
+(178)Myrophine
+(179)NALORPHINE
+(180)Nicocodeine
+(181)Nicomorphine
+(182)Noracymethadol
+(183)Norlevorphanol
+(184)Normethadone
+(185)Normorphine
+(186)Norpipanone
+(187)OPIUM
+(188)OXMORPHONE
+(189)OXYCODONE
+(190)Parafluorofentanyl
+(191)PAREGORIC
+(192)PAREPECTOLIN
+(193)PENTAZOCINE
+(194)PETHIDINE 
+(Meperidne)
+(195)Phenadoxone
+(196)Phenampromide
+(197)Phenanthrine
+(198)Phenazocine
+(199)Phenomorphan
+(200)Phenoperidine
+(201)Phenylacetyloxypiperidine 
+(PEPAP)
+(202)Pholcodine
+(203)Piminodine
+(204)Piritramide
+(205)Proheptazine
+(206)Properidine
+(207)Propiram
+(208)PROPOXYPHENE
+(209)Racemethorphan
+(210)Racemoramide
+(211)Racemorphan
+(212)Sulfentanil
+(213)Thebacon
+(214)Thebaine
+(215)Thiofentanyl
+(216)Tilidine
+(217)Trimeperidine
+(218)Butorphanol
+(220)Alphacetylmethandol
+(221)Beta-Hydroxy-3-methylfentanyl
+(222)Codeine & isoquinoline
+(223)Codeine-N-oxide
+(224)Dextropropoxyphene
+(225)Difenenoxin
+(226)Dihyroetrophine
+(227)Diprenorphine
+(228)Levo-alphacetylmethado
+(229)Levorphanol
+(230)Methylthiofentanyl
+(231)Morphine-N-oxide
+(232)Opium extract
+(233)Opium fluid extract
+(234)Opium Poppy
+(235)Opium Tincture
+(236)Phenylethyl-phenyl-acetoxypiperidine
+(237)Poppy Straw
+(238)Poppy Straw Concentrate
+(239)Remifentanil
+(240)Codeine combination product 90 mg/du
+(241)Codeine preparations – 200 mg/100 ml or 100 gm
+(242)Difenoxin 1 mg/25ug AtSO4/du
+(243)Difenoxin preparations – 0.5 mg/25 ug AtSO4/du
+(244)Dihydrocodeine combination product 90 mg/du
+(245)Dihydrocodeine preparations 10 mg/100 ml or 100 gm
+(246)Diphenoxylate preparations 2.5 mg/25 ug AtSO4
+(247)Ethylmorphine combination product 15 mg/du
+(248)Ethylmorphine preparations 100 mg/100 ml or 100 gm
+(249)Hydrocodone & isoquinoline alkaloid<15 mg/du
+(250)Hydrocodone combination product<15 mg/du
+(251)Meperidine intermediate-A
+(252)Meperidine intermediate-B
+(253)Meperidine intermediate-C
+(254)Methadone intermediate
+(255)Morphine combination product/50 mg/100 ml or gm
+(256)Opium combination product 25 mg/du
+(257)Opium preparations – 100 mg/100 ml or/100 gm
+(258)Opium, granulated
+(259)Opium, powdered
+(260)Oripavine
+(295)"Narcotics, Type Unknown"
+(300)ALPRAZOLAM
+(301)AMOBARBITAL
+(302)BARBITOL
+(303)BARBITURATES
+(304)BENZODIAZEPINES
+(305)Benzylfentanyl
+(306)Bromazepam
+(307)BUTABARBITAL
+(308)Butalbitol
+(309)Camazepam
+(310)CARBAMATE
+(311)Chloral betaine
+(312)CHLORALHYDRATE
+(313)CHLORDIAZEPROXIDE
+(314)Chlorhexadol
+(315)Clobazam
+(316)Clonazepam
+(317)CLORAZEPATE DIPOTASSIUM
+(318)Clotiazepam
+(319)Cloxazolam
+(320)Delorazepam
+(321)DIAZEPAM
+(322)Estazolam
+(323)ETHCHLORVYNOL
+(324)Ethinamate
+(325)Ethyl Ioflazepate
+(326)Fiorinol
+(327)Fludiazepam
+(328)Flunitrazepam
+(329)FLURAZEPAM HYDROCHLORIDE
+(330)GLUTETHIMIDE
+(331)HALAZEPAM
+(332)Haloxazolam
+(333)HEXOBARBITAL
+(334)HYDROXZINE
+(335)Ketazolam
+(336)Loprazolam
+(337)LORAZEPAM
+(338)Lormetazepam
+(339)Mebutamate
+(340)Mecloqualone
+(341)Medazepam
+(342)MEPHOBARBITAL 
+(Methylphenobarbital)
+(343)MEPROBAMATE
+(344)METHAQUALONE
+(345)METHARBITAL
+(346)Methohexital
+(347)METHYPRYLON
+(348)Midazolam
+(349)Nimetazepam
+(350)Nitrazepam
+(351)Nordiazepam
+(352)OXAZEPAM
+(353)Oxazolam
+(354)Paraldehyde
+(355)PENTOBARBITAL
+(356)Petrichloral
+(357)Phencyclohexylamine
+(358)PHENOBARBITAL
+(359)Pinazepam
+(360)PRAZEPAM
+(361)Quazepam
+(362)SECOBARBITAL
+(363)Sulfondiethylmethane
+(364)Sulfonethylmethane
+(365)Sulfonmethane
+(366)TALBUTAL
+(367)TEMAZEPAM
+(368)Tetrazepam
+(369)Thenylfentanyl
+(370)Thiamylal
+(371)Thiopental 
+(Pentothal)
+(372)Tiletamine
+(373)TRAIZOLAM
+(374)TYBAMATE
+(375)Zolazepam 
+(Telazol)
+(376)Carisoprodol
+(377)Gamma Hydroxybutryate 
+(GHB)
+(378)Amobarbital & non-controlled active ingred.
+(379)Aprobarbital
+(380)Barbituric Acid Derivative
+(382)Clorazepate
+(383)Dexfenfluramine
+(384)Flurazepam
+(385)Sibutramine
+(386)Zaleplon
+(387)Zolpidem
+(388)Amobarbital suppository dosage form
+(389)Butobarbital 
+(butethal)
+(390)Embutramide
+(391)Gamma Hydroxybutyric Acid preparations
+(393)Pentobarbital & noncontrolled active ingred.
+(394)Pentobarbital suppository dosage form
+(395)"Depressants, Type Unknown"
+(396)Pregabalin
+(397)Secobarbital & noncontrolled active ingred.
+(398)Secobarbital suppository dosage form
+(399)Zopiclone
+(400)AMPHETAMINE SULFATE
+(401)AMPHETAMINE
+(402)BENZOYLECGONINE
+(403)BENZPHETAMINE
+(404)Cathine 
+(Norpseudoephedrine)
+(405)Chlorphentermine
+(406)Clortermine
+(407)COCAINE
+(408)DEXTROAMPHETAMINE
+(409)DIETHYLPROPION
+(410)Ecgonine
+(411)Fencamfamin
+(412)FENETHYLLINE
+(413)Fenfluramine
+(414)Fenproporex
+(415)MAZINDOL
+(416)Menfenorex
+(417)METHAMPHETAMINE
+(418)METHYLPHENIDATE
+(419)Nethylamphetamine
+(420)PEMOLINE
+(421)PHENDIMETRAZINE
+(422)PHENMETRAZINE
+(423)PHENTERMINE
+(424)Pipradrol
+(425)Propylhexedrine
+(426)Pyrovalerone
+(427)SPA
+(428)Aminorex
+(429)Cathinone
+(430)Coca Leaves
+(431)Dicholoralphenazone
+(432)Methcathinone
+(433)Modafinil
+(434)Vinbarbital
+(435)Methylone
+(436)Lisdexamfetamine
+(437)Methoxy-Methylenedioxyamphetamine
+(438)N, N-Dimethylamphetamine
+(439)N-Benzylpiperazine
+(440)Stimulant compounds previously excepted
+(495)"Stimulants, Type Unknown"
+(500)AMPHETAMINE VARIANTS
+(501)BUFOTENINE
+(503)Diethyltryptamine 
+(DET)
+(504)Dimethoxyamphetamine 
+(DOM)
+(505)Dimethyltryptamine
+(DMT)
+(506)DMA
+(507)Dronabinol
+(508)Ethyl-pipirdylbenzilate
+(509)IBOGAINE
+(510)LSD
+(511)LYSERGIC ACID
+(512)MESCALINE
+(513)Methylenedioxymethamphetamine 
+(MDMA)
+(514)Methoxyamphetamine 
+(PMA)
+(515)Methylenedioxyamphetamine 
+(MDA)
+(516)Nabilone
+(517)PEYOTE
+(518)Phenylacetone 
+(P2P)
+(519)PSILOCYBIN
+(520)PSILOCYN
+(521)Trimethoxy amphetamine
+(522)Ketamine
+(523)Alpha_Ethyltryptamine
+(524)Bromo-dimethoxyamphetamine
+(525)Bromo-dimethoxyphenethylamine
+(527)Lysergic Acid Amide
+(528)Lysergic Acid Diethylamide
+(529)Methylaminorex
+(530)Methyl-dimethoxyamphetamine
+(531)Methylenedioxy-N-ethylamphetamine
+(532)Dimethylamphetamine
+(533)Ethyl-phenylcyclohexylamine
+(534)Alpha-methyltryptamine
+(535)Dimethoxyethylamphetamine
+(536)Dimethoxy-
+(n)-propylthiophenethylamine
+(537)Methoxy-NN-diisopropyltryptamine
+(538)N-Hydroxymethylenedioxy-amphetamine
+(539)N-Methylpiperidyl benzilate
+(595)"
+allucinogens, Type Unknown"
+(600)DELTA 9
+(601)HASHISH OIL
+(602)HASHISH
+(603)MARIJUANA/Marihuana
+(604)MARINOL
+(605)TETRAHYDROCANNABINOID
+(606)THC
+(695)"Cannabinoid, Type Unknown"
+(700)Ethylamine
+(701)Parahexyl 
+(Synhexyl)
+(702)PHENCYCLIDINE
+(703)PHENCYCLIDINE ANALOGS
+(704)phenylcyclohexylamine
+(705)Piperidinocyclohexane-carbonitrile 
+(PCC)
+(706)"Pyrrolidine 
+(PCPy,PHP,TCPy)"
+(707)Thiophend
+(708)Thienylcyclohexylpiperidine
+(709)Phenylcyclohexyl-Pyrrolidine
+(710)Thienyl Cyclohexyl Pyrrolidine
+(795)"PCP, Type Unknown"
+(800)Boldenone
+(801)Chlorotestosterone
+(802)Chlostebol
+(803)Dehydrochlomethyltestosterone
+(804)Dihydrotesterone
+(805)Drostanolone
+(806)Ethylestrenol
+(807)Fluoxymesterone
+(808)Formebulone 
+(Formebolone)
+(809)Mesterolone
+(810)Methandienone
+(811)Methandranone
+(812)Methandriol
+(813)Methandrostenolone
+(814)Methenolone
+(815)Methyltestosterone
+(816)Mibolerone
+(817)Nandrolone
+(818)Norethandrolone
+(819)Oxandrolone
+(820)Oxymesterone
+(821)Oxymetholone
+(822)Stanolone
+(823)Stanozolol
+(824)Testolactone
+(825)Testosterone
+(826)Trenbolone
+(827)Clostebol
+(828)Alpha, Beta-dihydroxy-alpha-androstane
+(829)Alpha-methyl-alpha-beta-dihydroxy-alpha-androstane
+(830)Alpha-methyl-beta-beta-dihydroxy-alpha-androstane
+(831)Alpha-methyl-beta-beta-dihydroxy-androstene
+(832)Alpha-methyl-delta 1-dihydrotestosterone
+(833)Alpha-methyl-hydroxynandrolone
+(834)Androstanedione
+(835)Androstenediol
+(836)Androstenedione
+(837)Beta, beta-dihydroxy-alpha-androstane
+(838)Bolasterone
+(839)Calusterone
+(840)Delta 1-dihydrotestosterone
+(841)Furazabol
+(842)Hydroxy-Nortestosterone
+(843)Hydroxytestosterone
+(844)Mestanolone
+(845)Methyldienolone
+(846)Methyltrienolone
+(847)Norandrostenediol
+(848)Norandrostenedione
+(849)Norbolethone
+(850)Norclostebol
+(851)Normethandrolone
+(852)Stenbolone
+(853)Tetrahydrogestrinone
+(895)Anabolic Steroid, Type Unknown
+(900)Volatile Solvents 
+(toluene)
+(901)Plastic Cement 
+(airplane glue)
+(902)Paint and Paint Removers
+(903)"Petroleum Products 
+(gasoline, kerosene)"
+(904)Lacquer Thinners
+(920)Anesthetic Gases
+(921)Amyl Nitrite
+(923)Butly Nitrite
+(924)Nitrous Oxide
+(925)Ether
+(926)Chloroform
+(940)Aerosols 
+(hydrocarbon)
+(941)Hair spray
+(942)Insecticides
+(943)Glass Chillers
+(944)Frying Pan Lubricants
+(995)"Inhalants, Type Unknown"
+(996)Other Drug
+(997)Test For Drug, Results Unknown
+(998)Tested For Drugs, Drugs Found, Type unknown/Positive
+(999)Uknown if Tested
+
+Drug Test Results 
+(3)
+(-1)Blank
+(0)Test Not Given
+(1)Tested, No Drugs Found/Negative
+(95)Not Reported
+(100)Acetaminophen + Codeine
+(101)Acetorphine
+(102)Acetyl-alpha-methylfentanyl
+(103)Acetyldihydrocodeine
+(104)ACETYLMETHADOL
+(105)Alfentanil
+(106
+Allylprodine
+(107)Alpha-methylfentanyl
+(108)Alphamethythiofentanyl
+(109)Alpha-meprodine
+(110)Alphamethadol
+(111)ALPHAPRODINE
+(112)ANILERIDINE
+(113)APC + CODEINE
+(114)ASPRIN + CODEINE
+(115)Benzethidine
+(117)Benzylmorphine
+(118)Beta-hydroxyfentanyl
+(119)Betacetylmethadol
+(120)Beta-meprodine
+(121)Betamethadol
+(122)Betaprodine
+(123)Bezitramide
+(124)Buprenorphine
+(125)Carfentanil
+(126)Clonitazene
+(127)Codeine methylbromide
+(128)CODEINE
+(129)Cyprenorphine
+(130)Desomorphine
+(131)Dextromoramide
+(133)Diampromide
+(134)Diethylthiambutene
+(135)Difenoxin
+(136)DIHYDROCODEINE
+(137)Dihydromorphine
+(138)Dimenoxadol
+(139)Dimepheptanol 
+(Racemethadol)
+(140)Dimethylthiambutene
+(141)Dioxaphetyl Butyrate
+(142)Diphenoxylate
+(143)Dipipanone
+(144)Drotebanol
+(145)DIPRENORPHINE HYDROCLHORIDE
+(146)Ethylmethylthiambutene
+(147)ETHYLMORPHINE
+(148)Etonitazene
+(149)ETORPHINE
+(150)Extoxeridine
+(151)FENTANYL
+(152)FIORINAL + CODEINE
+(153)Furethidine
+(154)HEROIN
+(155)HYDROCODONE
+(156)Hydromorphinol
+(157)HYDROMORPHONE
+(158)Hydroxypethidine
+(159)Isomethadone
+(160)Ketobemidone
+(161)Levomoramide
+(162)Levophenacylmorphan
+(163)Levormethorphan
+(164)LEVORPHANOL TARTRATE
+(165)MEPERIDINE 
+(Pethidine)
+(166)Metazocine
+(167)METHADONE
+(168)Methyldesorphine
+(169)Methyldihydromorphine
+(170)Methylfentanyl
+(171)Methylphenylpropionoxypiperidine 
+(MPPP)
+(172)Metopon
+(173)Moramide
+(174)Morpheridine
+(175)Morphine methylsulfonate
+(176)Morphine methylbromide
+(177)MORPHINE
+(178)Myrophine
+(179)NALORPHINE
+(180)Nicocodeine
+(181)Nicomorphine
+(182)Noracymethadol
+(183)Norlevorphanol
+(184)Normethadone
+(185)Normorphine
+(186)Norpipanone
+(187)OPIUM
+(188)OXMORPHONE
+(189)OXYCODONE
+(190)Parafluorofentanyl
+(191)PAREGORIC
+(192)PAREPECTOLIN
+(193)PENTAZOCINE
+(194)PETHIDINE 
+(Meperidne)
+(195)Phenadoxone
+(196)Phenampromide
+(197)Phenanthrine
+(198)Phenazocine
+(199)Phenomorphan
+(200)Phenoperidine
+(201)Phenylacetyloxypiperidine 
+(PEPAP)
+(202)Pholcodine
+(203)Piminodine
+(204)Piritramide
+(205)Proheptazine
+(206)Properidine
+(207)Propiram
+(208)PROPOXYPHENE
+(209)Racemethorphan
+(210)Racemoramide
+(211)Racemorphan
+(212)Sulfentanil
+(213)Thebacon
+(214)Thebaine
+(215)Thiofentanyl
+(216)Tilidine
+(217)Trimeperidine
+(218)Butorphanol
+(220)Alphacetylmethandol
+(221)Beta-Hydroxy-3-methylfentanyl
+(222)Codeine & isoquinoline
+(223)Codeine-N-oxide
+(224)Dextropropoxyphene
+(225)Difenenoxin
+(226)Dihyroetrophine
+(227)Diprenorphine
+(228)Levo-alphacetylmethado
+(229)Levorphanol
+(230)Methylthiofentanyl
+(231)Morphine-N-oxide
+(232)Opium extract
+(233)Opium fluid extract
+(234)Opium Poppy
+(235)Opium Tincture
+(236)Phenylethyl-phenyl-acetoxypiperidine
+(237)Poppy Straw
+(238)Poppy Straw Concentrate
+(239)Remifentanil
+(240)Codeine combination product 90 mg/du
+(241)Codeine preparations – 200 mg/100 ml or 100 gm
+(242)Difenoxin 1 mg/25ug AtSO4/du
+(243)Difenoxin preparations – 0.5 mg/25 ug AtSO4/du
+(244)Dihydrocodeine combination product 90 mg/du
+(245)Dihydrocodeine preparations 10 mg/100 ml or 100 gm
+(246)Diphenoxylate preparations 2.5 mg/25 ug AtSO4
+(247)Ethylmorphine combination product 15 mg/du
+(248)Ethylmorphine preparations 100 mg/100 ml or 100 gm
+(249)Hydrocodone & isoquinoline alkaloid<15 mg/du
+(250)Hydrocodone combination product<15 mg/du
+(251)Meperidine intermediate-A
+(252)Meperidine intermediate-B
+(253)Meperidine intermediate-C
+(254)Methadone intermediate
+(255)Morphine combination product/50 mg/100 ml or gm
+(256)Opium combination product 25 mg/du
+(257)Opium preparations – 100 mg/100 ml or/100 gm
+(258)Opium, granulated
+(259)Opium, powdered
+(260)Oripavine
+(295)"Narcotics, Type Unknown"
+(300)ALPRAZOLAM
+(301)AMOBARBITAL
+(302)BARBITOL
+(303)BARBITURATES
+(304)BENZODIAZEPINES
+(305)Benzylfentanyl
+(306)Bromazepam
+(307)BUTABARBITAL
+(308)Butalbitol
+(309)Camazepam
+(310)CARBAMATE
+(311)Chloral betaine
+(312)CHLORALHYDRATE
+(313)CHLORDIAZEPROXIDE
+(314)Chlorhexadol
+(315)Clobazam
+(316)Clonazepam
+(317)CLORAZEPATE DIPOTASSIUM
+(318)Clotiazepam
+(319)Cloxazolam
+(320)Delorazepam
+(321)DIAZEPAM
+(322)Estazolam
+(323)ETHCHLORVYNOL
+(324)Ethinamate
+(325)Ethyl Ioflazepate
+(326)Fiorinol
+(327)Fludiazepam
+(328)Flunitrazepam
+(329)FLURAZEPAM HYDROCHLORIDE
+(330)GLUTETHIMIDE
+(331)HALAZEPAM
+(332)Haloxazolam
+(333)HEXOBARBITAL
+(334)HYDROXZINE
+(335)Ketazolam
+(336)Loprazolam
+(337)LORAZEPAM
+(338)Lormetazepam
+(339)Mebutamate
+(340)Mecloqualone
+(341)Medazepam
+(342)MEPHOBARBITAL 
+(Methylphenobarbital)
+(343)MEPROBAMATE
+(344)METHAQUALONE
+(345)METHARBITAL
+(346)Methohexital
+(347)METHYPRYLON
+(348)Midazolam
+(349)Nimetazepam
+(350)Nitrazepam
+(351)Nordiazepam
+(352)OXAZEPAM
+(353)Oxazolam
+(354)Paraldehyde
+(355)PENTOBARBITAL
+(356)Petrichloral
+(357)Phencyclohexylamine
+(358)PHENOBARBITAL
+(359)Pinazepam
+(360)PRAZEPAM
+(361)Quazepam
+(362)SECOBARBITAL
+(363)Sulfondiethylmethane
+(364)Sulfonethylmethane
+(365)Sulfonmethane
+(366)TALBUTAL
+(367)TEMAZEPAM
+(368)Tetrazepam
+(369)Thenylfentanyl
+(370)Thiamylal
+(371)Thiopental 
+(Pentothal)
+(372)Tiletamine
+(373)TRAIZOLAM
+(374)TYBAMATE
+(375)Zolazepam 
+(Telazol)
+(376)Carisoprodol
+(377)Gamma Hydroxybutryate 
+(GHB)
+(378)Amobarbital & non-controlled active ingred.
+(379)Aprobarbital
+(380)Barbituric Acid Derivative
+(382)Clorazepate
+(383)Dexfenfluramine
+(384)Flurazepam
+(385)Sibutramine
+(386)Zaleplon
+(387)Zolpidem
+(388)Amobarbital suppository dosage form
+(389)Butobarbital 
+(butethal)
+(390)Embutramide
+(391)Gamma Hydroxybutyric Acid preparations
+(393)Pentobarbital & noncontrolled active ingred.
+(394)Pentobarbital suppository dosage form
+(395)"Depressants, Type Unknown"
+(396)Pregabalin
+(397)Secobarbital & noncontrolled active ingred.
+(398)Secobarbital suppository dosage form
+(399)Zopiclone
+(400)AMPHETAMINE SULFATE
+(401)AMPHETAMINE
+(402)BENZOYLECGONINE
+(403)BENZPHETAMINE
+(404)Cathine 
+(Norpseudoephedrine)
+(405)Chlorphentermine
+(406)Clortermine
+(407)COCAINE
+(408)DEXTROAMPHETAMINE
+(409)DIETHYLPROPION
+(410)Ecgonine
+(411)Fencamfamin
+(412)FENETHYLLINE
+(413)Fenfluramine
+(414)Fenproporex
+(415)MAZINDOL
+(416)Menfenorex
+(417)METHAMPHETAMINE
+(418)METHYLPHENIDATE
+(419)Nethylamphetamine
+(420)PEMOLINE
+(421)PHENDIMETRAZINE
+(422)PHENMETRAZINE
+(423)PHENTERMINE
+(424)Pipradrol
+(425)Propylhexedrine
+(426)Pyrovalerone
+(427)SPA
+(428)Aminorex
+(429)Cathinone
+(430)Coca Leaves
+(431)Dicholoralphenazone
+(432)Methcathinone
+(433)Modafinil
+(434)Vinbarbital
+(435)Methylone
+(436)Lisdexamfetamine
+(437)Methoxy-Methylenedioxyamphetamine
+(438)N, N-Dimethylamphetamine
+(439)N-Benzylpiperazine
+(440)Stimulant compounds previously excepted
+(495)"Stimulants, Type Unknown"
+(500)AMPHETAMINE VARIANTS
+(501)BUFOTENINE
+(503)Diethyltryptamine 
+(DET)
+(504)Dimethoxyamphetamine 
+(DOM)
+(505)Dimethyltryptamine
+(DMT)
+(506)DMA
+(507)Dronabinol
+(508)Ethyl-pipirdylbenzilate
+(509)IBOGAINE
+(510)LSD
+(511)LYSERGIC ACID
+(512)MESCALINE
+(513)Methylenedioxymethamphetamine 
+(MDMA)
+(514)Methoxyamphetamine 
+(PMA)
+(515)Methylenedioxyamphetamine 
+(MDA)
+(516)Nabilone
+(517)PEYOTE
+(518)Phenylacetone 
+(P2P)
+(519)PSILOCYBIN
+(520)PSILOCYN
+(521)Trimethoxy amphetamine
+(522)Ketamine
+(523)Alpha_Ethyltryptamine
+(524)Bromo-dimethoxyamphetamine
+(525)Bromo-dimethoxyphenethylamine
+(527)Lysergic Acid Amide
+(528)Lysergic Acid Diethylamide
+(529)Methylaminorex
+(530)Methyl-dimethoxyamphetamine
+(531)Methylenedioxy-N-ethylamphetamine
+(532)Dimethylamphetamine
+(533)Ethyl-phenylcyclohexylamine
+(534)Alpha-methyltryptamine
+(535)Dimethoxyethylamphetamine
+(536)Dimethoxy-
+(n)-propylthiophenethylamine
+(537)Methoxy-NN-diisopropyltryptamine
+(538)N-Hydroxymethylenedioxy-amphetamine
+(539)N-Methylpiperidyl benzilate
+(595)"
+allucinogens, Type Unknown"
+(600)DELTA 9
+(601)HASHISH OIL
+(602)HASHISH
+(603)MARIJUANA/Marihuana
+(604)MARINOL
+(605)TETRAHYDROCANNABINOID
+(606)THC
+(695)"Cannabinoid, Type Unknown"
+(700)Ethylamine
+(701)Parahexyl 
+(Synhexyl)
+(702)PHENCYCLIDINE
+(703)PHENCYCLIDINE ANALOGS
+(704)phenylcyclohexylamine
+(705)Piperidinocyclohexane-carbonitrile 
+(PCC)
+(706)"Pyrrolidine 
+(PCPy,PHP,TCPy)"
+(707)Thiophend
+(708)Thienylcyclohexylpiperidine
+(709)Phenylcyclohexyl-Pyrrolidine
+(710)Thienyl Cyclohexyl Pyrrolidine
+(795)"PCP, Type Unknown"
+(800)Boldenone
+(801)Chlorotestosterone
+(802)Chlostebol
+(803)Dehydrochlomethyltestosterone
+(804)Dihydrotesterone
+(805)Drostanolone
+(806)Ethylestrenol
+(807)Fluoxymesterone
+(808)Formebulone 
+(Formebolone)
+(809)Mesterolone
+(810)Methandienone
+(811)Methandranone
+(812)Methandriol
+(813)Methandrostenolone
+(814)Methenolone
+(815)Methyltestosterone
+(816)Mibolerone
+(817)Nandrolone
+(818)Norethandrolone
+(819)Oxandrolone
+(820)Oxymesterone
+(821)Oxymetholone
+(822)Stanolone
+(823)Stanozolol
+(824)Testolactone
+(825)Testosterone
+(826)Trenbolone
+(827)Clostebol
+(828)Alpha, Beta-dihydroxy-alpha-androstane
+(829)Alpha-methyl-alpha-beta-dihydroxy-alpha-androstane
+(830)Alpha-methyl-beta-beta-dihydroxy-alpha-androstane
+(831)Alpha-methyl-beta-beta-dihydroxy-androstene
+(832)Alpha-methyl-delta 1-dihydrotestosterone
+(833)Alpha-methyl-hydroxynandrolone
+(834)Androstanedione
+(835)Androstenediol
+(836)Androstenedione
+(837)Beta, beta-dihydroxy-alpha-androstane
+(838)Bolasterone
+(839)Calusterone
+(840)Delta 1-dihydrotestosterone
+(841)Furazabol
+(842)Hydroxy-Nortestosterone
+(843)Hydroxytestosterone
+(844)Mestanolone
+(845)Methyldienolone
+(846)Methyltrienolone
+(847)Norandrostenediol
+(848)Norandrostenedione
+(849)Norbolethone
+(850)Norclostebol
+(851)Normethandrolone
+(852)Stenbolone
+(853)Tetrahydrogestrinone
+(895)Anabolic Steroid, Type Unknown
+(900)Volatile Solvents 
+(toluene)
+(901)Plastic Cement 
+(airplane glue)
+(902)Paint and Paint Removers
+(903)"Petroleum Products 
+(gasoline, kerosene)"
+(904)Lacquer Thinners
+(920)Anesthetic Gases
+(921)Amyl Nitrite
+(923)Butly Nitrite
+(924)Nitrous Oxide
+(925)Ether
+(926)Chloroform
+(940)Aerosols 
+(hydrocarbon)
+(941)Hair spray
+(942)Insecticides
+(943)Glass Chillers
+(944)Frying Pan Lubricants
+(995)"Inhalants, Type Unknown"
+(996)Other Drug
+(997)Test For Drug, Results Unknown
+(998)Tested For Drugs, Drugs Found, Type unknown/Positive
+(999)Uknown if Tested
+
+Drug Test Status
+(0)Test Not Given
+(1)Test Refused
+(2)Test Given
+(8)Not Reported
+(9)Unknown if Tested
+
+Drug Test Type 
+(1)
+(-1)Blank
+(0)Test Not Given
+(1)Blood
+(2)Urine
+(3)Both: Blood and Urine Tests
+(6)Not Reported
+(7)Unknown Test Type
+(8)Other Test Type
+(9)Unknown if Tested
+
+Drug Test Type 
+(2)
+(-1)Blank
+(0)Test Not Given
+(1)Blood
+(2)Urine
+(3)Both: Blood and Urine Tests
+(6)Not Reported
+(7)Unknown Test Type
+(8)Other Test Type
+(9)Unknown if Tested
+
+Drug Test Type 
+(3)
+(-1)Blank
+(0)Test Not Given
+(1)Blood
+(2)Urine
+(3)Both: Blood and Urine Tests
+(6)Not Reported
+(7)Unknown Test Type
+(8)Other Test Type
+(9)Unknown if Tested
+
+Ejection
+(-1)Blank
+(0)Not Ejected
+(1)To
+ally Ejected
+(2)Part
+ally Ejected
+(3)Ejected - Unknown Degree
+(7)Not Reported
+(8)Not Applicable
+(9)Unknown if Ejected
+
+Ejection Path
+(-1)blank
+(0)Not Ejected/Not Applicable
+(1)Through Side Door Opening
+(2)Through Side Window
+(3)Through Windshield
+(4)Through Back Window
+(5)Through Back Door/Tailgate Opening
+(6)Through Roof Opening 
+(sun-roof, convertible top down)
+(7)Through roof 
+(convertible top up)
+(8)Other Path 
+(e.g., back of pick-up truck)
+(9)Unknown/Unknown Path
+
+Extrication
+(-1)Blank
+(0)Not Extricated or Not Applicable
+(1)Extricated
+(9)Unknown
+
+Fatal Injury At Work
+(-1)Blank
+(0)No
+(1)Yes
+(8)Not Applicable 
+(not a fatality)
+(9)Unknown
+
+Hispanic Origin
+(-1)Blank
+(0)Not A Fatality 
+(not Applicable)
+(1)Mexican
+(2)Puerto Rican
+(3)Cuban
+(4)Central or South American
+(5)European Spanish
+(6)Hispanic, Origin Not Specified or Other Origin
+(7)Non-Hispanic
+(99)Unknown
+
+Injury Severity
+(-1)Blank
+(0)No Apparent Injury 
+(O)
+(1)Possible Injury 
+(C)
+(2)Suspected Minor Injury
+(B)
+(3)Suspected Serious Injury
+(A)
+(4)Fatal Injury 
+(K)
+(5)Injured; Severity Unknown
+(6)Died Prior to Crash*
+(9)Unknown
+
+Method of Alcohol Determination by Police
+(-1)Blank
+(1)Evidential Test 
+(breath, blood, urine)
+(2)Preliminary Breath Test 
+(PBT)
+(3)Behavioral
+(4)Passive Alcohol Sensor 
+(PAS)
+(5)Observed
+(8)Other 
+(e.g., Saliva test)
+(9)Not Reported
+
+Method of Drug Determination by Police
+(-1)Blank
+(1)Evidential Test 
+(Blood, Urine)
+(2)Drug Recognition Technician 
+(DRT) determination
+(3)Behavioral
+(7)Other
+(8)Not Reported
+
+Person Related Factor 
+(1)
+(-1)Blank
+(0)None
+(5)Interfering With Driver
+(8)Men
+ally C
+allenged
+(9)Construction/Maintenance/Utility Worker
+(13)Motorized Wheelchair Rider
+(18)Mother of Dead Fetus/Infant Born Post Crash
+(21)Overloading or Improper Loading of Vehicle with Passengers or Cargo
+(26)Following Improperly
+(28)Failure to Keep in Proper Lane
+(29)Illegal Driving on Road Shoulder, in Ditch, on Sidewalk or on Median
+(32)Opening Vehicle Closure into Moving Traffic or While Vehicle is in Motion
+(33)Passing where Prohibited by Posted Signs, Pavement Markings, Hill or Curve, or School Bus Displaying Warning not to Pass Line
+(37)*Traveling on Prohibited Trafficways
+(40)Passing Through or Around Barrier
+(41)*Failure to Observe Warnings or Instructions on Vehicles Displaying Them
+(42)Failure to Signal Intentions
+(44)Driving too Fast for conditions or in Excess of Posted Maximum
+(45)Driving Less than Posted Minimum
+(47)Making Right Turn from Left Turn Lane or Making Left Turn from Right Turn Lane
+(51)Operator Inexperience
+(52)Unfamiliar with Roadway
+(56)Non-Driver Flees Scene
+(57)Improper tire Pressure
+(58)Locked Wheel
+(59)Overcorrecting
+(60)Rain, Snow, Fog, Smoke, Sand, Dust
+(61)Reflected Glare, Bright Sunlight, Headlights
+(62)Curve, Hill, or Other Design Features 
+(including traffic signs, embankment)
+(63)Building, Billboard, Other Structures
+(64)Trees, Crops, Vegetation
+(65)Motor Vehicle 
+(including load)
+(66)Parked Vehicle
+(67)Splash or Spray of Passing Vehicle
+(68)Inadequate Lighting System
+(69)Obstructing Angles on Vehicle
+(70)Mirrors
+(72)Other Visual Obstruction
+(73)Severe Crosswind
+(74)Wind From Passing Truck
+(75)Slippery or Loose Surface
+(76)Tire Blow-out or Flat
+(77)Debris or Objects in Road
+(78)Ruts, Holes, Bump in Road
+(80)Vehicle in Road
+(81)Phantom Vehicle
+(82)Pedestrian, Pedal Cyclists or Persons on Personal Conveyances
+(83)Ice, Snow, Slush, Water, Sand, Dirt, Oil, Wet Leaves on Road
+(86)Emergency Services Personnel
+(87)Police or Law Enforcement Officer
+(88)Seat Back Not in Normal Upright Position, Seat Back Reclined
+(89)Parked Motor Vehicle With Equipment Extending into the Travel Lane
+(90)Non-Motorist Pushing a Vehicle
+(91)Portable Electronic Devices
+(92)Person in Ambulance Treatment Compartment
+(99)Unknown
+
+Person Related Factor 
+(2)
+(-1)Blank
+(0)None
+(5)Interfering With Driver
+(8)Men
+ally C
+allenged
+(9)Construction/Maintenance/Utility Worker
+(13)Motorized Wheelchair Rider
+(18)Mother of Dead Fetus/Infant Born Post Crash
+(21)Overloading or Improper Loading of Vehicle with Passengers or Cargo
+(26)Following Improperly
+(28)Failure to Keep in Proper Lane
+(29)Illegal Driving on Road Shoulder, in Ditch, on Sidewalk or on Median
+(32)Opening Vehicle Closure into Moving Traffic or While Vehicle is in Motion
+(33)Passing where Prohibited by Posted Signs, Pavement Markings, Hill or Curve, or School Bus Displaying Warning not to Pass Line
+(37)*Traveling on Prohibited Trafficways
+(40)Passing Through or Around Barrier
+(41)*Failure to Observe Warnings or Instructions on Vehicles Displaying Them
+(42)Failure to Signal Intentions
+(44)Driving too Fast for conditions or in Excess of Posted Maximum
+(45)Driving Less than Posted Minimum
+(47)Making Right Turn from Left Turn Lane or Making Left Turn from Right Turn Lane
+(51)Operator Inexperience
+(52)Unfamiliar with Roadway
+(56)Non-Driver Flees Scene
+(57)Improper tire Pressure
+(58)Locked Wheel
+(59)Overcorrecting
+(60)Rain, Snow, Fog, Smoke, Sand, Dust
+(61)Reflected Glare, Bright Sunlight, Headlights
+(62)Curve, Hill, or Other Design Features 
+(including traffic signs, embankment)
+(63)Building, Billboard, Other Structures
+(64)Trees, Crops, Vegetation
+(65)Motor Vehicle 
+(including load)
+(66)Parked Vehicle
+(67)Splash or Spray of Passing Vehicle
+(68)Inadequate Lighting System
+(69)Obstructing Angles on Vehicle
+(70)Mirrors
+(72)Other Visual Obstruction
+(73)Severe Crosswind
+(74)Wind From Passing Truck
+(75)Slippery or Loose Surface
+(76)Tire Blow-out or Flat
+(77)Debris or Objects in Road
+(78)Ruts, Holes, Bump in Road
+(80)Vehicle in Road
+(81)Phantom Vehicle
+(82)Pedestrian, Pedal Cyclists or Persons on Personal Conveyances
+(83)Ice, Snow, Slush, Water, Sand, Dirt, Oil, Wet Leaves on Road
+(86)Emergency Services Personnel
+(87)Police or Law Enforcement Officer
+(88)Seat Back Not in Normal Upright Position, Seat Back Reclined
+(89)Parked Motor Vehicle With Equipment Extending into the Travel Lane
+(90)Non-Motorist Pushing a Vehicle
+(91)Portable Electronic Devices
+(92)Person in Ambulance Treatment Compartment
+(99)Unknown
+
+Person Related Factor 
+(3)
+(-1)Blank
+(0)None
+(5)Interfering With Driver
+(8)Men
+ally C
+allenged
+(9)Construction/Maintenance/Utility Worker
+(13)Motorized Wheelchair Rider
+(18)Mother of Dead Fetus/Infant Born Post Crash
+(21)Overloading or Improper Loading of Vehicle with Passengers or Cargo
+(26)Following Improperly
+(28)Failure to Keep in Proper Lane
+(29)Illegal Driving on Road Shoulder, in Ditch, on Sidewalk or on Median
+(32)Opening Vehicle Closure into Moving Traffic or While Vehicle is in Motion
+(33)Passing where Prohibited by Posted Signs, Pavement Markings, Hill or Curve, or School Bus Displaying Warning not to Pass Line
+(37)*Traveling on Prohibited Trafficways
+(40)Passing Through or Around Barrier
+(41)*Failure to Observe Warnings or Instructions on Vehicles Displaying Them
+(42)Failure to Signal Intentions
+(44)Driving too Fast for conditions or in Excess of Posted Maximum
+(45)Driving Less than Posted Minimum
+(47)Making Right Turn from Left Turn Lane or Making Left Turn from Right Turn Lane
+(51)Operator Inexperience
+(52)Unfamiliar with Roadway
+(56)Non-Driver Flees Scene
+(57)Improper tire Pressure
+(58)Locked Wheel
+(59)Overcorrecting
+(60)Rain, Snow, Fog, Smoke, Sand, Dust
+(61)Reflected Glare, Bright Sunlight, Headlights
+(62)Curve, Hill, or Other Design Features 
+(including traffic signs, embankment)
+(63)Building, Billboard, Other Structures
+(64)Trees, Crops, Vegetation
+(65)Motor Vehicle 
+(including load)
+(66)Parked Vehicle
+(67)Splash or Spray of Passing Vehicle
+(68)Inadequate Lighting System
+(69)Obstructing Angles on Vehicle
+(70)Mirrors
+(72)Other Visual Obstruction
+(73)Severe Crosswind
+(74)Wind From Passing Truck
+(75)Slippery or Loose Surface
+(76)Tire Blow-out or Flat
+(77)Debris or Objects in Road
+(78)Ruts, Holes, Bump in Road
+(80)Vehicle in Road
+(81)Phantom Vehicle
+(82)Pedestrian, Pedal Cyclists or Persons on Personal Conveyances
+(83)Ice, Snow, Slush, Water, Sand, Dirt, Oil, Wet Leaves on Road
+(86)Emergency Services Personnel
+(87)Police or Law Enforcement Officer
+(88)Seat Back Not in Normal Upright Position, Seat Back Reclined
+(89)Parked Motor Vehicle With Equipment Extending into the Travel Lane
+(90)Non-Motorist Pushing a Vehicle
+(91)Portable Electronic Devices
+(92)Person in Ambulance Treatment Compartment
+(99)Unknown
+
+Person Type
+(-1)Blank
+(1)Driver of a Motor Vehicle In-Transport
+(2)Passenger of a Motor Vehicle In-Transport
+(9)Unknown Occupant Type in a Motor Vehicle In- Transport
+
+Police Reported Drug Involvement
+(-1)Blank
+(0)No 
+(drugs not involved)
+(1)Yes 
+(drugs involved)
+(8)Not Reported
+(9)Unknown
+
+Police-Reported Alcohol Involvement
+(-1)Blank
+(0)No 
+(Alcohol Not Involved)
+(1)Yes 
+(Alcohol Involved)
+(8)Not Reported
+(9)Unknown 
+(Police Reported)
+
+Race
+(-1)Blank
+(0)Not a Fatality 
+(not Applicable)
+(1)White
+(2)Black
+(3)American Indian 
+(includes Aleuts and Eskimos)
+(4)Chinese
+(5)Japanese
+(6)Hawaiian 
+(includes Part-Hawaiian)
+(7)Filipino
+(18)Asian Indian
+(19)Other Indian 
+(includes South and Central America, any other, except American or Asian Indians)
+(28)Korean
+(38)Samoan
+(48)Vietnamese
+(58)Guamanian
+(68)Other Asian or Pacific Islander
+(78)Asian or Pacific Islander, no specific 
+(individual) race
+(97)Multiple Races 
+(individual races not specified; ex. "mixed")
+(98
+All other races
+(99)Unknown
+
+Restraint System / Helmet Use
+(-1)Blank
+(0)Not Applicable
+(1)Shoulder Belt Only Used
+(2)Lap Belt Only Used
+(3)Shoulder and Lap Belt Used
+(4)Child Restraint Type Unknown
+(5)DOT-Compliant Motorcycle Helmet
+(7)None Used
+(8)Restraint Used - Type Unknown
+(10)Child Restraint System - Forward Facing
+(11)Child Restraint System - Rear Facing
+(12)Booster Seat
+(16)Helmet, Other than DOT-Compliant Motorcycle Helmet
+(17)No Helmet
+(19)Helmet, Unknown if DOT Compliant
+(29)Unknown if Helmet Worn
+(97)Other
+(98)Not Reported
+(99)Unknown
+
+Seating Position
+(-1)Blank
+(11)Front Seat, Left Side
+(12)Front Seat, Middle
+(13)Front Seat, Right Side
+(18)Front Seat, Other
+(19)Front Seat, Unknown
+(21)Second Seat, Left Side
+(22)Second Seat, Middle
+(23)Second Seat, Right Side
+(28)Second Seat, Other
+(29)Second Seat, Unknown
+(31)Third Seat, Left Side
+(32)Third Seat, Middle
+(33)Third Seat, Right Side
+(38)Third Seat, Other
+(39)Third Seat, Unknown
+(41)Fourth Seat, Left Side
+(42)Fourth Seat, Middle
+(43)Fourth Seat, Right Side
+(48)Fourth Seat, Other
+(49)Fourth Seat, Unknown
+(50)Sleeper Section of Cab 
+(Truck)
+(51)Other Passenger in enclosed passenger or cargo area
+(52)Other Passenger in unenclosed passenger or cargo area
+(53)Other Passenger in passenger or cargo area, unknown whether or not enclosed
+(54)Trailing Unit
+(55)Riding on Exterior of Vehicle
+(98)Not Reported
+(99)Unknown
+
+Sex
+(-1)Blank
+(1)Male
+(2)Female
+(8)Not Reported
+(9)Unknown
+
+Transported to First Medical Facility By
+(-1)Blank
+(0)Not Transported
+(1)EMS Air
+(2)Law Enforcement
+(3)EMS Unknown Mode
+(4)Transported Unknown Source
+(5)EMS Ground
+(6)Other
+(8)Not Reported
+(9)Unknown
+
+Areas of Impact - Damaged Areas
+(-1)Blank
+(0)Non-Collision
+(1)1 Clock Value
+(2)2 Clock Value
+(3)3 Clock Value
+(4)4 Clock Value
+(5)5 Clock Value
+(6)6 Clock Value
+(7)7 Clock Value
+(8)8 Clock Value
+(9)9 Clock Value
+(10)10 Clock Value
+(11)11 Clock Value
+(12)12 Clock Value
+(13)Top
+(14)Undercarriage
+(15)No Damage
+(61)Left
+(81)Right
+(98)Not Reported
+(99)Damage Areas Unknown
+
+Areas of Impact-Initial
+(-1)Blank
+(0)Non-Collision
+(1)1 Clock Point
+(2)2 Clock Point
+(3)3 Clock Point
+(4)4 Clock Point
+(5)5 Clock Point
+(6)6 Clock Point
+(7)7 Clock Point
+(8)8 Clock Point
+(9)9 Clock Point
+(10)10 Clock Point
+(11)11 Clock Point
+(12)12 Clock Point
+(13)Top
+(14)Undercarriage
+(18)Cargo/Vehicle Parts Set-In-Motion
+(19)Other Objects Set-In-Motion
+(61)Left
+(62)Left-Front Side
+(63)Left-Back Side
+(81)Right
+(82)Right-Front Side
+(83)Right-Back Side
+(98)Not Reported
+(99)Unknown
+
+Body Type
+(-1)Blank
+(1)Convertible
+(excludes sun-roof,t-bar)
+(2)2-door sedan,hardtop,coupe
+(3)3-door/2-door hatchback
+(4)4-door sedan, hardtop
+(5)5-door/4-door hatchback
+(6)Station Wagon 
+(excluding van and truck based)
+(7)Hatchback, number of doors unknown
+(8)Sedan/Hardtop, number of doors unknown
+(9)Other or Unknown automobile type
+(10)Auto-based pickup 
+(includes E1 Camino, Ca
+allero, Ranchero, SSR, G8-ST, Subaru Brat, Rabbit Pickup)
+(11)Auto-based panel 
+(cargo station wagon, auto-based ambulance or hearse)
+(12)Large Limousine-more than four side doors or stretched chassis
+(13)Three-wheel automobile or automobile derivative
+(14)Compact Utility 
+(Utility Vehicle Categories "S
+all" and "Midsize")
+(15)Large utility 
+(ANSI D16.1 Utility Vehicle Categories and "Full Size" and "Large")
+(16)Utility station wagon 
+(includes suburban limousines, Suburban, Travel
+all, Grand Wagoneer)
+(17)3-door coupe
+(19)Utility Vehicle, Unknown body type
+(20)Minivan 
+(Chrysler Town and Country, Caravan, Grand Caravan, Voyager, Voyager, Honda-Odyssey, ...)
+(21)Large Van-Includes van-based buses 
+(B150-B350, Sportsman, Royal Maxiwagon, Ram, Tradesman,...)
+(22)Step-van or walk-in van 
+(<= 10,000 lbs. GVWR)
+(28)Other van type 
+(Hi-Cube Van, Kary)
+(29)Unknown van type
+(30)Compact pickup 
+(GVWR <4,500 lbs.) 
+(D50,Colt P/U, Ram 50, Dakota, Arrow Pickup [foreign], Ranger, ..)
+(31)Standard pickup 
+(GVWR 4,500 to 10,00 lbs.)
+(Jeep Pickup, Comanche, Ram Pickup, D100-D350, ......)
+(32)Pickup with slide-in camper
+(33)Convertible pickup
+(39)Unknown 
+(pickup style) light conventional truck type
+(40)Cab Chassis Based 
+(includes Rescue Vehicle, Light Stake, Dump, and Tow Truck)
+(41)Truck based panel
+(42)Light Truck Based Motorhome 
+(Chassis Mounted)
+(45)Other light conventional truck type
+(48)Unknown light truck type
+(49)Unknown light vehicle type 
+(automobile,utility vehicle, van, or light truck)
+(50)School Bus
+(51)Cross Country/Intercity Bus
+(52)Transit Bus 
+(City Bus)
+(55)Van-Based Bus GVWR > 10,000 lbs.
+(58)Other Bus Type
+(59)Unknown Bus Type
+(60)Step van 
+(>10,000 lbs. GVWR)
+(61)Single-unit straight truck or Cab-Chassis 
+(10,000 lbs. < GVWR < or = 19,500 lbs.)
+(62)Single-unit straight truck or Cab-Chassis 
+(19,500 lbs. < GVWR < or = 26,000 lbs.)
+(63)Single-unit straight truck or Cab-Chassis 
+(GVWR > 26,000 lbs.)
+(64)Single-unit straight truck or Cab-Chassis 
+(GVWR unknown)
+(65)Medium/heavy truck based motorhome
+(66)Truck-tractor 
+(Cab only, or with any number of trailing unit; any weight)
+(67)Medium/heavy Pickup 
+(>10,000 lbs. GVWR)
+(71)Unknown if single unit or combination unit Medium Truck 
+(10,000 lbs. < GVWR < 26,000 lbs.)
+(72)Unknown if single unit or combination unit Heavy Truck 
+(GVWR > 26,000 lbs.)
+(73)Camper or motorhome, unknown truck type
+(78)Unknown medium/heavy truck type
+(79)Unknown truck type 
+(light/medium/heavy)
+(80)Motorcycle
+(81)Moped 
+(motorized bicycle)
+(82)Three-wheel Motorcycle or Moped - not
+All-Terrain Vehicle
+(83)Off-road Motorcycle 
+(2-wheel)
+(88)Other motored cycle type 
+(mini-bikes, motor scooters, pocket motorcycles, "pocket bikes")
+(89)Unknown motored cycle type
+(90)ATV/ATC 
+All-Terrain Cycle]
+(91)Snowmobile
+(92)Farm equipment other than trucks
+(93)Construction equipment other than trucks 
+(includes graders)
+(94)Low Speed Vehicle 
+(LSV) / Neighborhood Electric Vehicle 
+(NEV)
+(95)Golf Cart
+(97)Other vehicle type 
+(includes go-cart, fork-lift, city street sweeper,dune/swamp buggy, golf cart)
+(98)Not Reported
+(99)Unknown body type
+
+Bus Use
+(-1)Blank
+(0)Not a Bus
+(1)School
+(4)Intercity
+(5)Charter/Tour
+(6)Transit/ Commuter
+(7)Shuttle
+(8)Modified for Personal/Private Use
+(98)Not Reported
+(99)Unknown
+
+Cargo Body Type
+(-1)Blank
+(0)Not Applicable 
+(N/A)
+(1)Van/Enclosed Box
+(2)Cargo Tank
+(3)Flatbed
+(4)Dump
+(5)Concrete Mixer
+(6)Auto Transporter
+(7)Garbage/Refuse
+(8)Grain/ Chips/ Gravel
+(9)Pole-Trailer
+(10)Log
+(11)Intermodal Container Chassis
+(12)Vehicle Towing Another Motor Vehicle
+(22)Bus
+(96)No Cargo Body Type
+(97)Other
+(98)Unknown Cargo Body Type
+(99)Unknown
+
+Emergency Motor Vehicle Use
+(-1)Blank
+(0)Not Applicable
+(2)Non-Emergency, Non-Transport
+(3)Non-Emergency Transport
+(4)Emergency Operation, Emergency Warning Equipment Not in Use
+(5)Emergency Operation, Emergency Warning Equipment in Use
+(6)Emergency Operation, Emergency Warning Equipment in Use Unknown
+(8)Not Reported
+(9)Unknown
+
+Extent of Damage
+(-1)Blank
+(0)No Damage
+(2)Minor Damage
+(4)Functional Damage
+(6)Disabling Damage
+(8)Not Reported
+(9)Unknown
+
+Fire Occurrence
+(-1)Blank
+(0)No or Not Reported
+(1)Yes
+
+Gross Vehicle Weight Rating 
+(GVWR)/Gross Combination Weight Rating 
+(GCWR)
+(-1)Blank
+(0)Not Applicable
+(1)10,000 lbs. or less
+(2)10,001 lbs - 26,000 lbs
+(3)26,001 lbs. or more
+(8)Not Reported
+(9)Unknown
+
+Hit-and-Run
+(-1)Blank
+(0)No
+(1)Yes
+(9)Unknown
+
+HM1: Hazardous Material Involvement
+(-1)Blank
+(1)No
+(2)Yes
+
+HM2: Placard
+(-1)Blank
+(0)Not Applicable
+(1)No
+(2)Yes
+(8)Not Reported
+
+HM4: Hazardous Material Class Number 
+(-1)Blank
+(0)Not Applicable
+(1)01
+(2)02
+(3)03
+(4)04
+(5)05
+(6)06
+(7)07
+(8)08
+(9)09
+(88)Not Reported
+
+HM5: Release of Hazardous Material from the Cargo Compartment
+(-1)Blank
+(0)Not Applicable
+(1)No
+(2)Yes
+(8)Not Reported
+
+Jackknife
+(-1)Blank
+(0)Not an Articulated Vehicle
+(1)No
+(2)Yes - First Event
+(3)Yes - Subsequent Event
+
+Location of Rollover 
+(0)No Rollover
+(1)On Roadway
+(2)On Shoulder
+(3)On Median/Separator
+(4)In Gore
+(5)On Roadside
+(6)Outside of Trafficway
+(7)In Parking Lane/Zone
+(9)Unknown
+
+Most Harmful Event 
+(1)Rollover/Overturn
+(2)Fire/Explosion
+(3)Immersion or Partial Immersion
+(4)Gas Inhalation
+(5)Fell/Jumped from Vehicle
+(6)Injured In Vehicle 
+(Non-Collision)
+(7)Other Non-Collision
+(8)Pedestrian
+(9)Pedalcyclist
+(10)Railway Vehicle
+(11)Live Animal
+(12)Motor Vehicle In-Transport
+(14)Parked Motor Vehicle
+(15)Non-Motorist on Personal Conveyance
+(16)Thrown or 
+alling Object
+(17)Boulder
+(18)Other Object 
+(not fixed)
+(19)Building
+(20)Impact Attenuator/Crash Cushion
+(21)Bridge Pier or Support
+(23)Bridge Rail 
+(Includes parapet)
+(24)Guardrail Face
+(25)Concrete Traffic Barrier
+(26)Other Traffic Barrier
+(30)Utility Pole/Light Support
+(31)Other Post, Other Pole or Other Supports
+(32)Culvert
+(33)Curb
+(34)Ditch
+(35)Embankment
+(38)Fence
+(39)
+(40)Fire Hydrant
+(41)Shrubbery
+(42)Tree 
+(Standing Only)
+(43)Other Fixed Object
+(44)Pavement Surface Irregularity 
+(Ruts, Potholes, Grates, etc.)
+(45)Working Motor Vehicle
+(46)Traffic Signal Support
+(48)Snow Bank
+(49)Ridden Animal or Animal Drawn Conveyance
+(50)Bridge Overhead Structure
+(51)Jackknife 
+(harmful to this vehicle)
+(52)Guardrail End
+(53)Mail Box
+(54)Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport
+(55)Motor Vehicle in Motion Outside the Trafficway
+(57)Cable Barrier
+(58)Ground
+(59)Traffic Sign Support
+(72)Cargo/Equipment Loss or Shift 
+(harmful to this vehicle)
+(73)Object Fell From Motor Vehicle In-Transport
+(99)Unknown
+
+Motor Carrier Identification Issuing Authority 
+(-1)Blank
+(0)Not Applicable
+(1)Alabama
+(2)Alaska
+(3)American Samoa
+(4)Arizona
+(5)Arkansas
+(6)California
+(8)Colorado
+(9)Connecticut
+(10)Delaware
+(11)District of Columbia
+(12)Florida
+(13)Georgia
+(14)Guam
+(15)Hawaii
+(16)Idaho
+(17)Illinois
+(18)Indiana
+(19)Iowa
+(20)Kansas
+(21)Kentucky
+(22)Louisiana
+(23)Maine
+(24)Maryland
+(25)Massachusetts
+(26)Michigan
+(27)Minnesota
+(28)Mississippi
+(29)Missouri
+(30)Montana
+(31)Nebraska
+(32)Nevada
+(33)New Hampshire
+(34)New Jersey
+(35)New Mexico
+(36)New York
+(37)North Carolina
+(38)North Dakota
+(39)Ohio
+(40)Oklahoma
+(41)Oregon
+(42)Pennsylvania
+(43)Puerto Rico
+(44)Rhode Island
+(45)South Carolina
+(46)South Dakota
+(47)Tennessee
+(48)Texas
+(49)Utah
+(50)Vermont
+(51)Virginia
+(52)Virgin Islands
+(53)Washington
+(54)West Virginia
+(55)Wisconsin
+(56)Wyoming
+(57)US DOT
+(58)MC/MX 
+(ICC)
+(77)Not Reported
+(88)None
+(95)Canada
+(96)Mexico
+(99)Unknown
+
+Number of Occupants
+(0)00
+(1)01
+(2)02
+(3)03
+(4)04
+(5)05
+(6)06
+(7)07
+(8)08
+(9)09
+(10)10
+(11)11
+(12)12
+(13)13
+(14)14
+(15)15
+(16)16
+(17)17
+(18)18
+(19)19
+(20)20
+(21)21
+(22)22
+(23)23
+(24)24
+(25)25
+(26)26
+(27)27
+(28)28
+(29)29
+(30)30
+(31)31
+(32)32
+(33)33
+(34)34
+(35)35
+(36)36
+(37)37
+(38)38
+(39)39
+(40)40
+(41)41
+(42)42
+(43)43
+(44)44
+(45)45
+(46)46
+(47)47
+(48)48
+(49)49
+(50)50
+(51)51
+(52)52
+(53)53
+(54)54
+(55)55
+(56)56
+(57)57
+(58)58
+(59)59
+(60)60
+(61)61
+(62)62
+(63)63
+(64)64
+(65)65
+(66)66
+(67)67
+(68)68
+(69)69
+(70)70
+(71)71
+(72)72
+(73)73
+(74)74
+(75)75
+(76)76
+(77)77
+(78)78
+(79)79
+(80)80
+(81)81
+(82)82
+(83)83
+(84)84
+(85)85
+(87)87
+(88)88
+(89)89
+(90)90
+(91)91
+(92)92
+(93)93
+(94)94
+(95)95
+(96)Ninety-Six or more
+(99)Unknown
+
+Registered Vehicle Owner 
+(-1)Blank
+(0)Not Applicable, Vehicle Not Registered
+(1)Driver 
+(in this crash) was Registered Owner
+(2)Driver 
+(in this crash) Not Registered Owner 
+(Other Private Owner Listed)
+(3)Vehicle Registered as Business/Company/Government Vehicle
+(4)Vehicle Registered as Rental Vehicle
+(5)Vehicle was Stolen 
+(reported by police)
+(6)Driverless/Motor Vehicle Parked/Stopped Off Roadway
+(9)Unknown
+
+Registration State 
+(-1)Blank
+(0)Not Applicable
+(1)Alabama
+(2)Alaska
+(3)American Samoa
+(4)Arizona
+(5)Arkansas
+(6)California
+(8)Colorado
+(9)Connecticut
+(10)Delaware
+(11)District of Columbia
+(12)Florida
+(13)Georgia
+(14)Guam
+(15)Hawaii
+(16)Idaho
+(17)Illinois
+(18)Indiana
+(19)Iowa
+(20)Kansas
+(21)Kentucky
+(22)Louisiana
+(23)Maine
+(24)Maryland
+(25)Massachusetts
+(26)Michigan
+(27)Minnesota
+(28)Mississippi
+(29)Missouri
+(30)Montana
+(31)Nebraska
+(32)Nevada
+(33)New Hampshire
+(34)New Jersey
+(35)New Mexico
+(36)New York
+(37)North Carolina
+(38)North Dakota
+(39)Ohio
+(40)Oklahoma
+(41)Oregon
+(42)Pennsylvania
+(43)Puerto Rico
+(44)Rhode Island
+(45)South Carolina
+(46)South Dakota
+(47)Tennessee
+(48)Texas
+(49)Utah
+(50)Vermont
+(51)Virginia
+(52)Virgin Islands
+(53)Washington
+(54)West Virginia
+(55)Wisconsin
+(56)Wyoming
+(91)Not Reported
+(92)No Registration
+(93)Multiple State Registration
+(94)U.S. Government Tags 
+(includes military)
+(95)Canada
+(96)Mexico
+(97)Other Foreign Country*
+(98)Other Registration 
+(includes Native American Indian Nations)
+(99)Unknown
+
+Rollover 
+(-1)Blank
+(0)No Rollover
+(1)Rollover, Tripped by Object/Vehicle
+(2)Rollover, Untripped
+(9)Rollover, Unknown Type
+
+Special Use
+(-1)Blank
+(0)No Special Use
+(1)Taxi
+(2)Vehicle Used for School Transport
+(3)Vehicle Used as Other Bus
+(4)Military
+(5)Police
+(6)Ambulance
+(7)Fire Truck
+(8)Non-Transport Emergency Services Vehicle
+(13)Incident Response
+(98)Not Reported
+(99)Unknown
+
+Travel Speed 
+(-1)Blank
+(0)Stopped Motor Vehicle In- Transport
+(1)001 MPH
+(2)002 MPH
+(3)003 MPH
+(4)004 MPH
+(5)005 MPH
+(6)006 MPH
+(7)007 MPH
+(8)008 MPH
+(9)009 MPH
+(10)010 MPH
+(11)011 MPH
+(12)012 MPH
+(13)013 MPH
+(14)014 MPH
+(15)015 MPH
+(16)016 MPH
+(17)017 MPH
+(18)018 MPH
+(19)019 MPH
+(20)020 MPH
+(21)021 MPH
+(22)022 MPH
+(23)023 MPH
+(24)024 MPH
+(25)025 MPH
+(26)026 MPH
+(27)027 MPH
+(28)028 MPH
+(29)029 MPH
+(30)030 MPH
+(31)031 MPH
+(32)032 MPH
+(33)033 MPH
+(34)034 MPH
+(35)035 MPH
+(36)036 MPH
+(37)037 MPH
+(38)038 MPH
+(39)039 MPH
+(40)040 MPH
+(41)041 MPH
+(42)042 MPH
+(43)043 MPH
+(44)044 MPH
+(45)045 MPH
+(46)046 MPH
+(47)047 MPH
+(48)048 MPH
+(49)049 MPH
+(50)050 MPH
+(51)051 MPH
+(52)052 MPH
+(53)053 MPH
+(54)054 MPH
+(55)055 MPH
+(56)056 MPH
+(57)057 MPH
+(58)058 MPH
+(59)059 MPH
+(60)060 MPH
+(61)061 MPH
+(62)062 MPH
+(63)063 MPH
+(64)064 MPH
+(65)065 MPH
+(66)066 MPH
+(67)067 MPH
+(68)068 MPH
+(69)069 MPH
+(70)070 MPH
+(71)071 MPH
+(72)072 MPH
+(73)073 MPH
+(74)074 MPH
+(75)075 MPH
+(76)076 MPH
+(77)077 MPH
+(78)078 MPH
+(79)079 MPH
+(80)080 MPH
+(81)081 MPH
+(82)082 MPH
+(83)083 MPH
+(84)084 MPH
+(85)085 MPH
+(86)086 MPH
+(87)087 MPH
+(88)088 MPH
+(89)089 MPH
+(90)090 MPH
+(91)091 MPH
+(92)092 MPH
+(93)093 MPH
+(94)094 MPH
+(95)095 MPH
+(96)096 MPH
+(97)097 MPH
+(98)098 MPH
+(99)099 MPH
+(100)100 MPH
+(101)101 MPH
+(102)102 MPH
+(103)103 MPH
+(104)104 MPH
+(105)105 MPH
+(106)106 MPH
+(107)107 MPH
+(108)108 MPH
+(109)109 MPH
+(110)110 MPH
+(111)111 MPH
+(112)112 MPH
+(113)113 MPH
+(114)114 MPH
+(115)115 MPH
+(116)116 MPH
+(117)117 MPH
+(118)118 MPH
+(119)119 MPH
+(120)120 MPH
+(121)121 MPH
+(122)122 MPH
+(123)123 MPH
+(124)124 MPH
+(125)125 MPH
+(126)126 MPH
+(127)127 MPH
+(128)128 MPH
+(129)129 MPH
+(130)130 MPH
+(131)131 MPH
+(132)132 MPH
+(133)133 MPH
+(134)134 MPH
+(135)135 MPH
+(136)136 MPH
+(137)137 MPH
+(138)138 MPH
+(139)139 MPH
+(140)140 MPH
+(141)141 MPH
+(142)142 MPH
+(143)143 MPH
+(144)144 MPH
+(145)145 MPH
+(146)146 MPH
+(147)147 MPH
+(148)148 MPH
+(149)149 MPH
+(150)150 MPH
+(151)151 MPH
+(997)Greater than 151 MPH
+(998)Not Reported
+(999)Unknown
+
+Underride/Override 
+(-1)Blank
+(0)No Underride or Override Noted
+(1)Underriding a Motor Vehicle In-Transport, Underride, Compartment Intrusion
+(2)Underriding a Motor Vehicle In-Transport, Underride, No Compartment Intrusion
+(3)Underriding a Motor Vehicle In-Transport, Underride, Compartment Intrusion Unknown
+(4)Underriding a Motor Vehicle Not In-Transport, Underride, Compartment Intrusion
+(5)Underriding a Motor Vehicle Not In-Transport, Underride, No Compartment Intrusion
+(6)Underriding a Motor Vehicle Not In-Transport, Underride, Compartment Intrusion Unknown
+(7)Overriding a Motor Vehicle In-Transport
+(8)Overriding a Motor Vehicle Not In-Transport
+(9)Unknown if Underride or Override
+
+Unit Type
+(-1)Blank
+(1)Motor Vehicle In-Transport 
+(Inside or Outside the Trafficway)
+(2)Motor Vehicle Not In-Transport Within the Trafficway
+(3)Motor Vehicle Not In-Transport Outside the Trafficway
+(4)Working Motor Vehicle 
+(highway construction, maintenance, utility only)
+
+Vehicle Configuration
+(-1)Blank
+(0)Not Applicable
+(1)Single-Unit Truck 
+(2- axle and GVWR more than 10,000 lbs)
+(2)Single-Unit Truck 
+(3 or more axles)
+(4)Truck Pulling Trailer
+(s)
+(5)Truck Tractor 
+(Bobtail)
+(6)Truck Tractor/Semi-Trailer
+(7)Truck Tractor/Double
+(8)Truck Tractor/Triple
+(10)Vehicle 10,000 pounds or less placarded for hazardous materials
+(19)Truck More Than 10,000 lbs, Cannot Classify
+(20)Bus/Large Van 
+(seats for 9-15 occupants, including driver)
+(21)Bus 
+(seats for more than 15 occupants, including driver)
+(99)Unknown
+
+Vehicle Make 
+(-1)Blank
+(1)American Motors
+(2)Jeep / Kaiser-Jeep / Willys- Jeep
+(3)AM General
+(6)Chrysler
+(7)Dodge
+(8)Imperial
+(9)Plymouth
+(10)Eagle
+(12)Ford
+(13)Lincoln
+(14)Mercury
+(18)Buick / Opel
+(19)Cadillac
+(20)Chevrolet
+(21)Oldsmobile
+(22)Pontiac
+(23)GMC
+(24)Saturn
+(25)Grumman
+(26)Coda
+(29)Other Domestic Manufacturers
+(30)Volkswagen
+(31)Alfa Romeo
+(32)Audi
+(33)Austin/Austin Healey
+(34)BMW
+(35)Datsun/Nissan
+(36)Fiat
+(37)Honda
+(38)Isuzu
+(39)Jaguar
+(40)Lancia
+(41)Mazda
+(42)Mercedes-Benz
+(43)MG
+(44)Peugeot
+(45)Porsche
+(46)Renault
+(47)Saab
+(48)Subaru
+(49)Toyota
+(50)Triumph
+(51)Volvo
+(52)Mitsubishi
+(53)Suzuki
+(54)Acura
+(55)Hyundai
+(56)Merkur
+(57)Yugo
+(58)Infiniti
+(59)Lexus
+(60)Daihatsu
+(61)Sterling
+(62)Land Rover
+(63)KIA
+(64)Daewoo
+(65)Smart
+(67)Scion
+(69)Other Import
+(70)BSA
+(71)Ducati
+(72)Harley-Davidson
+(73)Kawasaki
+(74)Moto-Guzzi
+(75)Norton
+(76)Yamaha
+(77)Victory
+(80)Brockway
+(81)Diamond Rio or Rio
+(82)Freightliner
+(83)FWD
+(84)International Harvester/Navistar
+(85)Kenworth
+(86)Mack
+(87)Peterbilt
+(88)Iveco/Magirus
+(89)White/Autocar White/GMC
+(90)Bluebird
+(91)Eagle Coach
+(92)Gillig
+(93)MCI
+(94)Thomas Built
+(97)Not Reported
+(98)Other Make
+(99)Unknown Make
+
+(-1)Blank
+(-1)Blank
+(1)Rambler/American
+(2)Rebel/Matador/Marlin
+(3)Ambassador
+(4)Pacer
+(5)AMX
+(6)Javelin
+(7)Hornet/Concord
+(8)Spirit/Gremlin
+(9)Eagle
+(10)Eagle SX-4
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(-1)Blank
+(1)Compass
+(401)CJ-2/CJ-3/CJ-4
+(402)CJ-5/CJ-6/CJ-7/CJ-8
+(403)YJ series/Wrangler
+(404)Cherokee 
+(1984-on)
+(405)Liberty
+(406)Commander
+(407)Patriot
+(421)Cherokee 
+(thru 1983)
+(422)Grand Cherokee 
+(For 2014 on. Use model 403 for model years prior to 2013.)
+(431)Grand Wagoneer
+(481)Pick-up
+(482)Comanche
+(498)Other 
+(light truck)
+(499)Unknown 
+(light truck)
+(999)Unknown 
+(JEEP)
+(-1)Blank
+(401)Dispatcher
+(402)Hummer
+(421)Hummer 
+(SUV from 1993-2003; see 431 for 2004 on) 
+(for Pickup, see model 481)
+(431)Hummer 
+(2004 on; see model 421 for 1993-2003)
+(441)MV-1
+(466)Dispatcher
+(481)Hummer 
+(Pickup) 
+(for SUV see model 421 for 1993-2003; see 431 for 2004 on)
+(482)Hummer
+(498)Other 
+(light truck)
+(499)Unknown 
+(light truck)
+(884)Medium/Heavy Truck
+(898)Other 
+(medium/heavy truck)
+(983)Bus: Rear engine, Flat front
+(988)Other
+(bus)
+(989)Unknown Bus Type
+(998)Other 
+(vehicle)
+(999)Unknown 
+(AM GENERAL)
+(-1)Blank
+(9)Cordoba
+(10)New Yorker 
+(thru 78)/ Newport/5th Avenue/Imperial 
+(1979-83) 
+(excludes
+all FWD)
+(14)New Yorker/E-Class/Imperial/ Fifth Avenue
+(15)Laser
+(16)LeBaron
+(17)LeBaron GTS/GTC
+(18)200
+(21)SRT Viper
+(31)TC 
+(Maserati Sport)
+(35)Conquest
+(41)Concorde
+(42)LHS
+(43)Sebring
+(44)Cirrus
+(50)Executive
+(51)300M/300/300C/300S
+(52)PT Cruiser
+(53)Prowler 
+(2002 on) 
+(1997,1999-01 see Plymouth)
+(54)Pacifica
+(55)Crossfire
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(421)Aspen
+(441)Town and Country
+(442)Voyager 
+(2000 on; 1984-00 see Plymouth)
+(499)Unknown 
+(light truck)
+(999)Unknown 
+(CHRYSLER)
+(-1)Blank
+(1)Dart
+(2)Coronet/Magnum/ Charger 
+(thru 1978)
+(3)Polara/Monaco/ Royal Monaco
+(4)Viper
+(5)C
+allenger
+(6)Aspen
+(7)Diplomat
+(8)Omni/Charger 
+(1983 on)
+(9)Mirada
+(10)St Regis
+(11)Aries 
+(K)
+(12)400
+(13)Rampage 
+(car-based pickup)
+(14)600
+(15)Daytona
+(16)Lancer
+(17)Shadow
+(18)Dynasty
+(19)Spirit
+(20)Neon
+(21)Magnum
+(24)Charger
+(25)Caliber
+(26)Avenger
+(27)Journey
+(28)C
+allenger
+(29)Dart 
+(2013 on. See model 001 for 1960-1976.)
+(33)C
+allenger
+(34)Colt 
+(includes 2WD Vista)
+(35)Conquest
+(39)Stealth
+(40)Monaco
+(41)Intrepid
+(42)Avenger
+(43)Stratus
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(401)RaiderSport
+(402)Durango 
+(1998-2003 only; see model 422 for 2004 on)
+(403)Nitro
+(421)Ramcharger
+(422)Durango 
+(2004 on; see 402 for 1998-2003 models)
+(441)Vista Van
+(442)Caravan/Grand Caravan
+(461)B-Series Van/Ram Van/ Ram Wagon
+(462)Sprinter
+(463)Ram Promaster
+(470)Van Derivative
+(471)D50, Colt pickup, Ram 50/Ram 100
+(472)Dakota
+(481)D, W-Series pickup
+(482)Ram Pickup
+(498)Other 
+(light truck)
+(499)Unknown 
+(light truck)
+(850)Motor Home
+(870)Medium/Heavy Van-Based Vehicle
+(880)Medium/Heavy Pickup 
+(pickup-style only – over 10,000 lbs)
+(881)Medium/Heavy – CBE
+(882)Medium/Heavy – COE low entry
+(883)Medium/Heavy – COE high entry
+(884)Medium/Heavy –Unknown engine location
+(890)Medium/Heavy – COE entry position unknown
+(898)Other 
+(medium/heavy truck)
+(981)Bus**: Conventional 
+(Engine out front)
+(988)Other 
+(bus)
+(989)Unknown 
+(bus)
+(998)Other 
+(vehicle)
+(999)Unknown 
+(DODGE)
+(-1)Blank
+(10)Imperial
+(398)Other 
+(automobile
+(399)Unknown 
+(automobile)
+(-1)Blank
+(1)Valiant/Scamp/Duster 
+(thru 1976)
+(2)Satellite/Belvedere
+(3)Fury 
+(Fury Gran thru '78)
+(4)Gran Fury 
+('80 on)
+(5)Barracuda
+(6)Volare'
+(7)Caravelle
+(8)Horizon/Turismo
+(11)Reliant 
+(K)
+(13)Scamp-
+(car-based p/u)
+(17)Sundance
+(19)Acclaim
+(20)Neon 
+(2002 and on, see Dodge)
+(31)Cricket
+(32)Arrow
+(33)Sapporo
+(34)Champ/Colt import 
+(includes 2WD Vista)
+(35)Conquest
+(37)Laser
+(38)Breeze
+(39)Prowler 
+(2002 and on, see Chrysler)
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(421)Trailduster
+(441)Vista Van
+(442)Voyager 
+(minivan) 
+(2001 and on, see Chrysler)
+(461)Van-fullsize 
+(B-series)
+(471)Arrow pickup 
+(foreign)
+(498)Other 
+(light truck)
+(499)Unknown 
+(light truck)
+(998)Other 
+(vehicle)
+(999)Unknown 
+(PLYMOUTH)
+(-1)Blank
+(34)Summit 
+(excludes wagon)
+(37)Talon
+(40)Premier
+(41)Vision
+(44)Me
+allion
+(45)Summit Wagon
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(-1)Blank
+(1)Falcon
+(2)Fairlane
+(3)Mustang/Mustang II
+(4)Thunderbird 
+all sizes)
+(5)LTD II
+(6)LTD/Custom/Galaxy 
+all sizes)
+(7)Ranchero
+(8)Maverick
+(9)Pinto
+(10)Torino/Gran Torino/Elite
+(11)Granada
+(12)Fairmont
+(13)Escort/EXP/ZX2
+(15)Tempo
+(16)Crown Victoria
+(17)Taurus/Taurus X
+(18)Probe
+(21)Five Hundred
+(22)Freestyle
+(23)Fusion
+(24)Edge
+(25)Flex
+(26)City
+(27)C-Max
+(31)English Ford
+(32)Fiesta
+(33)Festiva
+(34)Laser
+(35)Contour
+(36)Aspire
+(37)Focus
+(38)GT
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(401)Bronco 
+(thru 1977)/Bronco II/Explorer/Explorer Sport
+(402)Escape
+(421)Bronco-fullsize 
+(1978-on)
+(422)Expedition
+(423)Excursion
+(441)Aerostar
+(442)Windstar
+(443)Freestar
+(444)Transit Connect
+(461)E-Series Van/Econoline
+(462)Transit
+(470)Van Derivative
+(471)Ranger
+(472)Courier
+(473)Explorer Sport Trac
+(481)F-Series pickup
+(498)Other 
+(light truck)
+(499)Unknown 
+(light truck)
+(850)Motorhome
+(870)Medium/Heavy Van-Based Vehicle
+(880)Medium/Heavy Pickup 
+(pickup-style only - over 10,000 lbs)
+(881)Medium/Heavy – CBE
+(882)Medium/Heavy – COE low entry
+(883)Medium/Heavy – COE high entry
+(884)Medium/Heavy – Unknown engine location
+(890)Medium/Heavy – COE entry position unknown
+(898)Other 
+(medium/heavy truck)
+(981)Bus**: Conventional 
+(Engine out front)
+(988)Other 
+(bus)
+(989)Unknown 
+(bus)
+(998)Other 
+(vehicle)
+(999)Unknown 
+(FORD)
+(-1)Blank
+(1)Continental 
+(thru '81)/ Town Car
+(2)Mark
+(5)Continental 
+('82 on)
+(11)Versailles
+(12)LS
+(13)Zephyr/MKZ
+(14)MKX
+(15)MKS
+(16)MKT
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(401)Aviator
+(421)Navigator
+(481)Blackwood
+(482)Mark LT
+(498)Other 
+(light truck)
+(499)Unknown 
+(light truck)
+(999)Unknown 
+(LINCOLN)
+(-1)Blank
+(2)Cyclone
+(3)Capri- domestic 
+(1967 see 008)
+(4)Cougar/XR7 
+(1967-1997)
+(6)Marquis/Monterey 
+(car version; for van version 2004 on see code 444) /Grand Marquis
+(8)Comet
+(9)Bobcat
+(10)Montego 
+(prior to 1976; for 2005 on see code 020)
+(11)Monarch
+(12)Zephyr
+(13)Lynx/LN7
+(15)Topaz
+(17)Sable
+(20)Montego 
+(2005 on)
+(21)Milan
+(31)Capri-foreign
+(33)Pantera-foreign
+(36)Tracer
+(37)Mystique
+(38)Cougar 
+(1999 on)
+(39)Marauder
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(401)Mountaineer
+(402)Mariner
+(443)Villager
+(444)Monterey 
+(van version; for car version prior to 2004 see code 006)
+(498)Other 
+(light truck)
+(499)Unknown 
+(light truck)
+(999)Unknown 
+(MERCURY)
+(-1)Blank
+(1)Special/Skylark
+(2)LeSabre/Centurion/ Estate Wagon, Invicta, Custom, Limited, T-Type, Ltd, C.M.I, LE
+(3)Electra/Electra 225/ Park Limited, Park Avenue, Ultra, Base
+(4)Roadmaster
+(5)Riviera
+(7)Century
+(8)Apollo/Skylark
+(10)Regal 
+(RWD only)
+(12)Skyhawk
+(15)Skylark 
+(76-85)
+(18)Somerset/Skylark
+(19)Regal 
+(2011 on)
+(20)Regal 
+(FWD)
+(21)Reatta
+(22)LaCrosse
+(23)Lucerne
+(24)Enclave 
+(2008-12 model years only. For 2013 on see model 403.)
+(25)Verano
+(31)Opel Kadett
+(32)Opel Manta
+(33)Opel GT
+(34)Opel Isuzu
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(401)Rendezvous
+(402)Rainier
+(404)Encore
+(421)Enclave 
+(2013 on. See model 024 for 2008-12 model years.)
+(441)Terraza
+(498)Other 
+(light truck)
+(499)Unknown 
+(light truck)
+(999)Unknown BUICK
+(-1)Blank
+(3)Deville/Fleetwood,Coupe de Ville, Sedan de Ville, Fleetwood Brougham, Fleetwood 60 Special, d'Elegan
+(4)Limousine
+(5)Eldorado
+(6)Commercial Series
+(9
+Allante'
+(14)Seville
+(16)Cimarron
+(17)Catera
+(18)CTS/CTC
+(19)XLR
+(20)SRX
+(21)STS
+(22)DTS
+(23)XTS
+(24)ATS
+(25)ELR
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(421)Escalade/ESV 
+(from 2004 on; see 431 for 2003 only)
+(431)Escalade ESV
+(480)Escalade EXT 
+(from 2002 -2006; for 2007 on see 481)
+(481)Escalade EXT 
+(from 2007 on; see 480 for 2002-2006)
+(498)Other 
+(light truck)
+(499)Unknown 
+(light truck)
+(999)Unknown CADILLAC
+(-1)Blank
+(1)Chevelle/Malibu Classic, Councours, Laguna**, S-3, Greenbriar, Estate, 300,SS-396/454, Deluxe
+(2)Impala/Caprice
+(4)Corvette
+(6)Corvair
+(7)El Camino
+(8)Nova 
+(-'79)
+(9)Camaro
+(10)Monte Carlo 
+(thru '88)
+(11)Vega
+(12)Monza
+(13)Chevette
+(15)Citation
+(16)Cavalier
+(17)Celebrity
+(19)Beretta/Corsica
+(20)Lumina
+(21)SS 
+(For 2014 on. For Impala/Caprice SS use model 20-002.)
+(22)Cobalt
+(23)HHR
+(24)Traverse 
+(2009-2012 only. For 2013 on see model 423.)
+(25)Cruze
+(26)Volt
+(27)Caprice PPV
+(28)Sonic
+(29)Spark
+(31)Spectrum
+(32)Nova/Geo Prizm/Prism
+(33)Sprint/Geo Sprint
+(34)Geo Metro/Metro
+(35)Geo Storm
+(36)Monte Carlo 
+(1995 on)
+(37)Malibu/Malibu Maxx
+(38)SSR
+(39)Aveo/Aveo 5
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(401)S-10 Blazer/TrailBlazer 
+(2002 only; for 2003 on, see 403)
+(402)Geo Tracker/Tracker
+(403)TrailBlazer 
+(2003 on; for 2002 model, see 401)
+(404)Equinox
+(405)Captiva
+(421)Fullsize Blazer/Tahoe
+(422)Suburban 
+(from 2004 on; see 431 for 1950-2003)
+(423)Traverse 
+(2013 on. For 2009-2012 see model 024.)
+(431)Suburban 
+(from 1950-2003;see 422 for 2004 on)
+(441)Astro Van
+(442)Lumina APV
+(443)Venture
+(444)Uplander
+(461)G-series van
+(466)P-series van
+(470)Van derivative
+(471)S-10/T-10 Pickup
+(472)LUV
+(473)Colorado
+(481)C, K, R, V-series pickup/Silverado
+(482)Avalanche
+(498)Other 
+(light truck)
+(499)Unknown 
+(light truck)
+(850)Motor Home
+(870)Medium/Heavy Van-Based Vehicle
+(880)Medium/Heavy Pickup 
+(pickup-style only – over 10,000 lbs)
+(881)Medium/Heavy – CBE
+(882)Medium/Heavy – COE low entry
+(883)Medium/Heavy – COE high entry
+(884)Medium/Heavy –Unknown engine location
+(890)Medium/Heavy – COE entry position unknown
+(898)Other 
+(medium/heavy truck)
+(981)Bus**: Conventional 
+(Engine out front)
+(988)Other 
+(bus)
+(989)Unknown 
+(bus)
+(998)Other 
+(vehicle)
+(999)Unknown 
+(CHEVROLET)
+(-1)Blank
+(1)Cutlass 
+(RWD-only)
+(2)Delta 88/LSS
+(3)Ninety-Eight/Regency
+(5)Toronado
+(6)Commercial Series
+(12)Starfire
+(15)Omega
+(16)Firenza
+(17)Ciera
+(18)Calais
+(20)Cutlass 
+(FWD)
+(21)Achieva/Alero
+(22)Aurora
+(23)Intrigue
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(401)Bravada
+(441)Silhouette
+(499)Unknown 
+(light truck)
+(999)Unknown 
+(OLDSMOBILE)
+(-1)Blank
+(1)Lemans/ Tempest 
+(thru 1970)
+(2)Bonneville/Catalina/ Parisienne
+(5)Fiero
+(8)Ventura/GTO
+(9)Firebird/Trans AM
+(10)Grand Prix 
+(RWD)
+(11)Astre
+(12)Sunbird 
+(thru 1980;1985 on see model 016)
+(13)T-1000/1000
+(15)Phoenix
+(16)Sunbird 
+(1985-1994)/J-2000/Sunfire 
+(1995 on)
+(17)6000
+(18)Grand AM
+(19)G5
+(20)Grand Prix 
+(FWD)
+(22)G6
+(23)Solstice
+(24)G8
+(25)G3
+(26)G8-ST
+(31)Lemans 
+(1988-on)
+(32)Vibe
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(401)Aztek
+(403)Torrent
+(441)Trans Sport/ Montana/SV6
+(499)Unknown 
+(light truck)
+(999)Unknown 
+(PONTIAC)
+(-1)Blank
+(7)Ca
+allero
+(399)Unknown 
+(automobile)
+(401)Jimmy/Typhoon/Envoy
+(402)Terrain
+(421)Fullsize Jimmy/Yukon
+(422)Suburban/Yukon XL 
+(2004 on; see 431 for 1950- 2003)
+(423)Acadia 
+(2013 on. For 2007-2012 see model 008.)
+(431)Suburban/Yukon XL 
+(2000 on) 
+(1950-2003 only; see 422 for 2004 on)
+(441)Safari 
+(Minivan)
+(461)G-series van/Savana
+(466)P-series van
+(470)Van derivative
+(471)S15/T15/Sonoma
+(472)Canyon
+(481)C, K, R, V-series pickup/ Sierra
+(498)Other 
+(light truck)
+(499)Unknown 
+(light truck)
+(850)Motor Home
+(870)Medium/Heavy Van-Based Vehicle
+(880)Medium/Heavy Pickup 
+(pickup-style only - over 10,000 lbs
+(881)Medium/Heavy - CBE
+(882)Medium/Heavy – COE low entry
+(883)Medium/Heavy – COE high entry
+(884)Medium/Heavy – Unknown engine location
+(890)Medium/Heavy – COE entry position unknown
+(898)Other 
+(medium/heavy truck)
+(981)Bus**: Conventional 
+(Engine out front)
+(988)Other 
+(bus)
+(989)Unknown 
+(bus)
+(998)Other 
+(vehicle)
+(999)Unknown 
+(GMC)
+(-1)Blank
+(1)SL
+(2)SC
+(3)SW
+(4)EV1/EGV1*
+(5)LS
+(6)LW
+(7)Ion
+(8)Sky
+(9)Aura
+(10)Outlook
+(11)Astra
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(401)Vue
+(441)Relay
+(499)Unknown 
+(Light truck)
+(999)Unknown 
+(SATURN)
+(-1)Blank
+(401)LLV
+(441)Step-in van
+(498)Other 
+(light truck)
+(499)Unknown 
+(light truck)
+(881)Medium/Heavy – CBE
+(882)Medium/Heavy - COE low entry
+(883)Medium/Heavy - COE high entry
+(884)Medium/Heavy - engine location unknown
+(890)Medium/Heavy - entry position unknown
+(898)Other 
+(Medium/Heavy truck)
+(983)Bus: Flat front, rear engine
+(988)Other 
+(bus)
+(989)Unknown 
+(bus)
+(999)Unknown 
+(GRUMMAN/ GRUMMAN-OLSON)
+(1)Coda
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(-1)Blank
+(1)Studabaker/Avanti
+(2)Checker
+(3)Panoz
+(4)Saleen
+(398)Other 
+(automobile)
+(399)Unknown Make
+(-1)Blank
+(31)Karmann Ghia
+(32)Beetle 1300/1500
+(33)Super Beetle
+(34)411/412
+(35)Squareback/Fastback
+(36)Rabbit
+(37)Dasher
+(38)Scirocco
+(40)Jetta/Jetta SportsWagen
+(41)Quantum
+(42)Golf/Cabriolet/Cabrio/GTI
+(43)Rabbit Pickup
+(44)Fox
+(45)Corrado
+(46)Passat 
+(CC - 2008 thru 2011; see 052 for 2012 on)
+(47)New Beetle
+(48)Phaeton
+(51)Eos
+(52)CC 
+(For 2012 on. See model 046 for 2008-2011.)
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(401)The Thing 
+(181)
+(402)Tiguan
+(421)Touareg/Tourareg 2
+(441)Vanagon/Camper
+(442)Eurovan
+(443)Routan
+(498)Other 
+(light truck)
+(499)Unknown 
+(light truck)
+(998)Other 
+(vehicle)
+(999)Unknown
+(-1)Blank
+(31)Spider 
+(Spyder)
+(32)Sports Sedan
+(33)Sprint/Special
+(34)GTV-6
+(35)164 
+(Alpha 164)
+(36)4c
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(-1)Blank
+(31)Super 90
+(32)100
+(33)Fox
+(34)4000
+(35)5000
+(36)80/90
+(37)200
+(38)V-8 Quattro
+(39)Coupe Quattro
+(40)S4 
+(1992-1994; 2000-2011 only. See model 055 for 2012 on)/S6 
+(1992-1994; 2000-2011 only. See model 057 for 2013 on.)
+(41)Cabriolet 
+(1994-1998)
+(42)A6
+(43)A4
+(44)A8
+(45)TT/TTS
+(46)S8
+(47
+Allroad 
+(2001-2005)
+(48)A3
+(49)A5
+(50)R8
+(51)A7
+(52)S5
+(54)RS5
+(55)S4 
+(2012 on only. See model 040 for 1992-1994; 2000-2011)
+(56)S6 
+(2013 on. See model 040 for 1992-1994; 2000-2011)
+(57)S7
+(58)RS7
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(401)Q7
+(402)Q5
+(403
+Allroad
+(2013 on)
+(404)SQ5
+(499)Unknown 
+(light truck)
+(999)Unknown 
+(AUDI)
+(-1)Blank
+(31)Marina
+(32)America
+(33)Healey Sprite
+(34)Healey 100/3000
+(35)Mini/Mini Cooper/Mini Moke
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(-1)Blank
+(31)1600, 1800, 2000,2002
+(32)Coupe 
+(before 1975)
+(33)Bavarian Sedan
+(34)3-series
+(35)5-series
+(36)6-series
+(37)7-series
+(38)8-series
+(39)Z3
+(40)Z8
+(41)V5
+(42)Z4
+(43)1-Series
+(44)X6
+(45)i3
+(46)i8
+(47)4-Series
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(401)X5
+(402)X3
+(403)X1
+(499)Unknown 
+(light truck)
+(703)125-349cc
+(705)450-749cc
+(706)750cc and over
+(709)Unknown cc
+(999)Unknown 
+(BMW)
+(-1)Blank
+(31)F-10
+(32)200SX/240SX
+(33)210/1200/B210
+(34)Z-car, ZX
+(35)310
+(36)510
+(37)610
+(38)710
+(39)810/Maxima
+(40)Roadster
+(41)311/411
+(42)Stanza
+(43)Sentra
+(44)Pulsar
+(45)Micra
+(46)NX 1600/2000
+(47)Altima
+(48)350Z/370Z
+(49)Murano
+(50)Versa
+(51)Rogue
+(52)Cube
+(53)GT-R
+(55)Leaf
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(401)Pathfinder
+(402)Xterra
+(403)Juke
+(421)Pathfinder Armada
+(441)Van
+(442)Axxess
+(443)Quest
+(444)Altra EV*
+(446)NV200/eNV200
+(461)NV
+(471)Datsun/Nissan Pickup 1955-1997)
+(472)Frontier 
+(1998 on)
+(473)Titan 
+(from 2004-06; see 481 for 2007 on)
+(481)Titan 
+(from 2007 on; see 473 for 2004-06)
+(498)Other 
+(light truck)
+(499)Unknown 
+(light truck)
+(870)Medium Heavy Van-Based Vehicle
+(883)Medium/Heavy – COE high entry
+(898)Other 
+(medium/heavy truck)
+(999)Unknown 
+(NISSAN/DATSUN)
+(-1)Blank
+(31)124 
+(Coupe/Sedan)
+(32)124 Spider/Racer
+(33)Brava/131
+(34)850 
+(Coupe/Spider)
+(35)128
+(36)X-1/9
+(37)Strada
+(38)500
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(401)500L
+(499)Unknown 
+(light truck)
+(882)Medium/Heavy – COE low entry
+(883)Medium/Heavy – COE high entry
+(890)Medium/Heavy – COE entry position unknown
+(898)Other 
+(medium/heavy truck)
+(998)Other 
+(vehicle)
+(999)Unknown 
+(FIAT)
+(-1)Blank
+(31)Civic/CRX, del Sol
+(32)Accord
+(33)Prelude
+(34)600
+(35)S2000
+(36)EV Plus*
+(37)Insight
+(38)FCX
+(39)Fit
+(41)CR-Z
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(401)Passport
+(402)CR-V
+(403)Element
+(421)Pilot
+(441)Odyssey
+(471)Ridgeline
+(498)Other 
+(light truck)
+(499)Unknown 
+(light truck)
+(701)0- 50 cc
+(702)51-124 cc
+(703)125-349 cc
+(704)350-449 cc
+(705)450-749 cc
+(706)750 cc or greater
+(709)Unknown cc
+(732)51-124cc
+(733)125-349cc
+(734)350cc or greater
+(739)Unknown cc
+(998)
+(Other Vehicle)
+(999)Unknown 
+(HONDA)
+(-1)Blank
+(31)I-Mark
+(32)Impulse
+(33)Stylus
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(401)Trooper/Trooper II
+(402)Rodeo/ Rodeo Sport
+(403)Amigo
+(404)VehiCROSS
+(405)Axiom
+(421)Ascender
+(441)Oasis
+(471)P'up 
+(pickup)
+(472)Hombre
+(473)i-280
+(474)i-350
+(498)Other 
+(light truck)
+(499)Unknown 
+(light truck)
+(881)Medium/Heavy – CBE
+(882)Medium/Heavy – COE, low entry
+(883)Medium/Heavy – COE, high entry
+(884)Medium/Heavy – Unknown engine location
+(890)Medium/Heavy – COE entry position unknown
+(898)Other 
+(medium/heavy truck)
+(981)Bus**: Conventional 
+(Engine out front)
+(982)Bus: Front engine, Flat front
+(983)Bus: Rear engine Flat front
+(988)Other 
+(bus)
+(989)Unknown 
+(bus)
+(999)Unknown 
+(ISUZU)
+(-1)Blank
+(31)XJ-S, XK8 Coupe
+(32)XJ/XJ6/12/XJR/XJ8/ XJ8L Sedan/Coupe
+(33)XK-E
+(34)S-Type
+(35)XKR/XK
+(36)X-Type
+(37)XF/XFR
+(38)F-Type
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(-1)Blank
+(31)Beta Sedan – HPE
+(32)Zagato
+(33)Scorpion
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(-1)Blank
+(31)RX2
+(32)RX3
+(33)RX4
+(34)RX7
+(35)323/GLC/ Protégé/ Protégé5
+(36)Cosmo
+(37)626
+(38)808
+(39)Mizer
+(40)R-100
+(41)616/618
+(42)1800
+(43)929
+(44)MX-6
+(45)Miata/MX-5
+(46)MX-3
+(47)Millenia
+(48)MP3
+(49)RX-8
+(50)Mazda6
+(51)Mazda3
+(52)Mazda5
+(53)CX-7
+(54)CX-9 
+(2007-12 only.For 2013 on see model 421.)
+(55)Mazda2
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(401)Navajo
+(402)Tribute
+(403)CX5
+(421)CX-9 
+(2013 on. See model 054 for 2007-12 model years.)
+(441)MPV
+(471)Pickup/ B-Series Pickup
+(498)Other 
+(light truck)
+(499)Unknown 
+(light truck)
+(999)Unknown 
+(MAZDA)
+(-1)Blank
+(31)200/220/230/240/ 250/260/280/300/ 320/420
+(32)230/280 SL
+(33)300/350/380/450/500/ 560 SL
+(34)350/380/420/450/560 SLC
+(35)280/300 SEL
+(36)300/380/420/450/500/560/SEL & 500/560, 600 SEC & 300/350 SDL
+(37)300/380/450 SE
+(38)600, 6.9 Sedan
+(39)190
+(40)300
+(41)400/500E
+(42)C Class 
+(94 on)
+(43)S Class 
+(95 on)
+(44)SL Class 
+(95 on)
+(45)SLK
+(46)CL Class
+(47)CLK
+(48)E Class 
+(97 on)
+(49)SLR
+(50)R Class
+(51)CLS Class
+(52)SLS Class
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(401)M/ML Class
+(402)G Class
+(403)GLK Class
+(421)GL Class
+(461)SPRINTER
+(470)Van derivative
+(498)Other 
+(light truck)
+(499)Unknown 
+(light truck)
+(870)Medium Heavy Van-Based Vehicle
+(881)Medium/Heavy - CBE
+(882)Medium/Heavy – COE low entry
+(883)Medium/Heavy – COE high entry
+(884)Medium/Heavy – Unknown engine location
+(890)Medium/Heavy – COE entry position unknown
+(898)Other 
+(medium/heavy truck)
+(981)Bus**: Conventional 
+(Engine out front)
+(988)Other 
+(bus)
+(989)Unknown 
+(bus)
+(998)Other 
+(vehicle)
+(999)Unknown 
+(MERCEDES-BENZ)
+(-1)Blank
+(31)Midget
+(32)MGB
+(33)MGB
+(34)MGA
+(35)TA/TC/TD/TF
+(36)MGC
+(37)Magnette/Sports Sedans
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(-1)Blank
+(31)304
+(32)403
+(33)404
+(34)504/505
+(35)604
+(36)405
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(701)0 - 50 cc
+(702)51-124cc
+(709)Unknown cc
+(999)Unknown 
+(PEUGEOT)
+(-1)Blank
+(31)911/996
+(32)912
+(33)914
+(34)924
+(35)928
+(36)930
+(37)944
+(38)959
+(39)968
+(40)986/Boxster
+(41)Cayman
+(42)Panamera
+(43)918
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(421)Cayenne
+(999)Unknown
+(PORSCHE)
+(-1)Blank
+(31)LeCar
+(32)Dauphine/10/R-8 Caravelle
+(33)12
+(34)15
+(35)16
+(36)17
+(37)18i/Sportwagon
+(38)Fuego TL, TS, GTL, GTS, Turbo
+(38)Fuego
+(39
+Alliance/Encore GTA, Convertible
+(41)Alpine
+(44)Me
+allion **
+(45)Premier**
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(-1)Blank
+(31)99/99E/900
+(32)Sonnett
+(33)95/96
+(34)9000
+(35)9-3/9-3X
+(36)9-5
+(37)9-2X
+(38)9-4X
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(401)9-7x
+(999)Unknown
+(SAAB)
+(-1)Blank
+(31)Loyale 
+(1990 on)/DL/ FE/G/GF/GL/GLF/STD
+(32)Star
+(33)360
+(34)Legacy/Outback
+(prior to 2003 only; see 045 for 2003 on)
+(35)XT/XT6
+(36)Justy
+(37)SVX
+(38)Impreza
+(39)RX
+(43)Brat
+(44)Baja
+(45)Outback 
+(2003 on)
+(see 034 for prior to 2003)
+(46)BRZ
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(401)Forester
+(402)B9 Tribeca
+(403)XV Crosstrek
+(499)Unknown 
+(light truck)
+(999)Unknown 
+(SUBARU)
+(-1)Blank
+(31)Corona
+(32)Corolla
+(33)Celica
+(34)Supra
+(35)Cressida
+(36)Crown
+(37)Carina
+(38)Tercel
+(39)Starlet
+(40)Camry
+(41)MR-2/MR Spyder
+(42)Paseo
+(43)Avalon
+(44)Solara
+(45)ECHO
+(46)Prius *
+(47)Matrix
+(48)Scion xA
+(49)Scion xB
+(50)Scion tC
+(51)Yaris
+(52)Scion xD
+(53)Venza
+(54)Scion iQ
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(401)4-Runner
+(402)RAV4 *
+(403)Highlander
+(404)FJ Cruiser
+(421)Land Cruiser
+(422)Sequoia
+(441)Minivan 
+(1984-90)/ Previa 
+(1991 on)
+(442)Sienna
+(471)Pickup
+(472)Tacoma
+(481)T-100
+(482)Tundra
+(498)Other 
+(light truck)
+(499)Unknown 
+(light truck)
+(999)Unknown 
+(TOYOTA)
+(-1)Blank
+(31)Spitfire
+(32)GT-6
+(33)TR4
+(34)TR6
+(35)TR7/TR8
+(36)Herald
+(37)Stag
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(701)0-50cc
+(702)51-124cc
+(703)125-349cc
+(704)350-449cc
+(705)450-749cc
+(706)750cc or greater
+(709)Unknown cc
+(799)Unknown 
+(motored cycle)
+(999)Unknown 
+(TRIUMPH)
+(-1)Blank
+(31)122
+(32)140/142/144/145 *
+(33)164
+(34)240 series*/DL/GL/GLT
+(35)260 series/GLE
+(36)1800
+(37)PV544
+(38)760/780
+(39)740
+(40)940
+(41)960
+(42)850
+(43)70 Series
+(44)90 Series
+(45)80 Series
+(46)40 Series
+(47)60 Series
+(48)V50
+(49)C30
+(50)XC60
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(401)XC90
+(881)Medium/Heavy – CBE
+(882)Medium/Heavy - COE low entry
+(883)Medium/Heavy - COE high entry
+(884)Medium/Heavy – Unknown engine location
+(890)Medium/Heavy – COE entry position unknown
+(898)Other 
+(medium/heavy truck)
+(981)Bus**: Conventional 
+(Engine out front)
+(988)Other 
+(bus)
+(989)Unknown 
+(bus)
+(999)Unknown 
+(VOLVO)
+(-1)Blank
+(31)Starion
+(32)Tredia
+(33)Cordia
+(34)Galant
+(35)Mirage
+(36)Precis
+(37)Eclipse
+(38)Sigma
+(39)3000 GT
+(40)Diamante
+(41)iMEV
+(45)Expo Wagon
+(46)Lancer/Lancer Sportback/ Lancer Evolution
+(47)Outlander
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(401)Montero/Montero Sport
+(402)Endeavor
+(441)Mini-Van
+(471)Pickup
+(472)Raider
+(498)Other 
+(light truck)
+(499)Unknown 
+(light truck)
+(882)Medium/Heavy – COE, low entry
+(898)Other 
+(medium/heavy truck)
+(981)Bus**: Conventional 
+(Engine out front)
+(982)Bus: Front engine, Flat Front
+(983)Bus: Rear engine, Flat front
+(988)Other 
+(bus)
+(989)Unknown 
+(bus)
+(999)Unknown 
+(MITSUBISHI)
+(-1)Blank
+(31)Swift/SA310
+(32)Esteem
+(33)Aerio
+(34)Forenza
+(35)Verona
+(36)Reno
+(40)SX4
+(41)Kizashi
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(401)Samurai
+(402)Sidekick/Vitara/ Vitara V6
+(403)X-90
+(404)Grand Vitara 
+(2003 on; see model 402 for models prior to 2003)
+(405)XL-7 
+(2003 on; see 402 for 2002 model year)
+(481)Equator
+(498)Other 
+(light truck)
+(499)Unknown 
+(light truck)
+(701)0-50cc
+(702)51-124cc
+(703)125-349cc
+(704)350-449cc
+(705)450-749cc
+(706)750cc-over
+(709)Unknown cc
+(731)0-50cc
+(732)51-124cc
+(733)125-349cc
+(734)350cc or greater
+(739)Unknown cc
+(999)Unknown 
+(SUZUKI)
+(-1)Blank
+(31)Integra
+(32)Legend
+(33)NSX
+(34)Vigor
+(35)TL
+(36)RL / RLX
+(37)CL
+(38)RSX
+(39)TSX
+(40)ZDX
+(41)ILX
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(401)SLX
+(402)RDX
+(421)MDX
+(499)Unknown 
+(light truck)
+(999)Unknown 
+(ACURA)
+(-1)Blank
+(31)Pony
+(32)Excel
+(33)Sonata
+(34)Scoupe
+(35)Elantra
+(36)Accent
+(37)Tiburon
+(38)XG300
+(2001)/ XG350
+(2002 on)
+(39)Azera
+(40)Equus
+(41)Genesis
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(401)Santa Fe
+(402)Tucson
+(403)Veracruz 
+(2007 only)
+(421)Veracruz 
+(2008 on; see 403 for 2007 only)
+(441)Entourage
+(499)Unknown 
+(light truck)
+(999)Unknown 
+(HYUNDAI)
+(-1)Blank
+(31)XR4Ti
+(32)Scorpio
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(-1)Blank
+(31)GV/GVL/GVX
+(-1)Blank
+(31)M30
+(32)Q45
+(33)G20
+(34)J30
+(35)I30
+(36)I35
+(37)G25/G35/G37
+(38)M35/M37/M45/M56
+(39)FX35/FX37/FX45/FX50
+(40)EX35
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(401)QX4
+(402)JX35
+(421)QX56
+(499)Unknown 
+(Light Truck)
+(999)Unknown 
+(INFINITI)
+(-1)Blank
+(31)ES-250/300/300h/330/ 350
+(32)LS-400/430/460/L/600h/L
+(33)SC-400/SC-300
+(34)GS-300/350/400/430/ 450h/460
+(35)IS-250/300/350/500
+(36)SC-430
+(37)HS 250h
+(38)CT 200h
+(39)LFA
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(401)RX300/350
+(402)GX470
+(403)RX330/350/400h/450h
+(404)GX460
+(421)LX450/470/570
+(499)Unknown 
+(light truck)
+(999)Unknown 
+(LEXUS)
+(-1)Blank
+(31)Charade
+(401)Rocky
+(999)Unknown 
+(DAIHATSU)
+(-1)Blank
+(31)827
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(-1)Blank
+(401)Discovery
+(402)Defender
+(403)Freelander 
+(2004 on; see 422 for 2002-03.)
+(404)Range Rover Evoque
+(421)Range Rover
+(422)Freelander 
+(2002-03 only; see 403 for 2004 on)
+(423)LR3
+(424)LR2
+(498)Other 
+(light truck)
+(499)Unknown 
+(light truck)
+(-1)Blank
+(31)Sephia
+(32)Rio/Rio5
+(33)Spectra/Spectra5
+(34)Optima
+(35)Amanti
+(36)Rondo
+(37)Soul
+(38)Forte
+(39)Cadenza
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(401)Sportage
+(402)Sorrento
+(421)Borrego
+(441)Sedona
+(498)Other 
+(Light Truck)
+(499)Unknown 
+(light truck)
+(999)Unknown 
+(KIA)
+(-1)Blank
+(31)Lanos
+(32)Nubira
+(33)Leganza
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(31)Fortwo
+(398)Other 
+(automobile)
+(399)Unknown 
+(automobile)
+(35)FR-S
+(-1)Blank
+(31)Aston Martin
+(32)Bricklin
+(33)Citroen
+(34)DeLorean
+(35)Ferrari
+(36)Hillman
+(37)Jensen
+(38)Lamborghini
+(39)Lotus
+(40)Maserati
+(41)Morris
+(42)Rolls Royce/Bentley
+(44)Simca
+(45)Sunbeam
+(46)TVR
+(48)Desta
+(49)Reliant
+(52)Bertone
+(53)Lada
+(54)Mini-Cooper
+(55)Morgan 
+(2003 on; Prior to 2003 see 398)
+(56)Maybach
+(57)Spyker
+(58)Koenigsegg
+(61)Mahindra
+(62)Caterhan
+(63)McLaren
+(64)Bugatti
+(398)Other 
+(automotive)
+(399)Unknown Make
+(-1)Blank
+(701)0-50cc
+(702)51-124cc
+(703)125-349cc
+(704)350-449cc
+(705)450-749cc
+(706)750cc or greater
+(709)Unknown cc
+(-1)Blank
+(701)0-50cc
+(702)51-124cc
+(703)125-349cc
+(704)350-449cc
+(705)450-749cc
+(706)750cc or greater
+(709)Unknown cc
+(-1)Blank
+(701)0-50cc
+(702)51-124cc
+(703)125-349cc
+(704)350-449cc
+(705)450-749cc
+(706)750cc or greater
+(709)Unknown cc
+(-1)Blank
+(701)0-50cc
+(702)51-124cc
+(703)125-349cc
+(704)350-449cc
+(705)450-749cc
+(706)750cc or greater
+(709)Unknown cc
+(731)0-50cc
+(732)51-124cc
+(733)125-349cc
+(734)350cc or greater
+(739)Unknown cc
+(998)Other 
+(Vehicle)
+(-1)Blank
+(704)350-449cc
+(705)450-749cc
+(706)750cc or greater
+(709)Unknown cc
+(-1)Blank
+(704)350-449cc
+(705)450-749cc
+(706)750cc or greater
+(709)Unknown cc
+(-1)Blank
+(701)0-50cc
+(702)51-124cc
+(703)125-349cc
+(704)350-449cc
+(705)450-749cc
+(706)750cc or greater
+(709)Unknown cc
+(731)0-50cc
+(732)51-124cc
+(733)125-349cc
+(734)350cc or greater
+(739)Unknown cc
+(998)Other 
+(Vehicle)
+(706)750cc or greater
+(709)Unknown cc
+(998)Other 
+(Vehicle)
+(-1)Blank
+(850)Motor Home
+(881)Medium/Heavy – CBE
+(882)Medium/Heavy - COE low entry
+(883)Medium/Heavy - COE high entry
+(884)Medium/Heavy – Unknown engine location
+(890)Medium/Heavy – COE entry position unknown
+(898)Other 
+(medium/heavy truck)
+(981)Bus**: Conventional 
+(Engine out front)
+(982)Bus: Front engine, Flat front
+(983)Bus: Rear engine, Flat front
+(988)Other 
+(bus)
+(989)Unknown 
+(bus)
+(998)Other 
+(vehicle)
+(999)Unknown 
+(BROCKWAY)
+(-1)Blank
+(850)Motor Home
+(881)Medium/Heavy - CBE
+(882)Medium/Heavy – COE low entry
+(883)Medium/Heavy – COE high entry
+(884)Medium/Heavy – Unknown engine location
+(890)Medium/Heavy – COE entry position unknown
+(898)Other 
+(medium/heavy truck)
+(981)Bus**: Conventional 
+(Engine out front)
+(982)Bus: Front engine, Flat front
+(983)Bus: Rear engine, Flat front
+(988)Other 
+(bus)
+(989)Unknown 
+(bus)
+(998)Other 
+(vehicle)
+(999)Unknown 
+(DIAMOND REO or REO)
+(-1)Blank
+(461)Sprinter/Advantage
+(850)Motor Home
+(870)Medium Heavy Van-Based Vehicle
+(881)Medium/Heavy - CBE
+(882)Medium/Heavy – COE low entry
+(883)Medium/Heavy – COE high entry
+(884)Medium/Heavy – Unknown engine location
+(890)Medium/Heavy – COE entry position unknown
+(898)Other 
+(medium/heavy truck)
+(981)Bus**: Conventional 
+(Engine out front)
+(982)Bus: Front engine, Flat front
+(983)Bus: Rear engine, Flat front
+(988)Other 
+(bus)
+(989)Unknown 
+(bus)
+(998)Other 
+(vehicle)
+(999)Unknown 
+(FREIGHTLINER)
+(-1)Blank
+(850)Motor Home
+(881)Medium/Heavy – CBE
+(882)Medium/Heavy – COE low entry
+(883)Medium/Heavy – COE high entry
+(884)Medium/Heavy – Unknown engine location
+(890)Medium/Heavy – COE entry position unknown
+(898)Other 
+(medium/heavy truck)
+(981)Bus**: Conventional 
+(Engine out front)
+(982)Bus: Front engine, Flat front
+(983)Bus: Rear engine, Flat front
+(988)Other 
+(bus)
+(989)Unknown 
+(bus)
+(998)Other 
+(vehicle)
+(999)Unknown 
+(FWD)
+(-1)Blank
+(421)Scout
+(431)Trave
+(466)Multistop Van
+(481)Pickup
+(498)Other light truck
+(499)Unknown light truck
+(850)Motorhome
+(881)Medium/Heavy - CBE
+(882)Medium/Heavy – COE low entry
+(883)Medium/Heavy – COE high entry
+(884)Medium/Heavy – Unknown engine location
+(890)Medium/Heavy – COE entry position unknown
+(898)Other 
+(medium/heavy truck)
+(981)Bus**: Conventional 
+(Engine out front)
+(982)Bus: Front engine, Flat front
+(983)Bus**: Rear engine, Flat front
+(988)Other 
+(bus)
+(989)Unknown 
+(bus)
+(998)Other 
+(vehicle)
+(999)Unknown 
+(INTL. HARVESTER/ NAVISTAR)
+(-1)Blank
+(850)Motor Home
+(881)Medium/Heavy - CBE
+(882)Medium/Heavy – COE low entry
+(883)Medium/Heavy – COE high entry
+(884)Medium/Heavy – Unknown engine location
+(890)Medium/Heavy – COE entry position unknown
+(898)Other 
+(medium/heavy truck)
+(981)Bus**: Conventional 
+(Engine out front)
+(982)Bus: Front engine, Flat front
+(983)Bus: Rear engine, Flat front
+(988)Other 
+(bus)
+(989)Unknown 
+(bus)
+(998)Other 
+(vehicle)
+(999)Unknown 
+(KENWORTH)
+(-1)Blank
+(850)Motor Home
+(881)Medium/Heavy - CBE
+(882)Medium/Heavy – COE low entry
+(883)Medium/Heavy – COE high entry
+(884)Medium/Heavy – Unknown engine location
+(890)Medium/Heavy – COE entry position unknown
+(898)Other 
+(medium/heavy truck)
+(981)Bus**: Conventional 
+(Engine out front)
+(982)Bus: Front engine, Flat front
+(983)Bus: Rear engine, Flat front
+(988)Other 
+(bus)
+(989)Unknown 
+(bus)
+(998)Other 
+(vehicle)
+(999)Unknown 
+(MACK)
+(-1)Blank
+(850)Motor Home
+(881)Medium/Heavy - CBE
+(882)Medium/Heavy – COE low entry
+(883)Medium/Heavy – COE high entry
+(884)Medium/Heavy – Unknown engine location
+(890)Medium/Heavy – COE entry position unknown
+(898)Other 
+(medium/heavy truck)
+(981)Bus**: Conventional 
+(Engine out front)
+(982)Bus: Front engine, Flat front
+(983)Bus: Rear engine, Flat front
+(988)Other 
+(bus)
+(989)Unknown 
+(bus)
+(998)Other 
+(vehicle)
+(999)Unknown 
+(PETERBILT)
+(-1)Blank
+(850)Motor Home
+(881)Medium/Heavy - CBE
+(882)Medium/Heavy – COE low entry
+(883)Medium/Heavy – COE high entry
+(884)Medium/Heavy – Unknown engine location
+(890)Medium/Heavy – COE entry position unknown
+(898)Other 
+(medium/heavy truck)
+(981)Bus**: Conventional 
+(Engine out front)
+(982)Bus: Front engine, Flat front
+(983)Bus: Rear engine,Flat front
+(988)Other 
+(bus)
+(989)Unknown 
+(bus)
+(998)Other 
+(vehicle)
+(999)Unknown 
+(IVECO/MAGIRUS)
+(-1)Blank
+(850)Motor Home
+(881)Medium/Heavy - CBE
+(882)Medium/Heavy – COE low entry
+(883)Medium/Heavy – COE high entry
+(884)Medium/Heavy – Unknown engine location
+(890)Medium/Heavy – COE entry position unknown
+(898)Other 
+(medium/heavy truck)
+(981)Bus**: Conventional 
+(Engine out front)
+(982)Bus: Front engine, Flat front
+(983)Bus: Rear engine, Flat front
+(988)Other 
+(bus)
+(989)Unknown 
+(bus)
+(998)Other 
+(vehicle)
+(999)Unknown 
+(WHITE/AUTOCAR-WHITE/GMC)
+(-1)Blank
+(461)Van Based
+(981)Bus**: Conventional 
+(Engine out front)
+(982)Bus: Front engine, Flat front
+(983)Bus: Rear engine, Flat front
+(988)Other 
+(bus)
+(989)Unknown 
+(Bus)
+(999)Unknown 
+(BLUEBIRD)
+(-1)Blank
+(981)Bus**: Conventional 
+(Engine out front)
+(982)Bus: Front engine, Flat front
+(983)Bus: Rear engine, Flat front
+(988)Other 
+(bus)
+(989)Unknown 
+(Bus)
+(-1)Blank
+(981)Bus**: Conventional 
+(Engine out front)
+(982)Bus: Front engine, Flat front
+(983)Bus: Rear engine, Flat front
+(988)Other 
+(bus)
+(989)Unknown 
+(bus)
+(-1)Blank
+(981)Bus**: Conventional 
+(Engine out front)
+(982)Bus: Front engine, Flat front
+(983)Bus: Rear engine, Flat front
+(988)Other 
+(bus)
+(989)Unknown 
+(bus)
+(-1)Blank
+(461)Van Based
+(981)Bus**: Conventional 
+(Engine out front)
+(982)Bus: Front engine, Flat front
+(983)Bus: Rear engine, Flat front
+(988)Other 
+(bus)
+(989)Unknown 
+(bus)
+(999)Unknown
+(THOMAS BUILT)
+(997)Not Reported
+(-1)Blank
+(301)Think
+(302)Meyers Motor
+(398)Other 
+(automobile)
+(498)Other 
+(light truck)
+(598)Other 
+(LSV/NEV)
+(701)0-50cc
+(702)51-124cc
+(703)125-349cc
+(704)350-449cc
+(705)450-749cc
+(706)750cc or greater
+(709)Unknown cc
+(731)0-50cc
+(732)51-124cc
+(733)125-349cc
+(734)350cc or greater
+(739)Unknown cc
+(802)Auto-Union-DKW
+(803)Divco
+(804)Western Star
+(805)Oshkosh
+(806)Hino
+(807)Scania
+(808)UD
+(809)Sterling
+(850)Motor Home
+(870)Medium/Heavy Van-Based Vehicle
+(881)Medium/Heavy – CBE
+(882)Medium/Heavy – COE low entry
+(883)Medium/Heavy – COE high entry
+(884)Medium/Heavy – Unknown engine location
+(890)Medium/Heavy – COE entry position unknown
+(898)Other 
+(medium/heavy truck)**
+(902)Neoplan
+(903)Carpenter
+(903)Carpenter
+(904)Collins Bus
+(905)DINA
+(906)Mid Bus
+(907)Orion
+(908)Van Hool
+(981)Bus***: Conventional 
+(Engine out front)
+(982)Bus: Front engine, Flat front
+(983)Bus: Rear engine, Flat front
+(988)Other 
+(bus)
+(998)Other 
+(vehicle)
+(999)Unknown 
+(OTHER MAKE)
+(-1)Blank
+(399)Unknown 
+(automobile)
+(499)Unknown 
+(light truck)
+(598)Unknown 
+(LSG/NGV)
+(599)Unknown 
+(LSV/NEV)
+(701)0-50cc
+(702)51-124cc
+(703)125-349cc
+(704)350-449cc
+(705)450-749cc
+(706)750cc or greater
+(709)Unknown cc
+(731)0-50cc
+(732)51-124cc
+(733)125-349cc
+(734)350cc or greater
+(739)Unknown cc
+(850)Motor Home
+(870)Medium Heavy Van-Based Vehicle
+(881)Medium/Heavy – CBE
+(882)Medium/Heavy - COE low entry
+(883)Medium/Heavy - COE high entry
+(884)Medium/Heavy - Unknown engine location
+(890)Medium/Heavy – COE entry position unknown
+(898)Other 
+(medium/heavy truck)
+(981)Bus**: Conventional 
+(Engine out front)
+(982)Bus: Front engine. Flat front
+(983)Bus: Rear engine, Flat front
+(988)Other 
+(bus)
+(989)Unknown 
+(bus)
+(998)Other 
+(vehicle)
+(999)Unknown 
+(as to automobile, motored cycle, light truck or truck)
+
+Vehicle Model Year 
+AllBlanks192019211922192319241925192619271928192919301931193219331934193519361937193819391940194119421943194419451946194719481949195019511952195319541955195619571958195919601961196219631964196519661967196819691970197119721973197419751976197719781979198019811982198319841985198619871988198919901991199219931994199519961997199819992000200120022003200420052006200720082009201020112012201320142015Not ReportedUnknown
+
+Vehicle Related Factor 
+(1) 
+(-1)Blank
+(0)None
+(30)Multi-Wheeled Motorcycle Conversion
+(32)Vehicle Registration for Handicapped
+(33)Vehicle Being Pushed by Non-Motorist
+(35)Reconstructed/Altered Vehicle
+(37)Transporting Children To/From Head Start/Day Care
+(39)Highway Construction, Maintenance, or Utility Vehicle, In Transport 
+(Inside or Outside Workzone)
+(40)Highway Incident Response Vehicle
+(41)Police, Fire, or EMS Vehicle Working at the Scene of an Emergency or Performing Other Traffic Control Activities
+(42)Other Working Vehicle 
+(Not Construction, Maintenance, Utility, Police, Fire, or EMS Vehicle)
+(44)Adaptive Equipment
+(99)Unknown
+
+Vehicle Related Factor 
+(2) 
+(-1)Blank
+(0)None
+(30)Multi-Wheeled Motorcycle Conversion
+(32)Vehicle Registration for Handicapped
+(33)Vehicle Being Pushed by Non-Motorist
+(35)Reconstructed/Altered Vehicle
+(37)Transporting Children To/From Head Start/Day Care
+(39)Highway Construction, Maintenance, or Utility Vehicle, In Transport 
+(Inside or Outside Workzone)
+(40)Highway Incident Response Vehicle
+(41)Police, Fire, or EMS Vehicle Working at the Scene of an Emergency or Performing Other Traffic Control Activities
+(42)Other Working Vehicle 
+(Not Construction, Maintenance, Utility, Police, Fire, or EMS Vehicle)
+(44)Adaptive Equipment
+(99)Unknown
+
+Vehicle Removal
+(-1)Blank
+(2)Towed Due to Disabling Damage
+(3)Towed Not Due to Disabling Damage
+(5)Not Towed
+(8)Not Reported
+(9)Unknown
+
+Vehicle Sequence of Event
+(1)Rollover/Overturn
+(2)Fire/Explosion
+(3)Immersion or Partial Immersion
+(4)Gas Inhalation
+(5)Fell/Jumped from Vehicle
+(6)Injured In Vehicle 
+(Non-Collision)
+(7)Other Non-Collision
+(8)Pedestrian
+(9)Pedalcyclist
+(10)Railway Vehicle
+(11)Live Animal
+(12)Motor Vehicle In-Transport
+(14)Parked Motor Vehicle
+(15)Non-Motorist on Personal Conveyance
+(16)Thrown or 
+alling Object
+(17)Boulder
+(18)Other Object 
+(not fixed)
+(19)Building
+(20)Impact Attenuator/Crash Cushion
+(21)Bridge Pier or Support
+(23)Bridge Rail 
+(Includes parapet)
+(24)Guardrail Face
+(25)Concrete Traffic Barrier
+(26)Other Traffic Barrier
+(30)Utility Pole/Light Support
+(31)Other Post, Other Pole or Other Supports
+(32)Culvert
+(33)Curb
+(34)Ditch
+(35)Embankment
+(38)Fence
+(39)
+(40)Fire Hydrant
+(41)Shrubbery
+(42)Tree 
+(Standing Only)
+(43)Other Fixed Object
+(44)Pavement Surface Irregularity 
+(Ruts, Potholes, Grates, etc.)
+(45)Working Motor Vehicle
+(46)Traffic Signal Support
+(48)Snow Bank
+(49)Ridden Animal or Animal Drawn Conveyance
+(50)Bridge Overhead Structure
+(51)Jackknife 
+(harmful to this vehicle)
+(52)Guardrail End
+(53)Mail Box
+(54)Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport
+(55)Motor Vehicle in Motion Outside the Trafficway
+(57)Cable Barrier
+(58)Ground
+(59)Traffic Sign Support
+(60)Cargo/Equipment Loss or Shift 
+(non-harmful)
+(61)Equipment Failure 
+(blown tire, brake failure, etc)
+(62)Separation of Units
+(63)Ran Off Roadway - Right
+(64)Ran Off Roadway - Left
+(65)Cross Median
+(66)Downhill Runaway
+(67)Vehicle Went Airborne
+(68)Cross Centerline
+(69)Re-entering Roadway
+(70)
+(Non-harmful, Swaying Trailer/Jackknife)
+(71)End Departure
+(72)Cargo/Equipment Loss or Shift 
+(harmful to this vehicle)
+(73)Object Fell From Motor Vehicle In-Transport
+(79)Ran off Roadway - Direction Unknown
+(99)Unknown
+
+Vehicle Trailing 
+(-1)Blank
+(0)No Trailing Units
+(1)One Trailing Unit
+(2)Two Trailing Units
+(3)Three or More Trailing Units
+(4)Yes, Number of Trailing Units Unknown
+(5)Vehicle Towing Another Motor Vehicle - Fixed Linkage
+(6)Vehicle Towing Another Motor Vehicle - Non-Fixed Linkage
+(9)Unknown
+
+Commercial Motor Vehicle License Status
+(-1)Blank
+(0)No 
+(CDL)
+(1)Suspended
+(2)Revoked
+(3)Expired
+(4)Cancelled or Denied
+(5)Disqualified
+(6)Valid
+(7)Learner's Permit
+(8)Other Not-Valid
+(99)Unknown License Status
+
+Compliance With CDL Endorsements 
+(-1)Blank
+(0)No Endorsements required for this vehicle
+(1)Endorsement
+(s) Required, Complied with
+(2)Endorsement
+(s) Required, Not Complied with
+(3)Endorsement
+(s) Required, Compliance Unknown
+(9)Unknown, if required
+
+Compliance with license Restrictions 
+(-1)Blank
+(0)No Restrictions or Not Applicable
+(1)Restrictions Complied With
+(2)Restrictions Not Complied With
+(3)Restrictions, Compliance Unknown
+(9)Unknown
+
+Condition 
+(Impairment) At Time of Crash
+(0)None/Apparently Normal
+(1)Ill, Blackout
+(2)Asleep or Fatigued
+(3)Walking with a Cane or Crutches, etc.
+(4)Paraplegic Or Restricted To A Wheelchair
+(5)Impaired Due to Previous Injury
+(6)Deaf
+(7)Blind
+(8)Emotional 
+(depressed, angry, disturbed, etc)
+(9)Under the Influence of Alcohol, Drugs or Medication
+(10)Physical Impairment - No Details
+(96)Other Physical Impairment
+(98)Not Reported
+(99)Unknown if Impaired
+
+Driver Alcohol Involvement 
+(-1)Blank
+(0)No 
+(Alcohol Not Involved)
+(1)Yes 
+(Alcohol Involved)
+(8)Not Reported
+(9)Unknown 
+(Police Reported)
+
+Driver Height
+(Feet)
+(-1)Blank
+(2)2
+(3)3
+(4)4
+(5)5
+(6)6
+(7)7
+(8)8
+(9)Unknown
+
+Driver Presence
+(0)No Driver Present/Not Applicable
+(1)Yes
+(9)Unknown
+
+Driver Related Factor 
+(1)
+(-1)Blank
+(0)None
+(4)Reaction to or Failure to Take Drugs/Medication
+(6)Careless Driving
+(8)Aggressive Driving / Road Rage
+(12)Mother of Dead Fetus/ Mother of Infant Born Post Crash
+(13)Men
+ally C
+allenged
+(15)Seat Back Not In Normal Upright Position, Seat Back Reclined
+(16)Police or Law Enforcement Officer
+(18)Traveling on Prohibited Trafficways
+(19)Le
+ally Driving on Suspended or Revoked License
+(20)Leaving Vehicle Unattended with Engine Running. Leaving Vehicle Unattended in Roadway
+(21)Overloading or Improper Loading of Vehicle with Passengers or Cargo
+(22)Towing or Pushing Vehicle Improperly
+(23)Failing to Dim Lights or to Have Lights on When Required
+(24)Operating without Required Equipment
+(26)Following Improperly
+(27)Improper or Erratic Lane Changing
+(28)Failure to keep in Proper Lane
+(29)Intentional Illegal Driving on Road Shoulder, in Ditch, on Sidewalk or on Median
+(30)Making Improper Entry to or Exit from Trafficway
+(31)Starting or Backing Improperly
+(32)Opening Closure into Moving Traffic or While Vehicle is in Motion
+(33)Passing where Prohibited by Posted Signs, Pavement Markings, Hill or Curve, or School Bus Displaying Warning not to Pass
+(34)Passing on Wrong Side
+(35)Passing with Insufficient Distance or Inadequate Visibility or Failing to Yield to Overtaking Vehicle
+(36)Operating the Vehicle in an Erratic, Reckless or Negligent Manner, Operating at Erratic or Suddenly Changing Speeds.
+(37)Police Pursuing this Driver or Police Officer in Pursuit
+(38)Failure to Yield Right-of-Way
+(39)Failure to Obey Actual Traffic Sign,Traffic COntrol Devices or Traffic Officers;Failure to Obey Safety Zone Traffic Laws
+(40)Passing Through or Around Barrier
+(41)Failure to Observe Warnings or Instructions on Vehicles Displaying Them
+(42)Failure to Signal Intentions
+(45)Driving Less than Posted Minimum
+(47)Making Right Turn From Left-Turn Lane. Make Left Turn From Right-Turn Lane
+(48)Making Other Improper Turn
+(50)Driving Wrong Way on One-Way Trafficway
+(51)Driving on Wrong Side of Two-Way Trafficway 
+(Intentional or Unintentional)
+(52)Operator Inexperience
+(53)Unfamiliar with Roadway
+(54)Stopped in Roadway 
+(Vehicle Not Abandoned)
+(57)Locked Wheel
+(58)Overcorrecting
+(59)Getting Off/Out of or On/In to a Vehicle
+(73)Driver has not complied with Learner's Permit or Intermediate Driver License Restrictions 
+(GDL Restrictions)
+(74)Driver Has Not Complied With Physical or Other Imposed Restrictions 
+(not including GDL Restrictions)
+(77)Severe Crosswind
+(78)Wind from Passing Truck
+(79)Slippery or Loose Surface
+(80)Tire Blowout or Flat
+(81)Debris or Objects in Road
+(82)Ruts, Holes, Bumps in Road
+(83)Live Animals in Road
+(84)Vehicle in Road
+(85)Phantom Vehicle
+(86)Pedestrian, Pedal Cyclist or Other Non-Motorist
+(87)Ice, Snow, Slush, Water, Sand, Dirt, Oil, Wet Leaves on Road
+(88)Trailer Fishtailing or swaying
+(89)Driver Has a Driving Record or Driver's License From More Than One State
+(91)Non-Traffic Violation Charged - manslaughter, homicide or other assault committed without malice.
+(99)Unknown
+
+Driver Related Factor 
+(2)
+(-1)Blank
+(0)None
+(4)Reaction to or Failure to Take Drugs/Medication
+(6)Careless Driving
+(8)Aggressive Driving / Road Rage
+(12)Mother of Dead Fetus/ Mother of Infant Born Post Crash
+(13)Men
+ally C
+allenged
+(15)Seat Back Not In Normal Upright Position, Seat Back Reclined
+(16)Police or Law Enforcement Officer
+(18)Traveling on Prohibited Trafficways
+(19)Le
+ally Driving on Suspended or Revoked License
+(20)Leaving Vehicle Unattended with Engine Running. Leaving Vehicle Unattended in Roadway
+(21)Overloading or Improper Loading of Vehicle with Passengers or Cargo
+(22)Towing or Pushing Vehicle Improperly
+(23)Failing to Dim Lights or to Have Lights on When Required
+(24)Operating without Required Equipment
+(26)Following Improperly
+(27)Improper or Erratic Lane Changing
+(28)Failure to keep in Proper Lane
+(29)Intentional Illegal Driving on Road Shoulder, in Ditch, on Sidewalk or on Median
+(30)Making Improper Entry to or Exit from Trafficway
+(31)Starting or Backing Improperly
+(32)Opening Closure into Moving Traffic or While Vehicle is in Motion
+(33)Passing where Prohibited by Posted Signs, Pavement Markings, Hill or Curve, or School Bus Displaying Warning not to Pass
+(34)Passing on Wrong Side
+(35)Passing with Insufficient Distance or Inadequate Visibility or Failing to Yield to Overtaking Vehicle
+(36)Operating the Vehicle in an Erratic, Reckless or Negligent Manner, Operating at Erratic or Suddenly Changing Speeds.
+(37)Police Pursuing this Driver or Police Officer in Pursuit
+(38)Failure to Yield Right-of-Way
+(39)Failure to Obey Actual Traffic Sign,Traffic COntrol Devices or Traffic Officers;Failure to Obey Safety Zone Traffic Laws
+(40)Passing Through or Around Barrier
+(41)Failure to Observe Warnings or Instructions on Vehicles Displaying Them
+(42)Failure to Signal Intentions
+(45)Driving Less than Posted Minimum
+(47)Making Right Turn From Left-Turn Lane. Make Left Turn From Right-Turn Lane
+(48)Making Other Improper Turn
+(50)Driving Wrong Way on One-Way Trafficway
+(51)Driving on Wrong Side of Two-Way Trafficway 
+(Intentional or Unintentional)
+(52)Operator Inexperience
+(53)Unfamiliar with Roadway
+(54)Stopped in Roadway 
+(Vehicle Not Abandoned)
+(57)Locked Wheel
+(58)Overcorrecting
+(59)Getting Off/Out of or On/In to a Vehicle
+(73)Driver has not complied with Learner's Permit or Intermediate Driver License Restrictions 
+(GDL Restrictions)
+(74)Driver Has Not Complied With Physical or Other Imposed Restrictions 
+(not including GDL Restrictions)
+(77)Severe Crosswind
+(78)Wind from Passing Truck
+(79)Slippery or Loose Surface
+(80)Tire Blowout or Flat
+(81)Debris or Objects in Road
+(82)Ruts, Holes, Bumps in Road
+(83)Live Animals in Road
+(84)Vehicle in Road
+(85)Phantom Vehicle
+(86)Pedestrian, Pedal Cyclist or Other Non-Motorist
+(87)Ice, Snow, Slush, Water, Sand, Dirt, Oil, Wet Leaves on Road
+(88)Trailer Fishtailing or swaying
+(89)Driver Has a Driving Record or Driver's License From More Than One State
+(91)Non-Traffic Violation Charged - manslaughter, homicide or other assault committed without malice.
+(99)Unknown
+
+Driver Related Factor 
+(3)
+(-1)Blank
+(0)None
+(4)Reaction to or Failure to Take Drugs/Medication
+(6)Careless Driving
+(8)Aggressive Driving / Road Rage
+(12)Mother of Dead Fetus/ Mother of Infant Born Post Crash
+(13)Men
+ally C
+allenged
+(15)Seat Back Not In Normal Upright Position, Seat Back Reclined
+(16)Police or Law Enforcement Officer
+(18)Traveling on Prohibited Trafficways
+(19)Le
+ally Driving on Suspended or Revoked License
+(20)Leaving Vehicle Unattended with Engine Running. Leaving Vehicle Unattended in Roadway
+(21)Overloading or Improper Loading of Vehicle with Passengers or Cargo
+(22)Towing or Pushing Vehicle Improperly
+(23)Failing to Dim Lights or to Have Lights on When Required
+(24)Operating without Required Equipment
+(26)Following Improperly
+(27)Improper or Erratic Lane Changing
+(28)Failure to keep in Proper Lane
+(29)Intentional Illegal Driving on Road Shoulder, in Ditch, on Sidewalk or on Median
+(30)Making Improper Entry to or Exit from Trafficway
+(31)Starting or Backing Improperly
+(32)Opening Closure into Moving Traffic or While Vehicle is in Motion
+(33)Passing where Prohibited by Posted Signs, Pavement Markings, Hill or Curve, or School Bus Displaying Warning not to Pass
+(34)Passing on Wrong Side
+(35)Passing with Insufficient Distance or Inadequate Visibility or Failing to Yield to Overtaking Vehicle
+(36)Operating the Vehicle in an Erratic, Reckless or Negligent Manner, Operating at Erratic or Suddenly Changing Speeds.
+(37)Police Pursuing this Driver or Police Officer in Pursuit
+(38)Failure to Yield Right-of-Way
+(39)Failure to Obey Actual Traffic Sign,Traffic COntrol Devices or Traffic Officers;Failure to Obey Safety Zone Traffic Laws
+(40)Passing Through or Around Barrier
+(41)Failure to Observe Warnings or Instructions on Vehicles Displaying Them
+(42)Failure to Signal Intentions
+(45)Driving Less than Posted Minimum
+(47)Making Right Turn From Left-Turn Lane. Make Left Turn From Right-Turn Lane
+(48)Making Other Improper Turn
+(50)Driving Wrong Way on One-Way Trafficway
+(51)Driving on Wrong Side of Two-Way Trafficway 
+(Intentional or Unintentional)
+(52)Operator Inexperience
+(53)Unfamiliar with Roadway
+(54)Stopped in Roadway 
+(Vehicle Not Abandoned)
+(57)Locked Wheel
+(58)Overcorrecting
+(59)Getting Off/Out of or On/In to a Vehicle
+(73)Driver has not complied with Learner's Permit or Intermediate Driver License Restrictions 
+(GDL Restrictions)
+(74)Driver Has Not Complied With Physical or Other Imposed Restrictions 
+(not including GDL Restrictions)
+(77)Severe Crosswind
+(78)Wind from Passing Truck
+(79)Slippery or Loose Surface
+(80)Tire Blowout or Flat
+(81)Debris or Objects in Road
+(82)Ruts, Holes, Bumps in Road
+(83)Live Animals in Road
+(84)Vehicle in Road
+(85)Phantom Vehicle
+(86)Pedestrian, Pedal Cyclist or Other Non-Motorist
+(87)Ice, Snow, Slush, Water, Sand, Dirt, Oil, Wet Leaves on Road
+(88)Trailer Fishtailing or swaying
+(89)Driver Has a Driving Record or Driver's License From More Than One State
+(91)Non-Traffic Violation Charged - manslaughter, homicide or other assault committed without malice.
+(99)Unknown
+
+Driver Related Factor 
+(4)
+(-1)Blank
+(0)None
+(4)Reaction to or Failure to Take Drugs/Medication
+(6)Careless Driving
+(8)Aggressive Driving / Road Rage
+(12)Mother of Dead Fetus/ Mother of Infant Born Post Crash
+(13)Men
+ally C
+allenged
+(15)Seat Back Not In Normal Upright Position, Seat Back Reclined
+(16)Police or Law Enforcement Officer
+(18)Traveling on Prohibited Trafficways
+(19)Le
+ally Driving on Suspended or Revoked License
+(20)Leaving Vehicle Unattended with Engine Running. Leaving Vehicle Unattended in Roadway
+(21)Overloading or Improper Loading of Vehicle with Passengers or Cargo
+(22)Towing or Pushing Vehicle Improperly
+(23)Failing to Dim Lights or to Have Lights on When Required
+(24)Operating without Required Equipment
+(26)Following Improperly
+(27)Improper or Erratic Lane Changing
+(28)Failure to keep in Proper Lane
+(29)Intentional Illegal Driving on Road Shoulder, in Ditch, on Sidewalk or on Median
+(30)Making Improper Entry to or Exit from Trafficway
+(31)Starting or Backing Improperly
+(32)Opening Closure into Moving Traffic or While Vehicle is in Motion
+(33)Passing where Prohibited by Posted Signs, Pavement Markings, Hill or Curve, or School Bus Displaying Warning not to Pass
+(34)Passing on Wrong Side
+(35)Passing with Insufficient Distance or Inadequate Visibility or Failing to Yield to Overtaking Vehicle
+(36)Operating the Vehicle in an Erratic, Reckless or Negligent Manner, Operating at Erratic or Suddenly Changing Speeds.
+(37)Police Pursuing this Driver or Police Officer in Pursuit
+(38)Failure to Yield Right-of-Way
+(39)Failure to Obey Actual Traffic Sign,Traffic COntrol Devices or Traffic Officers;Failure to Obey Safety Zone Traffic Laws
+(40)Passing Through or Around Barrier
+(41)Failure to Observe Warnings or Instructions on Vehicles Displaying Them
+(42)Failure to Signal Intentions
+(45)Driving Less than Posted Minimum
+(47)Making Right Turn From Left-Turn Lane. Make Left Turn From Right-Turn Lane
+(48)Making Other Improper Turn
+(50)Driving Wrong Way on One-Way Trafficway
+(51)Driving on Wrong Side of Two-Way Trafficway 
+(Intentional or Unintentional)
+(52)Operator Inexperience
+(53)Unfamiliar with Roadway
+(54)Stopped in Roadway 
+(Vehicle Not Abandoned)
+(57)Locked Wheel
+(58)Overcorrecting
+(59)Getting Off/Out of or On/In to a Vehicle
+(73)Driver has not complied with Learner's Permit or Intermediate Driver License Restrictions 
+(GDL Restrictions)
+(74)Driver Has Not Complied With Physical or Other Imposed Restrictions 
+(not including GDL Restrictions)
+(77)Severe Crosswind
+(78)Wind from Passing Truck
+(79)Slippery or Loose Surface
+(80)Tire Blowout or Flat
+(81)Debris or Objects in Road
+(82)Ruts, Holes, Bumps in Road
+(83)Live Animals in Road
+(84)Vehicle in Road
+(85)Phantom Vehicle
+(86)Pedestrian, Pedal Cyclist or Other Non-Motorist
+(87)Ice, Snow, Slush, Water, Sand, Dirt, Oil, Wet Leaves on Road
+(88)Trailer Fishtailing or swaying
+(89)Driver Has a Driving Record or Driver's License From More Than One State
+(91)Non-Traffic Violation Charged - manslaughter, homicide or other assault committed without malice.
+(99)Unknown
+
+Driver Weight
+(-1)Blanks
+(40)40 lbs.
+(41)41 lbs.
+(42)42 lbs.
+(43)43 lbs.
+(44)44 lbs.
+(45)45 lbs.
+(46)46 lbs.
+(47)47 lbs.
+(48)48 lbs.
+(49)49 lbs.
+(50)50 lbs.
+(51)51 lbs.
+(52)52 lbs.
+(53)53 lbs.
+(54)54 lbs.
+(55)55 lbs.
+(56)56 lbs.
+(57)57 lbs.
+(58)58 lbs.
+(59)59 lbs.
+(60)60 lbs.
+(61)61 lbs.
+(62)62 lbs.
+(63)63 lbs.
+(64)64 lbs.
+(65)65 lbs.
+(66)66 lbs.
+(67)67 lbs.
+(68)68 lbs.
+(69)69 lbs.
+(70)70 lbs.
+(71)71 lbs.
+(72)72 lbs.
+(73)73 lbs.
+(74)74 lbs.
+(75)75 lbs.
+(76)76 lbs.
+(77)77 lbs.
+(78)78 lbs.
+(79)79 lbs.
+(80)80 lbs.
+(81)81 lbs.
+(82)82 lbs.
+(83)83 lbs.
+(84)84 lbs.
+(85)85 lbs.
+(86)86 lbs.
+(87)87 lbs.
+(88)88 lbs.
+(89)89 lbs.
+(90)90 lbs.
+(91)91 lbs.
+(92)92 lbs.
+(93)93 lbs.
+(94)94 lbs.
+(95)95 lbs.
+(96)96 lbs.
+(97)97 lbs.
+(98)98 lbs.
+(99)99 lbs.
+(100)100 lbs.
+(101)101 lbs.
+(102)102 lbs.
+(103)103 lbs.
+(104)104 lbs.
+(105)105 lbs.
+(106)106 lbs.
+(107)107 lbs.
+(108)108 lbs.
+(109)109 lbs.
+(110)110 lbs.
+(111)111 lbs.
+(112)112 lbs.
+(113)113 lbs.
+(114)114 lbs.
+(115)115 lbs.
+(116)116 lbs.
+(117)117 lbs.
+(118)118 lbs.
+(119)119 lbs.
+(120)120 lbs.
+(121)121 lbs.
+(122)122 lbs.
+(123)123 lbs.
+(124)124 lbs.
+(125)125 lbs.
+(126)126 lbs.
+(127)127 lbs.
+(128)128 lbs.
+(129)129 lbs.
+(130)130 lbs.
+(131)131 lbs.
+(132)132 lbs.
+(133)133 lbs.
+(134)134 lbs.
+(135)135 lbs.
+(136)136 lbs.
+(137)137 lbs.
+(138)138 lbs.
+(139)139 lbs.
+(140)140 lbs.
+(141)141 lbs.
+(142)142 lbs.
+(143)143 lbs.
+(144)144 lbs.
+(145)145 lbs.
+(146)146 lbs.
+(147)147 lbs.
+(148)148 lbs.
+(149)149 lbs.
+(150)150 lbs.
+(151)151 lbs.
+(152)152 lbs.
+(153)153 lbs.
+(154)154 lbs.
+(155)155 lbs.
+(156)156 lbs.
+(157)157 lbs.
+(158)158 lbs.
+(159)159 lbs.
+(160)160 lbs.
+(161)161 lbs.
+(162)162 lbs.
+(163)163 lbs.
+(164)164 lbs.
+(165)165 lbs.
+(166)166 lbs.
+(167)167 lbs.
+(168)168 lbs.
+(169)169 lbs.
+(170)170 lbs.
+(171)171 lbs.
+(172)172 lbs.
+(173)173 lbs.
+(174)174 lbs.
+(175)175 lbs.
+(176)176 lbs.
+(177)177 lbs.
+(178)178 lbs.
+(179)179 lbs.
+(180)180 lbs.
+(181)181 lbs.
+(182)182 lbs.
+(183)183 lbs.
+(184)184 lbs.
+(185)185 lbs.
+(186)186 lbs.
+(187)187 lbs.
+(188)188 lbs.
+(189)189 lbs.
+(190)190 lbs.
+(191)191 lbs.
+(192)192 lbs.
+(193)193 lbs.
+(194)194 lbs.
+(195)195 lbs.
+(196)196 lbs.
+(197)197 lbs.
+(198)198 lbs.
+(199)199 lbs.
+(200)200 lbs.
+(201)201 lbs.
+(202)202 lbs.
+(203)203 lbs.
+(204)204 lbs.
+(205)205 lbs.
+(206)206 lbs.
+(207)207 lbs.
+(208)208 lbs.
+(209)209 lbs.
+(210)210 lbs.
+(211)211 lbs.
+(212)212 lbs.
+(213)213 lbs.
+(214)214 lbs.
+(215)215 lbs.
+(216)216 lbs.
+(217)217 lbs.
+(218)218 lbs.
+(219)219 lbs.
+(220)220 lbs.
+(221)221 lbs.
+(222)222 lbs.
+(223)223 lbs.
+(224)224 lbs.
+(225)225 lbs.
+(226)226 lbs.
+(227)227 lbs.
+(228)228 lbs.
+(229)229 lbs.
+(230)230 lbs.
+(231)231 lbs.
+(232)232 lbs.
+(233)233 lbs.
+(234)234 lbs.
+(235)235 lbs.
+(236)236 lbs.
+(237)237 lbs.
+(238)238 lbs.
+(239)239 lbs.
+(240)240 lbs.
+(241)241 lbs.
+(242)242 lbs.
+(243)243 lbs.
+(244)244 lbs.
+(245)245 lbs.
+(246)246 lbs.
+(247)247 lbs.
+(248)248 lbs.
+(249)249 lbs.
+(250)250 lbs.
+(251)251 lbs.
+(252)252 lbs.
+(253)253 lbs.
+(254)254 lbs.
+(255)255 lbs.
+(256)256 lbs.
+(257)257 lbs.
+(258)258 lbs.
+(259)259 lbs.
+(260)260 lbs.
+(261)261 lbs.
+(262)262 lbs.
+(263)263 lbs.
+(264)264 lbs.
+(265)265 lbs.
+(266)266 lbs.
+(267)267 lbs.
+(268)268 lbs.
+(269)269 lbs.
+(270)270 lbs.
+(271)271 lbs.
+(272)272 lbs.
+(273)273 lbs.
+(274)274 lbs.
+(275)275 lbs.
+(276)276 lbs.
+(277)277 lbs.
+(278)278 lbs.
+(279)279 lbs.
+(280)280 lbs.
+(281)281 lbs.
+(282)282 lbs.
+(283)283 lbs.
+(284)284 lbs.
+(285)285 lbs.
+(286)286 lbs.
+(287)287 lbs.
+(288)288 lbs.
+(289)289 lbs.
+(290)290 lbs.
+(291)291 lbs.
+(292)292 lbs.
+(293)293 lbs.
+(294)294 lbs.
+(295)295 lbs.
+(296)296 lbs.
+(297)297 lbs.
+(298)298 lbs.
+(299)299 lbs.
+(300)300 lbs.
+(301)301 lbs.
+(302)302 lbs.
+(303)303 lbs.
+(304)304 lbs.
+(305)305 lbs.
+(306)306 lbs.
+(307)307 lbs.
+(308)308 lbs.
+(309)309 lbs.
+(310)310 lbs.
+(311)311 lbs.
+(312)312 lbs.
+(313)313 lbs.
+(314)314 lbs.
+(315)315 lbs.
+(316)316 lbs.
+(317)317 lbs.
+(318)318 lbs.
+(319)319 lbs.
+(320)320 lbs.
+(321)321 lbs.
+(322)322 lbs.
+(323)323 lbs.
+(324)324 lbs.
+(325)325 lbs.
+(326)326 lbs.
+(327)327 lbs.
+(328)328 lbs.
+(329)329 lbs.
+(330)330 lbs.
+(331)331 lbs.
+(332)332 lbs.
+(333)333 lbs.
+(334)334 lbs.
+(335)335 lbs.
+(336)336 lbs.
+(337)337 lbs.
+(338)338 lbs.
+(339)339 lbs.
+(340)340 lbs.
+(341)341 lbs.
+(342)342 lbs.
+(343)343 lbs.
+(344)344 lbs.
+(345)345 lbs.
+(346)346 lbs.
+(347)347 lbs.
+(348)348 lbs.
+(349)349 lbs.
+(350)350 lbs.
+(351)351 lbs.
+(352)352 lbs.
+(353)353 lbs.
+(354)354 lbs.
+(355)355 lbs.
+(356)356 lbs.
+(357)357 lbs.
+(358)358 lbs.
+(359)359 lbs.
+(360)360 lbs.
+(361)361 lbs.
+(362)362 lbs.
+(363)363 lbs.
+(364)364 lbs.
+(365)365 lbs.
+(366)366 lbs.
+(367)367 lbs.
+(368)368 lbs.
+(369)369 lbs.
+(370)370 lbs.
+(371)371 lbs.
+(372)372 lbs.
+(373)373 lbs.
+(374)374 lbs.
+(375)375 lbs.
+(376)376 lbs.
+(377)377 lbs.
+(378)378 lbs.
+(379)379 lbs.
+(380)380 lbs.
+(381)381 lbs.
+(382)382 lbs.
+(383)383 lbs.
+(384)384 lbs.
+(385)385 lbs.
+(386)386 lbs.
+(387)387 lbs.
+(388)388 lbs.
+(389)389 lbs.
+(390)390 lbs.
+(391)391 lbs.
+(392)392 lbs.
+(393)393 lbs.
+(394)394 lbs.
+(395)395 lbs.
+(396)396 lbs.
+(397)397 lbs.
+(398)398 lbs.
+(399)399 lbs.
+(400)400 lbs.
+(401)401 lbs.
+(402)402 lbs.
+(403)403 lbs.
+(404)404 lbs.
+(405)405 lbs.
+(406)406 lbs.
+(407)407 lbs.
+(408)408 lbs.
+(409)409 lbs.
+(410)410 lbs.
+(411)411 lbs.
+(412)412 lbs.
+(413)413 lbs.
+(414)414 lbs.
+(415)415 lbs.
+(416)416 lbs.
+(417)417 lbs.
+(418)418 lbs.
+(419)419 lbs.
+(420)420 lbs.
+(421)421 lbs.
+(422)422 lbs.
+(423)423 lbs.
+(424)424 lbs.
+(425)425 lbs.
+(426)426 lbs.
+(427)427 lbs.
+(428)428 lbs.
+(429)429 lbs.
+(430)430 lbs.
+(431)431 lbs.
+(432)432 lbs.
+(433)433 lbs.
+(434)434 lbs.
+(435)435 lbs.
+(436)436 lbs.
+(437)437 lbs.
+(438)438 lbs.
+(439)439 lbs.
+(440)440 lbs.
+(441)441 lbs.
+(442)442 lbs.
+(443)443 lbs.
+(444)444 lbs.
+(445)445 lbs.
+(446)446 lbs.
+(447)447 lbs.
+(448)448 lbs.
+(449)449 lbs.
+(450)450 lbs.
+(451)451 lbs.
+(452)452 lbs.
+(453)453 lbs.
+(454)454 lbs.
+(455)455 lbs.
+(456)456 lbs.
+(457)457 lbs.
+(458)458 lbs.
+(459)459 lbs.
+(460)460 lbs.
+(461)461 lbs.
+(462)462 lbs.
+(463)463 lbs.
+(464)464 lbs.
+(465)465 lbs.
+(466)466 lbs.
+(467)467 lbs.
+(468)468 lbs.
+(469)469 lbs.
+(470)470 lbs.
+(471)471 lbs.
+(472)472 lbs.
+(473)473 lbs.
+(474)474 lbs.
+(475)475 lbs.
+(476)476 lbs.
+(477)477 lbs.
+(478)478 lbs.
+(479)479 lbs.
+(480)480 lbs.
+(481)481 lbs.
+(482)482 lbs.
+(483)483 lbs.
+(484)484 lbs.
+(485)485 lbs.
+(486)486 lbs.
+(487)487 lbs.
+(488)488 lbs.
+(489)489 lbs.
+(490)490 lbs.
+(491)491 lbs.
+(492)492 lbs.
+(493)493 lbs.
+(494)494 lbs.
+(495)495 lbs.
+(496)496 lbs.
+(497)497 lbs.
+(498)498 lbs.
+(499)499 lbs.
+(500)500 lbs.
+(501)501 lbs.
+(502)502 lbs.
+(503)503 lbs.
+(504)504 lbs.
+(505)505 lbs.
+(506)506 lbs.
+(507)507 lbs.
+(508)508 lbs.
+(509)509 lbs.
+(510)510 lbs.
+(511)511 lbs.
+(512)512 lbs.
+(513)513 lbs.
+(514)514 lbs.
+(515)515 lbs.
+(516)516 lbs.
+(517)517 lbs.
+(518)518 lbs.
+(519)519 lbs.
+(520)520 lbs.
+(521)521 lbs.
+(522)522 lbs.
+(523)523 lbs.
+(524)524 lbs.
+(525)525 lbs.
+(526)526 lbs.
+(527)527 lbs.
+(528)528 lbs.
+(529)529 lbs.
+(530)530 lbs.
+(531)531 lbs.
+(532)532 lbs.
+(533)533 lbs.
+(534)534 lbs.
+(535)535 lbs.
+(536)536 lbs.
+(537)537 lbs.
+(538)538 lbs.
+(539)539 lbs.
+(540)540 lbs.
+(541)541 lbs.
+(542)542 lbs.
+(543)543 lbs.
+(544)544 lbs.
+(545)545 lbs.
+(546)546 lbs.
+(547)547 lbs.
+(548)548 lbs.
+(549)549 lbs.
+(550)550 lbs.
+(551)551 lbs.
+(552)552 lbs.
+(553)553 lbs.
+(554)554 lbs.
+(555)555 lbs.
+(556)556 lbs.
+(557)557 lbs.
+(558)558 lbs.
+(559)559 lbs.
+(560)560 lbs.
+(561)561 lbs.
+(562)562 lbs.
+(563)563 lbs.
+(564)564 lbs.
+(565)565 lbs.
+(566)566 lbs.
+(567)567 lbs.
+(568)568 lbs.
+(569)569 lbs.
+(570)570 lbs.
+(571)571 lbs.
+(572)572 lbs.
+(573)573 lbs.
+(574)574 lbs.
+(575)575 lbs.
+(576)576 lbs.
+(577)577 lbs.
+(578)578 lbs.
+(579)579 lbs.
+(580)580 lbs.
+(581)581 lbs.
+(582)582 lbs.
+(583)583 lbs.
+(584)584 lbs.
+(585)585 lbs.
+(586)586 lbs.
+(587)587 lbs.
+(588)588 lbs.
+(589)589 lbs.
+(590)590 lbs.
+(591)591 lbs.
+(592)592 lbs.
+(593)593 lbs.
+(594)594 lbs.
+(595)595 lbs.
+(596)596 lbs.
+(597)597 lbs.
+(598)598 lbs.
+(599)599 lbs.
+(600)600 lbs.
+(601)601 lbs.
+(602)602 lbs.
+(603)603 lbs.
+(604)604 lbs.
+(605)605 lbs.
+(606)606 lbs.
+(607)607 lbs.
+(608)608 lbs.
+(609)609 lbs.
+(610)610 lbs.
+(611)611 lbs.
+(612)612 lbs.
+(613)613 lbs.
+(614)614 lbs.
+(615)615 lbs.
+(616)616 lbs.
+(617)617 lbs.
+(618)618 lbs.
+(619)619 lbs.
+(620)620 lbs.
+(621)621 lbs.
+(622)622 lbs.
+(623)623 lbs.
+(624)624 lbs.
+(625)625 lbs.
+(626)626 lbs.
+(627)627 lbs.
+(628)628 lbs.
+(629)629 lbs.
+(630)630 lbs.
+(631)631 lbs.
+(632)632 lbs.
+(633)633 lbs.
+(634)634 lbs.
+(635)635 lbs.
+(636)636 lbs.
+(637)637 lbs.
+(638)638 lbs.
+(639)639 lbs.
+(640)640 lbs.
+(641)641 lbs.
+(642)642 lbs.
+(643)643 lbs.
+(644)644 lbs.
+(645)645 lbs.
+(646)646 lbs.
+(647)647 lbs.
+(648)648 lbs.
+(649)649 lbs.
+(650)650 lbs.
+(651)651 lbs.
+(652)652 lbs.
+(653)653 lbs.
+(654)654 lbs.
+(655)655 lbs.
+(656)656 lbs.
+(657)657 lbs.
+(658)658 lbs.
+(659)659 lbs.
+(660)660 lbs.
+(661)661 lbs.
+(662)662 lbs.
+(663)663 lbs.
+(664)664 lbs.
+(665)665 lbs.
+(666)666 lbs.
+(667)667 lbs.
+(668)668 lbs.
+(669)669 lbs.
+(670)670 lbs.
+(671)671 lbs.
+(672)672 lbs.
+(673)673 lbs.
+(674)674 lbs.
+(675)675 lbs.
+(676)676 lbs.
+(677)677 lbs.
+(678)678 lbs.
+(679)679 lbs.
+(680)680 lbs.
+(681)681 lbs.
+(682)682 lbs.
+(683)683 lbs.
+(684)684 lbs.
+(685)685 lbs.
+(686)686 lbs.
+(687)687 lbs.
+(688)688 lbs.
+(689)689 lbs.
+(690)690 lbs.
+(691)691 lbs.
+(692)692 lbs.
+(693)693 lbs.
+(694)694 lbs.
+(695)695 lbs.
+(696)696 lbs.
+(697)697 lbs.
+(698)698 lbs.
+(699)699 lbs.
+(700)700 lbs.
+(998)Other
+(999)Unknown
+
+Driver
+(s) License State
+(-1)Blank
+(1)Alabama
+(2)Alaska
+(3)American Samoa
+(4)Arizona
+(5)Arkansas
+(6)California
+(8)Colorado
+(9)Connecticut
+(10)Delaware
+(11)District of Columbia
+(12)Florida
+(13)Georgia
+(14)Guam
+(15)Hawaii
+(16)Idaho
+(17)Illinois
+(18)Indiana
+(19)Iowa
+(20)Kansas
+(21)Kentucky
+(22)Louisiana
+(23)Maine
+(24)Maryland
+(25)Massachusetts
+(26)Michigan
+(27)Minnesota
+(28)Mississippi
+(29)Missouri
+(30)Montana
+(31)Nebraska
+(32)Nevada
+(33)New Hampshire
+(34)New Jersey
+(35)New Mexico
+(36)New York
+(37)North Carolina
+(38)North Dakota
+(39)Ohio
+(40)Oklahoma
+(41)Oregon
+(42)Pennsylvania
+(43)Puerto Rico
+(44)Rhode Island
+(45)South Carolina
+(46)South Dakota
+(47)Tennessee
+(48)Texas
+(49)Utah
+(50)Vermont
+(51)Virginia
+(52)Virgin Islands
+(53)Washington
+(54)West Virginia
+(55)Wisconsin
+(56)Wyoming
+(93)Indian Nation
+(94)U.S. Government
+(95)Canada
+(96)Mexico
+(97)Other Foreign Country
+(98)Not Reported
+(99)Unknown
+
+License Compliance with Class of Vehicle 
+(-1)Driver Not Present
+(0)Not licensed
+(1)No license required for this class vehicle
+(2)No valid license for this class vehicle
+(3)Valid license for this class vehicle
+(8)Unknown If CDL and/or CDL endorsement required for this vehicle
+(9)Unknown
+
+Month of First Crash - Suspension
+(-1)Blank
+(0)No Record
+(1)January
+(2)February
+(3)March
+(4)April
+(5)May
+(6)June
+(7)July
+(8)August
+(9)September
+(10)October
+(11)November
+(12)December
+(99)Unknown
+
+Month of Last Crash - Suspension 
+(-1)Blank
+(0)No Record
+(1)January
+(2)February
+(3)March
+(4)April
+(5)May
+(6)June
+(7)July
+(8)August
+(9)September
+(10)October
+(11)November
+(12)December
+(99)Unknown
+
+Non-Cdl License Status 
+(-1)Driver Not Present
+(0)Not licensed
+(1)Suspended
+(2)Revoked
+(3)Expired
+(4)Canceled or denied
+(6)Valid
+(9)Unknown License Status
+
+Non-CDL License Type 
+(-1)Driver Not Present
+(0)Not Licensed
+(1)Full Driver License
+(2)Intermediate Driver License
+(7)Learner's Permit
+(8)Temporary License
+(9)Unknown License Type
+
+Speeding Related 
+(-1)Blank
+(0)No
+(2)Yes, Racing
+(3)Yes, Exceeded Speed Limit
+(4)Yes, Too Fast for Conditions
+(5)Yes, Specifics Unknown
+(9)Unknown
+
+Violations Charged 
+(-1)Blank
+(0)None
+(1)Manslaughter or homicide
+(2)Willful reckless driving; driving to endanger; negligent driving
+(3)Unsafe reckless 
+(not willful, wanton reckless) driving
+(4)Inattentive, careless, improper driving
+(5)Fleeing or eluding police
+(6)Fail to obey police, fireman, authorized person directing traffic
+(7)Hit-and-run, fail to stop after crash
+(8)Fail to give aid, info., wait for police after crash
+(9)Serious violation resulting in death
+(11)Driving while intoxicated 
+(alcohol or drugs) or BAC above limit 
+(any detectable BAC for CDLs)
+(12)Driving while impaired
+(13)Driving under influence of substance not intended to intoxicate
+(14)Drinking while operating
+(15)Illegal possession of alcohol or drugs
+(16)Driving with detectable alcohol
+(18)Refusal to submit to chemical test
+(19)Alcohol, drug, or impairment violations gene
+ally
+(21)Racing
+(22)Speeding 
+(above the speed limit)
+(23)Speed greater than reasonable & prudent 
+(not necessarily over the limit)
+(24)Exceeding special speed limit 
+(e.g. for trucks, buses, cycles, or on bridge, in school zone, etc.)
+(25)Energy speed 
+(exceeding 55 mph, non-pointable)
+(26)Driving too slowly
+(29)Speed related violations, gene
+ally
+(31)Fail to stop for red signal
+(32)Fail to stop for flashing red
+(33)Violation of turn on red 
+(fail to stop & yield, yield to pedestrians before turning)
+(34)Fail to obey flashing signal 
+(yellow or red)
+(35)Fail to obey signal gene
+ally
+(36)Violate RR grade crossing device/regulations
+(37)Fail to obey stop sign
+(38)Fail to obey yield sign
+(39)Fail to obey traffic control device
+(41)Turn in violation of traffic control 
+(disobey signs, turn arrow or pavement markings; not a right on red violation)
+(42)Improper method & position of turn 
+(too wide, wrong lane)
+(43)Fail to signal for turn or stop
+(45)Fail to yield to emergency vehicle
+(46)Fail to yield gene
+ally
+(48)Enter intersection when space insufficient
+(49)Turn, yield, signaling violations gene
+ally
+(51)Driving wrong way on one-way road
+(52)Driving on left, wrong side of road, gene
+ally
+(53)Improper, unsafe passing
+(54)Pass on right 
+(drive off pavement to pass)
+(55)Pass stopped school bus
+(56)Fail to give way when overtaken
+(58)Following too closely
+(59)Wrong side, passing, following violations, gene
+ally
+(61)Unsafe or prohibited lane change
+(62)Improper use of lane 
+(enter of 3-lane road, HOV designated lane)
+(63)Certain traffic to use right lane 
+(trucks, slow moving, etc.)
+(66)Motorcycle lane violations 
+(more than two per lane, riding between lanes, etc.)
+(67)Motorcyclist attached to another vehicle
+(69)Lane violations, gene
+ally
+(71)Driving while license withdrawn
+(72)Other driver license violations
+(73)Commercial driver violations 
+(log book, hours, permits carried)
+(74)Vehicle registration violations
+(75)Fail to carry insurance card
+(76)Driving uninsured vehicle
+(79)Non-moving violations gene
+ally
+(81)Lamp violations
+(82)Brake violations
+(83)Failure to require restraint use 
+(by self or passengers)
+(84)Motorcycle equipment violations 
+(helmet, special equipment)
+(85)Violation of hazardous cargo regulations
+(86)Size, weight, load violations
+(89)Equipment violations gene
+ally
+(91)Parking
+(92)Theft, unauthorized use of motor vehicle
+(93)Driving where prohibited 
+(sidewalk, limited access, off truck route)
+(97)Not Reported
+(98)Other moving violation 
+(coasting, backing, opening door)
+(99)Unknown Violation
+(s)
+
+Year of First Crash - Suspension 
+(-1)Blank
+(0)No Record
+(2009)2009
+(2010)2010
+(2011)2011
+(2012)2012
+(2013)2013
+(2014)2014
+(9999)Unknown
+
+Year of Last Crash - Suspension
+(-1)Blank
+(0)No Record
+(2009)2009
+(2010)2010
+(2011)2011
+(2012)2012
+(2013)2013
+(2014)2014
+(9999)Unknown
+
+Attempted Avoidance Maneuver 
+(-1)Blank
+(0)No Driver Present / Unknown if Driver Present
+(1)No Avoidance Maneuver
+(2)Braking 
+(no lockup)
+(3)Braking 
+(lockup)
+(4)Braking 
+(lockup unknown)
+(5)Releasing brakes
+(6)Steering left
+(7)Steering right
+(8)Braking and steering left
+(9)Braking and steering right
+(10)Accelerating
+(11)Accelerating and steering left
+(12)Accelerating and steering right
+(98)Other actions 
+(specify:)
+(99)Unknown
+
+Contributing Circumstances - Motor Vehicle 
+(0)None
+(1)Tires
+(2)Brake System
+(3)Steering
+(4)Suspension
+(5)Power Train
+(6)Exhaust System
+(7)Head Lights
+(8)Signal Lights
+(9)Other Lights
+(10)Wipers
+(11)Wheels
+(12)Mirrors
+(13)Windows/Windshield
+(14)Body, Doors
+(15)Truck Coupling/Trailer Hitch/Safety Chains
+(16)Safety Systems
+(17)Vehicle Contributing Factors - No Details
+(97)Other
+(98)Not Reported
+(99)Unknown
+
+Crash Type 
+(0)No Impact
+(1)Drive Off Road
+(2)Control/Traction Loss
+(3)Avoid Collision With Veh., Ped., Anim.
+(4)Specifics Other
+(5)Specifics Unknown
+(6)Drive Off Road
+(7)Control/Traction Loss
+(8)Avoid Collision With Veh., Ped., Anim.
+(9)Specifics Other
+(10)Specifics Unknown
+(11)Parked Veh.
+(12)Sta. Object
+(13)Pedestrian/ Animal
+(14)End Departure
+(15)Specifics Other
+(16)Specifics Unknown
+(20)Stopped
+(21)Stopped, Straight
+(22)Stopped, Left
+(23)Stopped, Right
+(24)Slower
+(25)Slower, Going Straight
+(26)Slower, Going Left
+(27)Slower, Going Right
+(28)Decelerating 
+(Slowing)
+(29)Decelerating 
+(Slowing), Going Straight
+(30)Decelerating 
+(Slowing), Going Left
+(31)Decelerating 
+(Slowing), Going Right
+(32)Specifics Other
+(33)Specifics Unknown
+(34)Control/Traction Loss
+(35)Control/Traction Loss
+(36)Control/Traction Loss
+(37)Control/Traction Loss
+(38)Avoid Collision with Vehicle
+(39)Avoid Collision with Vehicle
+(40)Avoid Collision With Object
+(41)Avoid Collision With Object
+(42)Specifics Other
+(43)Specifics Unknown
+(44)Straight Ahead on Left
+(45)Straight Ahead on Left/Right
+(46)Changing Lanes to the Right
+(47)Changing Lanes to the Left
+(48)Specifics Other
+(49)Specifics Unknown
+(50)Lateral Move 
+(Left/Right)
+(51)Lateral Move 
+(Going Straight)
+(52)Specifics Other
+(53)Specifics Unknown
+(54)Control/Traction Loss
+(55)Control/Traction Loss
+(56)Control/Traction Loss
+(57)Control/Traction Loss
+(58)Avoid Collision With Vehicle
+(59)Avoid Collision With Vehicle
+(60)Avoid Collision With Object
+(61)Avoid Collision With Object
+(62)Specifics Other
+(63)Specifics Unknown
+(64)Lateral Move 
+(Left/Right)
+(65)Lateral Move 
+(Going Straight)
+(66)Specifics Other
+(67)Specifics Unknown
+(68)Initial Opposite Directions 
+(Left/Right)
+(69)Initial Opposite Directions 
+(Going Straight)
+(70)Initial Same Directions 
+(Turning Right)
+(71)Initial Same Directions 
+(Going Straight)
+(72)Initial Same Directions 
+(Turning Left)
+(73)Initial Same Directions 
+(Going Straight)
+(74)Specifics Other
+(75)Specifics Unknown
+(76)Turn Into Same Direction 
+(Turning Left)
+(77)Turn Into Same Direction 
+(Going Straight)
+(78)Turn Into Same Direction 
+(Turning Right)
+(79)Turn Into Same Direction 
+(Going Straight)
+(80)Turn Into Opposite Directions 
+(Turning Right)
+(81)Turn Into Opposite Directions 
+(Going Straight)
+(82)Turn Into Opposite Directions 
+(Turning Left)
+(83)Turn Into Opposite Directions 
+(Going Straight)
+(84)Specifics Other
+(85)Specifics Unknown
+(86)Striking from the Right
+(87)Struck on the Right
+(88)Striking from the Left
+(89)Struck on the left
+(90)Specifics Other
+(91)Specifics Unknown
+(92)Backing Veh.
+(93)Other Vehicle
+(98)Other Crash Type
+(99)Unknown
+
+Critical Event - PreCrash 
+(Category) 
+(1)This Vehicle Loss of Control Due To:
+(2)This Vehicle Traveling
+(3)Other Motor Vehicle in Lane
+(4)Other Motor Vehicle Encroaching into Lane
+(5)Pedestrian or Pedalcyclist or Other Non-Motorist
+(6)Object or Animal
+(7)Other
+(9)Unknown
+
+Critical Event - PreCrash 
+(Event)
+(1)Blow out/flat tire
+(2)S
+alled engine
+(3)Disabling vehicle failure 
+(e.g., wheel fell off) 
+(specify:)
+(4)Non-disabling vehicle problem 
+(e.g., hood flew up)
+(specify:)
+(5)Poor road conditions 
+(puddle, pothole, ice, etc.) 
+(Specify:)
+(6)Traveling too fast for conditions
+(8)Other cause of control loss 
+(specify:)
+(9)Unknown cause of control loss
+(10)Over the lane line on left side of travel lane
+(11)Over the lane line on right side of travel lane
+(12)Off the edge of the road on the left side
+(13)Off the edge of the road on the right side
+(14)End departure
+(15)Turning left at junction
+(16)Turning right at junction
+(17)Crossing over 
+(passing through) intersection
+(18)This vehicle decelerating
+(19)Unknown travel direction
+(50)Other vehicle stopped
+(51)Traveling in same direction with lower or steady speed
+(52)Traveling in same direction while decelerating
+(53)Traveling in same direction with higher speed
+(54)Traveling in opposite direction
+(55)In crossover
+(56)Backing
+(59)Unknown travel direction of the other motor vehicle in lane
+(60)From adjacent lane 
+(same direction) over left lane line
+(61)From adjacent lane 
+(same direction) over right lane line
+(62)From opposite direction over left lane line
+(63)From opposite direction over right lane line
+(64)From parking lane, median, shoulder, roadside
+(65)From crossing street, turning into same direction
+(66)From crossing street, across path
+(67)From crossing street, turning into opposite direction
+(68)From crossing street, intended path not known
+(70)From driveway, turning into same direction
+(71)From driveway, across path
+(72)From driveway, turning into opposite direction
+(73)From driveway, intended path not known
+(74)From entrance to limited access highway
+(78)Encroachment by other vehicle - details unknown
+(80)Pedestrian in road
+(81)Pedestrian approaching road
+(82)Pedestrian unknown location
+(83)Pedalcyclist or other non-motorist in road
+(84)Pedalcyclist or other non-motorist approaching road
+(85)Pedalcyclist or other non-motorist unknown location
+(87)Animal in road
+(88)Animal approaching road
+(89)Animal -unknown location
+(90)Object in road
+(91)Object approaching road
+(92)Object unknown location
+(98)Other critical precrash event 
+(specify:)
+(99)Unknown
+
+Device Functioning 
+(-1)Blank
+(0)No Controls
+(1)Device Not Functioning
+(2)Device Functioning-Functioning Improperly
+(3)Device Functioning Properly
+(8)Not Reported
+(9)Unknown
+
+Driver Distracted By 
+(0)Not Distracted
+(1)Looked But Did Not See
+(3)By Other Occupant
+(s)
+(4)By a Moving Object in Vehicle
+(5)While Talking or Listening to Cellular Phone
+(6)While Manipulating Cellular Phone
+(7)Adjusting Audio Or Climate Controls
+(9)While Using Other Component/Controls Integral to Vehicle
+(10)While Using or Reaching for Device/Object Brought into Vehicle
+(12)Distracted by Outside Person, Object or Event
+(13)Eating or Drinking
+(14)Smoking Related
+(15)Other Cellular Phone Related
+(16)No Driver Present/Unknown if Driver present
+(17)Distraction/Inattention
+(18)Distraction/Careless
+(19)Careless/Inattentive
+(92)Distraction 
+(Distracted), Details Unknown
+(93)Inattention 
+(Inattentive), Details Unknown
+(96)Not Reported
+(97)Lost in Thought / Day dreaming
+(98)Other Distraction
+(99)Unknown if Distracted
+
+Driver Maneuvered to Avoid 
+(0)Driver Did Not Maneuver to Avoid
+(1)Object
+(2)Poor Road Conditions 
+(Puddle, Ice, Pothole, etc.)
+(3)Live Animal
+(4)Motor Vehicle
+(5)Pedestrian, Pedalcyclist or Other Non-Motorist
+(92)Phantom/Non-Contact Motor Vehicle
+(95)No Driver Present/Unknown if Driver present
+(98)Not Reported
+(99)Unknown
+
+Driver
+(s) Vision Obscured By 
+(-1)Blank
+(0)No Obstruction Noted
+(1)Rain, Snow, Fog, Smoke, Sand, Dust
+(2)Reflected Glare, Bright Sunlight, Headlights
+(3)Curve, Hill or Other Roadway Design Feature
+(4)Building, Billboard, Other Structure
+(5)Trees, Crops, Vegetation
+(6)In-Transport Motor Vehicle 
+(including load)
+(7)Not In-Transport Motor Vehicle 
+(parked, working)
+(8)Splash or Spray of Passing Vehicle
+(9)Inadequate Defrost or Defog System
+(10)Inadequate Vehicle Lighting System
+(11)Obstruction Interior to the Vehicle
+(12)External Mirrors
+(13)Broken or Improperly Cleaned Windshield
+(14)Obstructing Angles on Vehicle
+(95)No Driver Present/Unknown if Driver present
+(97)Vision Obscured - No Details
+(98)Other Visual Obstruction
+(99)Unknown
+
+Pre - Impact Location
+(0)No Driver Present / Unknown if Driver Present
+(1)Stayed in original travel lane
+(2)Stayed on roadway, but left original travel lane
+(3)Stayed on roadway, not known if left original travel lane
+(4)Departed roadway
+(5)Remained off roadway
+(6)Returned to roadway
+(7)Entered roadway
+(9)Unknown
+
+Pre - Impact Stability 
+(0)No Driver Present / Unknown if Driver Present
+(1)Tracking
+(2)Skidding longitudi
+ally rotation less than 30 degrees
+(3)Skidding late
+ally clockwise rotation
+(4)Skidding late
+ally counterclockwise rotation
+(5)Skidding Late
+ally, Rotation Direction Unknown
+(7)Other vehicle loss-of-control 
+(specify:)
+(9)Precrash stability unknown
+
+Pre-Event Movement
+(Prior To Recognition Of Critical Event) 
+(-1)Blank
+(0)No Driver Present / Unknown if Driver Present
+(1)Going Straight
+(2)Decelerating in Road
+(3)Accelerating in Road
+(4)Starting in Road
+(5)Stopped in Roadway
+(6)Passing or Overtaking Another Vehicle
+(7)Disabled or "Parked" in Travel lane
+(8)Leaving a Parking Position
+(9)Entering a Parking Position
+(10)Turning Right
+(11)Turning Left
+(12)Making a U-turn
+(13)Backing Up 
+(other than for Parking Position)
+(14)Negotiating a Curve
+(15)Changing Lanes
+(16)Merging
+(17)Successful Avoidance Maneuver to a Previous Critical Event
+(98)Other
+(specify:)
+(99)Unknown
+
+Roadway Alignment
+(-1)Blank
+(0)Non-Trafficway or Driveway Access
+(1)Straight
+(2)Curve Right
+(3)Curve Left
+(4)Curve - Unknown Direction
+(8)Not Reported
+(9)Unknown
+
+Roadway Grade
+(-1)Blank
+(0)Non-Trafficway or Driveway Access
+(1)Level
+(2)Grade, Unknown Slope
+(3)Hillcrest
+(4)Sag 
+(Bottom)
+(5)Uphill
+(6)Downhill
+(8)Not Reported
+(9)Unknown
+
+Roadway Surface Condition
+(-1)Blank
+(0)Non-Trafficway or Driveway Access
+(1)Dry
+(2)Wet
+(3)Snow
+(4)Ice/Frost
+(5)Sand
+(6)Water 
+(Standing or Moving)
+(7)Oil
+(8)Other
+(10)Slush
+(11)Mud, Dirt or Gravel
+(98)Not Reported
+(99)Unknown
+
+Roadway Surface Type 
+(-1)Blank
+(0)Non-Trafficway or Driveway Access
+(1)Concrete
+(2)Blacktop, Bituminous, or Asphalt
+(3)Brick or Block
+(4)Slag, Gravel or Stone
+(5)Dirt
+(7)Other
+(8)Not Reported
+(9)Unknown
+
+Speed Limit
+(-1)Blank
+(0)No Statutory Limit/Non-Trafficway or Driveway Access
+(5)5 MPH
+(10)10 MPH
+(15)15 MPH
+(20)20 MPH
+(25)25 MPH
+(30)30 MPH
+(35)35 MPH
+(40)40 MPH
+(45)45 MPH
+(50)50 MPH
+(55)55 MPH
+(60)60 MPH
+(65)65 MPH
+(70)70 MPH
+(75)75 MPH
+(80)80 MPH
+(98)Not Reported
+(99)Unknown
+
+Total Lanes in Roadway 
+(-1)Blank
+(0)Non-Trafficway or Driveway Access
+(1)One lane
+(2)Two lanes
+(3)Three lanes
+(4)Four lanes
+(5)Five lanes
+(6)Six lanes
+(7)Seven or more lanes
+(8)Not Reported
+(9)Unknown
+
+Traffic Control Device 
+(-1)Blank
+(0)No Controls
+(1)Traffic control signal 
+(on colors) without Pedestrian Signal
+(2)Traffic control signal 
+(on colors) with Pedestrian Signal
+(3)Traffic control signal
+(on colors) not known whether or not Pedestrian Signal
+(4)Flashing Traffic Control Signal
+(7)Lane Use Control Signal
+(8)Other Highway Traffic Signal
+(9)Unknown Highway Traffic Signal
+(20)Stop Sign
+(21)Yield Sign
+(23)School Zone Sign/Device
+(28)Other Regulatory Sign
+(29)Unknown Regulatory Sign
+(40)Warning Sign
+(50)Person
+(65)Railway Crossing Device
+(97)Not Reported
+(98)Other
+(99)Unknown
+
+Trafficway Description
+(-1)Blank
+(0)Non-Trafficway or Driveway Access
+(1)Two-Way, Not Divided
+(2)Two-Way, Divided, Unprotected 
+(Painted > 4 Feet ) Median
+(3)Two-Way, Divided, Positive Median Barrier
+(4)One-Way Trafficway
+(5)Two-Way, Not Divided With a Continuous Left-Turn Lane
+(6)Entrance/Exit Ramp
+(7)Driveway Access
+(8)Not Reported
+(9)Unknown
