@@ -11,7 +11,7 @@ Can rich EMS response data coupled with incident state—including weather condi
 
 ## Datasets
 
-Two datasets that may come in handy for this prompt are the traffic-fatalities dataset from **FARS** (the Fatality Analysis Reporting System) and the EMS usage dataset from **NEMSIS** (the National EMS Information System):
+Two datasets that may come in handy for this prompt are the traffic-fatalities dataset from **FARS** (the Fatality Analysis Reporting System) and the EMS response dataset from **NEMSIS** (the National EMS Information System):
 
 **TODO: Clean up the rest of this section.**
 
@@ -21,10 +21,15 @@ Two datasets that may come in handy for this prompt are the traffic-fatalities d
 - Or see the full data dump for 2014 (in TSV form) in `/data`
 - See `fars-exploration.ipynb` for brief exploration of the data dump
 
-### NEMSIS (National EMS Information System)
+### NEMSIS EMS response dataset
 
-- 4GB data dump from 2014 (in TSV form) available at https://drive.google.com/open?id=0B72-YWd6iouWaU4tTjFrd2FtTk0
-- Coming soon: Makefile to automatically download and extract the data dump.
+NEMSIS has compiled a 4GB dataset of all EMS responses, organized into about 20 tables. To download and extract it, run `make data/nemsis` or you can manually download it from [here](https://www.dropbox.com/s/nbuuiuw7yxuw94a/NEMSIS-2014-public-dataset.tar.gz?dl=0).
+
+It may be easier to start with just the Illinois subset (150 MB) of the NEMSIS 2014 data, which is available separately. To download and extract it, run `make data/nemsis-illinois` or you can manually download it from [here](https://www.dropbox.com/s/qxs3vpehq8a3eyc/nemsis-illinois.tar.gz?dl=0).
+
+Note that there are some slight differences in data format between the national and Illinois datasets – for example, the tables in the Illinois dataset are CSV, while those in the national dataset use a different delimiter.
+
+To learn more about what the data contains and where it comes from, see the `ReadMeFirst.txt` file in the Illinois dataset.
 
 ## In This Repo
 
@@ -41,4 +46,4 @@ Two datasets that may come in handy for this prompt are the traffic-fatalities d
 ## Resources
 
 - The American Trauma Society hosts a [comprehensive index of trauma centers](http://www.amtrauma.org/?page=FindTraumaCenter) in the United States that incorporates service information.
-- The National Highway Traffic Safety Administration's National Center for Statistics and Analysis [open data portal](http://www.nhtsa.gov/NCSA) with troves of high-level statistics. They also run the [Fatality Analysis Reporting System](http://www-fars.nhtsa.dot.gov//QueryTool/QuerySection/SelectYear.aspx), which can be queried year-by-year for individual traffic accident conditions and outcomes _([see the README section on FARS data](#fars-traffic-fatalities))_.
+- The National Highway Traffic Safety Administration's National Center for Statistics and Analysis [open data portal](http://www.nhtsa.gov/NCSA) with troves of high-level statistics. They also run the [Fatality Analysis Reporting System](http://www-fars.nhtsa.dot.gov//QueryTool/QuerySection/SelectYear.aspx), which can be queried year-by-year for individual traffic accident conditions and outcomes _([see the README section on FARS data](#fars-traffic-fatalities-dataset))_.
