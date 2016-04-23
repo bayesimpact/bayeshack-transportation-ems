@@ -13,8 +13,6 @@ Can rich EMS response data coupled with incident state—including weather condi
 
 Two datasets that may come in handy for this prompt are the traffic-fatalities dataset from **FARS** (the Fatality Analysis Reporting System) and the EMS response dataset from **NEMSIS** (the National EMS Information System):
 
-**TODO: Clean up the rest of this section.**
-
 ### FARS traffic fatalities dataset
 
 [FARS](http://www-fars.nhtsa.dot.gov//QueryTool/QuerySection/SelectYear.aspx) has detailed data regarding crashes, vehicles, drivers, passengers, and pedestrians involved in all traffic fatalities from 1994 to 2014. You can use the [web interface](http://www-fars.nhtsa.dot.gov//QueryTool/QuerySection/SelectYear.aspx) to query the data fields you want for a given year, or take a look at `data/fatalities-2014-allfields.tsv`, a dump that we prepared of all 2014 crash/driver/occupant/vehicle/pre-crash data fields from FARS, in TSV format.
