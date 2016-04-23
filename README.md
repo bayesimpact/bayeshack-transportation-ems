@@ -11,7 +11,7 @@ Can rich EMS response data coupled with incident state—including weather condi
 
 ## Datasets
 
-Two datasets that may come in handy for this prompt are the traffic-fatalities dataset from **FARS** (the Fatality Analysis Reporting System) and the EMS response dataset from **NEMSIS** (the National EMS Information System):
+Two datasets that may come in handy for this prompt are the traffic-fatalities dataset from **FARS** (the Fatality Analysis Reporting System) and the EMS response dataset from **NEMSIS** (the National EMS Information System).
 
 ### FARS traffic fatalities dataset
 
