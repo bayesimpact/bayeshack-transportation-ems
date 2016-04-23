@@ -17,19 +17,19 @@ Two datasets that may come in handy for this prompt are the traffic-fatalities d
 
 ### FARS traffic fatalities dataset
 
-- Can be queried from http://www-fars.nhtsa.dot.gov//QueryTool/QuerySection/SelectYear.aspx
-- Or see the full data dump for 2014 (in TSV form) in `/data`
-- See `fars-exploration.ipynb` for brief exploration of the data dump
+[FARS](http://www-fars.nhtsa.dot.gov//QueryTool/QuerySection/SelectYear.aspx) has detailed data regarding crashes, vehicles, drivers, passengers, and pedestrians involved in all traffic fatalities from 1994 to 2014. You can use the [web interface](http://www-fars.nhtsa.dot.gov//QueryTool/QuerySection/SelectYear.aspx) to query the data fields you want for a given year, or take a look at `data/fatalities-2014-allfields.tsv`, a dump that we prepared of all 2014 crash/driver/occupant/vehicle/pre-crash data fields from FARS, in TSV format.
+
+We have prepared a brief introduction to the FARS dataset, in [an iPython (Jupyter) notebook](https://github.com/bayesimpact/bayeshack-transportation-ems/blob/master/analysis/fars-exploration.ipynb).
 
 ### NEMSIS EMS response dataset
 
-NEMSIS has compiled a 4GB dataset of all EMS responses, organized into about 20 tables. To download and extract it, run `make data/nemsis` or you can manually download it from [here](https://www.dropbox.com/s/nbuuiuw7yxuw94a/NEMSIS-2014-public-dataset.tar.gz?dl=0).
+NEMSIS has compiled a 4GB dataset of all EMS responses, organized into about 20 tables. To download and extract it, run `make data/nemsis` (or you can manually download it from [here](https://www.dropbox.com/s/nbuuiuw7yxuw94a/NEMSIS-2014-public-dataset.tar.gz?dl=0)).
 
-It may be easier to start with just the Illinois subset (150 MB) of the NEMSIS 2014 data, which is available separately. To download and extract it, run `make data/nemsis-illinois` or you can manually download it from [here](https://www.dropbox.com/s/qxs3vpehq8a3eyc/nemsis-illinois.tar.gz?dl=0).
+It may be easier to start with just the Illinois subset (150 MB) of the NEMSIS 2014 data, which is available separately. To download and extract it, run `make data/nemsis-illinois` (or you can manually download it from [here](https://www.dropbox.com/s/qxs3vpehq8a3eyc/nemsis-illinois.tar.gz?dl=0)).
 
 Note that there are some slight differences in data format between the national and Illinois datasets – for example, the tables in the Illinois dataset are CSV, while those in the national dataset use a different delimiter.
 
-To learn more about what the data contains and where it comes from, see the `ReadMeFirst.txt` file in the Illinois dataset.
+To learn more about what the dataset contains and where it comes from, see the `ReadMeFirst.txt` file in the Illinois dataset.
 
 ## In This Repo
 
