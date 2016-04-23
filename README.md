@@ -21,7 +21,7 @@ We have prepared a brief introduction to the FARS dataset, in [an iPython (Jupyt
 
 ### NEMSIS EMS response dataset
 
-NEMSIS has compiled a 4GB dataset of all EMS responses, organized into about 20 tables. To download and extract it, run `make data/nemsis` (or you can manually download it from [here](https://www.dropbox.com/s/nbuuiuw7yxuw94a/NEMSIS-2014-public-dataset.tar.gz?dl=0)).
+NEMSIS has compiled a 4GB dataset of data pertaining to all EMS responses in the United States in 2014, organized into about 20 tables. To download and extract it, run `make data/nemsis` (or you can manually download it from [here](https://www.dropbox.com/s/nbuuiuw7yxuw94a/NEMSIS-2014-public-dataset.tar.gz?dl=0)).
 
 It may be easier to start with just the Illinois subset (150 MB) of the NEMSIS 2014 data, which is available separately. To download and extract it, run `make data/nemsis-illinois` (or you can manually download it from [here](https://www.dropbox.com/s/qxs3vpehq8a3eyc/nemsis-illinois.tar.gz?dl=0)).
 
